@@ -863,7 +863,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../src/accountreg.ui" line="276"/>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отмена</translation>
+        <translation>О&amp;тмена</translation>
     </message>
     <message>
         <location filename="../src/accountreg.ui" line="86"/>
@@ -3243,7 +3243,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <location filename="../src/filetransdlg.cpp" line="803"/>
         <location filename="../src/filetransdlg.cpp" line="848"/>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отмена</translation>
+        <translation>О&amp;тмена</translation>
     </message>
     <message>
         <location filename="../src/filetransdlg.cpp" line="774"/>
@@ -3592,7 +3592,7 @@ Reason: %3</source>
     <message>
         <location filename="../src/filetransdlg.cpp" line="1354"/>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отмена</translation>
+        <translation>О&amp;тмена</translation>
     </message>
     <message>
         <location filename="../src/filetransdlg.cpp" line="1357"/>
@@ -8582,7 +8582,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../src/psiaccount.cpp" line="5197"/>
         <source>Do &amp;nothing</source>
-        <translation>&amp;Отмена</translation>
+        <translation>О&amp;тмена</translation>
     </message>
     <message>
         <location filename="../src/psiaccount.cpp" line="2262"/>
@@ -12397,7 +12397,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/statusdlg.cpp" line="194"/>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отмена</translation>
+        <translation>О&amp;тмена</translation>
     </message>
     <message>
         <location filename="../src/statusdlg.cpp" line="248"/>
