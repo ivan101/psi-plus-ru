@@ -20,6 +20,14 @@
     </message>
 </context>
 <context>
+    <name>CloseButton</name>
+    <message>
+        <location filename="../src/gui/widgets/qtabbar.cpp" line="2259"/>
+        <source>Close Tab</source>
+        <translation>Закрыть таб</translation>
+    </message>
+</context>
+<context>
     <name>MainWindow</name>
     <message>
         <location filename="../src/3rdparty/webkit/WebKit/qt/QtLauncher/main.cpp" line="333"/>
@@ -102,8 +110,6 @@ have libgstreamer-plugins-base installed.</source>
         <location filename="../src/3rdparty/kdebase/runtime/phonon/gstreamer/mediaobject.cpp" line="181"/>
         <source>A required codec is missing. You need to install the following codec(s) to play this content: %0</source>
         <translation>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -6412,16 +6418,12 @@ Please choose a different file name.</source>
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
         <translation>
             <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../src/xmlpatterns/functions/qabstractfunctionfactory.cpp" line="61"/>
         <source>%1 requires at least %n argument(s). %2 is therefore invalid.</source>
         <translation>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
