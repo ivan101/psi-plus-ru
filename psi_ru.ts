@@ -11383,6 +11383,11 @@ Reason: %1</source>
 <context>
     <name>Screenshot</name>
     <message>
+        <location filename="../screenshot.cpp" line="5"/>
+        <source>Screenshot</source>
+        <translation>Снимок экрана</translation>
+    </message>
+    <message>
         <location filename="../screenshot.cpp" line="73"/>
         <source>Save</source>
         <translation>Сохранить</translation>
@@ -11450,6 +11455,24 @@ Please check that the dir is correct.
 %1</source>
         <translation>Не удалось загрузить файл на FTP-сервер.
 %1</translation>
+    </message>
+</context>
+<context>
+    <name>ScreenshotPlugin</name>
+    <message>
+        <location filename="../screenshotplugin.cpp" line="118"/>
+        <source>ShortCut:</source>
+        <translation>Комбинация клавиш:</translation>
+    </message>
+    <message>
+        <location filename="../screenshotplugin.cpp" line="120"/>
+        <source>Format:</source>
+        <translation>Формат:</translation>
+    </message>
+    <message>
+        <location filename="../screenshotplugin.cpp" line="122"/>
+        <source>File Name:</source>
+        <translation>Имя файла:</translation>
     </message>
 </context>
 <context>
