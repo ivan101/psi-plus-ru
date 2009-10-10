@@ -783,7 +783,7 @@ to
     <message>
         <location filename="../src/qt3support/dialogs/q3wizard.cpp" line="149"/>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отмена</translation>
+        <translation>О&amp;тмена</translation>
     </message>
     <message>
         <location filename="../src/qt3support/dialogs/q3wizard.cpp" line="150"/>
@@ -891,7 +891,7 @@ to
     <message>
         <location filename="../src/activeqt/container/ui_qaxselect.h" line="128"/>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отмена</translation>
+        <translation>О&amp;тмена</translation>
     </message>
     <message>
         <location filename="../src/activeqt/container/ui_qaxselect.h" line="129"/>
@@ -1208,7 +1208,7 @@ to
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отмена</translation>
+        <translation>О&amp;тмена</translation>
     </message>
     <message>
         <location filename="../src/gui/widgets/qdialogbuttonbox.cpp" line="537"/>
@@ -1298,7 +1298,7 @@ to
     <message>
         <location filename="../src/gui/widgets/qdialogbuttonbox.cpp" line="525"/>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
+        <translation>&amp;ОК</translation>
     </message>
 </context>
 <context>
