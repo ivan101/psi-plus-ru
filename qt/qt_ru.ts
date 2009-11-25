@@ -651,7 +651,7 @@ to
     <message>
         <location filename="../src/qt3support/text/q3textedit.cpp" line="5420"/>
         <source>Select All</source>
-        <translation>Выделить все</translation>
+        <translation>Выделить всё</translation>
     </message>
 </context>
 <context>
@@ -834,17 +834,17 @@ to
     <message>
         <location filename="../src/gui/widgets/qabstractspinbox.cpp" line="1163"/>
         <source>&amp;Step up</source>
-        <translation></translation>
+        <translation>Шаг вв&amp;ерх</translation>
     </message>
     <message>
         <location filename="../src/gui/widgets/qabstractspinbox.cpp" line="1165"/>
         <source>Step &amp;down</source>
-        <translation></translation>
+        <translation>Шаг вн&amp;из</translation>
     </message>
     <message>
         <location filename="../src/gui/widgets/qabstractspinbox.cpp" line="1157"/>
         <source>&amp;Select All</source>
-        <translation></translation>
+        <translation>В&amp;ыделить всё</translation>
     </message>
 </context>
 <context>
@@ -2443,7 +2443,7 @@ Do you want to delete it anyway?</source>
     <message>
         <location filename="../src/gui/widgets/qlineedit.cpp" line="2549"/>
         <source>Select All</source>
-        <translation>Выделить все</translation>
+        <translation>Выделить всё</translation>
     </message>
     <message>
         <location filename="../src/gui/widgets/qlineedit.cpp" line="2545"/>
@@ -5228,7 +5228,7 @@ Please choose a different file name.</source>
     <message>
         <location filename="../src/gui/text/qtextcontrol.cpp" line="1962"/>
         <source>Select All</source>
-        <translation>Выделить все</translation>
+        <translation>Выделить всё</translation>
     </message>
 </context>
 <context>
