@@ -2236,13 +2236,13 @@ Do you still want to close the window?</source>
         <location filename="../src/contactview.cpp" line="1132"/>
         <location filename="../src/contactview.cpp" line="1160"/>
         <source>Remove Group</source>
-        <translation>Удаление группы</translation>
+        <translation>Удалить группу</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1133"/>
         <location filename="../src/contactview.cpp" line="1172"/>
         <source>Remove Group and Contacts</source>
-        <translation>Удаление группы вместе с контактами</translation>
+        <translation>Удалить группу вместе с контактами</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1618"/>
