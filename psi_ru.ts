@@ -6571,7 +6571,7 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_plugins.ui" line="81"/>
         <source>Load this plugin</source>
-        <translation>Загрузить этот модуль</translation>
+        <translation>Активировать</translation>
     </message>
     <message>
         <location filename="../src/options/opt_plugins.ui" line="63"/>
@@ -6591,12 +6591,12 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_plugins.ui" line="53"/>
         <source>Plugin Location:</source>
-        <translation>Расположение модуля:</translation>
+        <translation>Расположение:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_plugins.ui" line="26"/>
         <source>Plugin Name:</source>
-        <translation>Название модуля:</translation>
+        <translation>Название:</translation>
     </message>
 </context>
 <context>
