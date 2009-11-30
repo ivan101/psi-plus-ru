@@ -119,7 +119,7 @@ Copyright © 2001-2009 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 10.10.2009</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 30.10.2009</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="128"/>
@@ -6330,7 +6330,7 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_chat.ui" line="69"/>
         <source>Use tabbed mode:</source>
-        <translation>Использовать режим табов:</translation>
+        <translation>Использовать режим вкладок:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.ui" line="132"/>
@@ -6425,7 +6425,7 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_chat.ui" line="125"/>
         <source>Show tab buttons</source>
-        <translation>Показывать кнопки табов</translation>
+        <translation>Показывать кнопки вкладок</translation>
     </message>
 </context>
 <context>
@@ -7349,7 +7349,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_chat.cpp" line="80"/>
         <source>Makes Psi open chats in a tabbed window.</source>
-        <translation>Открывать по умолчанию чаты в режиме табов.</translation>
+        <translation>Открывать по умолчанию чаты в режиме вкладок.</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.cpp" line="71"/>
@@ -11738,12 +11738,12 @@ Reason: %1</source>
     <message>
         <location filename="../src/option_translations.cpp" line="47"/>
         <source>Switch to the next tab</source>
-        <translation>Перейти к следующему табу</translation>
+        <translation>Перейти к следующей вкладке</translation>
     </message>
     <message>
         <location filename="../src/option_translations.cpp" line="48"/>
         <source>Switch to the previous tab</source>
-        <translation>Перейти к предыдущему табу</translation>
+        <translation>Перейти к предыдущей вкладке</translation>
     </message>
     <message>
         <location filename="../src/option_translations.cpp" line="52"/>
@@ -11829,12 +11829,12 @@ Reason: %1</source>
     <message>
         <location filename="../src/option_translations.cpp" line="69"/>
         <source>Close the current window/tab</source>
-        <translation>Закрыть текущее окно/таб</translation>
+        <translation>Закрыть текущее окно/вкладку</translation>
     </message>
     <message>
         <location filename="../src/option_translations.cpp" line="70"/>
         <source>Hide the current window/tab</source>
-        <translation>Скрыть текущее окно/таб</translation>
+        <translation>Скрыть текущее окно/вкладку</translation>
     </message>
     <message>
         <location filename="../src/option_translations.cpp" line="71"/>
@@ -12522,47 +12522,47 @@ Reason: %1</source>
     <message>
         <location filename="../src/tabs/tabdlg.cpp" line="283"/>
         <source>Close Current Tab</source>
-        <translation>Закрыть таб</translation>
+        <translation>Закрыть вкладку</translation>
     </message>
     <message>
         <location filename="../src/tabs/tabdlg.cpp" line="243"/>
         <source>Close Tab</source>
-        <translation>Закрыть таб</translation>
+        <translation>Закрыть вкладку</translation>
     </message>
     <message>
         <location filename="../src/tabs/tabdlg.cpp" line="282"/>
         <source>Detach Current Tab</source>
-        <translation>Отсоединить таб</translation>
+        <translation>Отсоединить вкладку</translation>
     </message>
     <message>
         <location filename="../src/tabs/tabdlg.cpp" line="240"/>
         <source>Detach Tab</source>
-        <translation>Отсоединить таб</translation>
+        <translation>Отсоединить вкладку</translation>
     </message>
     <message>
         <location filename="../src/tabs/tabdlg.cpp" line="238"/>
         <source>Hide Tab</source>
-        <translation>Скрыть таб</translation>
+        <translation>Скрыть вкладку</translation>
     </message>
     <message>
         <location filename="../src/tabs/tabdlg.cpp" line="248"/>
         <source>Send Tab To</source>
-        <translation>Присоединить таб к</translation>
+        <translation>Присоединить вкладку к</translation>
     </message>
     <message>
         <location filename="../src/tabs/tabdlg.cpp" line="280"/>
         <source>Hide Current Tab</source>
-        <translation>Скрыть текущий таб</translation>
+        <translation>Скрыть текущую вкладку</translation>
     </message>
     <message>
         <location filename="../src/tabs/tabdlg.cpp" line="281"/>
         <source>Hide All Tabs</source>
-        <translation>Скрыть все табы</translation>
+        <translation>Скрыть все вкладки</translation>
     </message>
     <message>
         <location filename="../src/tabs/tabdlg.cpp" line="286"/>
         <source>Send Current Tab To</source>
-        <translation>Присоединить таб к</translation>
+        <translation>Присоединить вкладку к</translation>
     </message>
     <message>
         <location filename="../src/tabs/tabdlg.cpp" line="298"/>

@@ -24,7 +24,7 @@
     <message>
         <location filename="../src/gui/widgets/qtabbar.cpp" line="2259"/>
         <source>Close Tab</source>
-        <translation>Закрыть таб</translation>
+        <translation>Закрыть вкладку</translation>
     </message>
 </context>
 <context>
