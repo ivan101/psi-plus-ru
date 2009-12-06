@@ -194,7 +194,7 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
     <message>
         <location filename="../src/aboutdlg.cpp" line="118"/>
         <source>ArchLinux x86_64 Packager, PKGBUILD Author and Patcher</source>
-        <translation>Сборщик под ArchLinux x86_6, автор PKGBUILD и патчер</translation>
+        <translation>Сборщик под ArchLinux x86_64, автор PKGBUILD и патчер</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="131"/>
