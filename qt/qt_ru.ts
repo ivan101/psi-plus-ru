@@ -793,7 +793,7 @@ to
     <message>
         <location filename="../src/qt3support/dialogs/q3wizard.cpp" line="151"/>
         <source>&amp;Next &gt;</source>
-        <translation>&amp;Вперед &gt;</translation>
+        <translation>&amp;Вперёд &gt;</translation>
     </message>
     <message>
         <location filename="../src/qt3support/dialogs/q3wizard.cpp" line="152"/>
@@ -1546,7 +1546,7 @@ Do you want to delete it anyway?</source>
     <message>
         <location filename="../src/gui/ui_qfiledialog.h" line="269"/>
         <source>Forward</source>
-        <translation>Вперед</translation>
+        <translation>Вперёд</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qfiledialog.cpp" line="465"/>
@@ -4651,7 +4651,7 @@ Please choose a different file name.</source>
     <message>
         <location filename="../src/gui/kernel/qkeysequence.cpp" line="310"/>
         <source>Forward</source>
-        <translation>Вперед</translation>
+        <translation>Вперёд</translation>
     </message>
     <message>
         <location filename="../src/gui/kernel/qkeysequence.cpp" line="311"/>
@@ -5749,12 +5749,12 @@ Please choose a different file name.</source>
     <message>
         <location filename="../src/gui/dialogs/qwizard.cpp" line="111"/>
         <source>&amp;Next</source>
-        <translation>&amp;Вперед</translation>
+        <translation>&amp;Вперёд</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qwizard.cpp" line="111"/>
         <source>&amp;Next &gt;</source>
-        <translation>&amp;Вперед &gt;</translation>
+        <translation>&amp;Вперёд &gt;</translation>
     </message>
 </context>
 <context>
