@@ -1253,7 +1253,7 @@ to
     <message>
         <location filename="../src/gui/widgets/qdialogbuttonbox.cpp" line="560"/>
         <source>Yes to &amp;All</source>
-        <translation></translation>
+        <translation>Да для &amp;всех</translation>
     </message>
     <message>
         <location filename="../src/gui/widgets/qdialogbuttonbox.cpp" line="563"/>
