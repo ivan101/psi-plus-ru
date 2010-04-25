@@ -5949,7 +5949,7 @@ You lost the game.</source>
     <message>
         <location filename="../src/geolocation.ui" line="+14"/>
         <source>Set GeoLocation</source>
-        <translation>Установить местоположение</translation>
+        <translation>Установить геолокацию</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -6019,7 +6019,7 @@ You lost the game.</source>
     <message>
         <location line="+20"/>
         <source>A natural-language name for or description of the location</source>
-        <translation>Название страны на «родном» языке или описание местоположения</translation>
+        <translation>Название страны на «родном» языке или описание геолокации</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -6119,7 +6119,7 @@ You lost the game.</source>
     <message>
         <location line="+20"/>
         <source>A catch-all element that captures any other information about the location</source>
-        <translation>Напишите сюда любую дополнительную информацию о Вашем местоположении</translation>
+        <translation>Напишите сюда любую дополнительную информацию о Вашей геолокации</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -6726,7 +6726,7 @@ Are you sure you want to do this?</source>
     <message>
         <location line="+12"/>
         <source>Mood iconsets</source>
-        <translation>Иконки настроения</translation>
+        <translation>Иконки настроений</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -8310,12 +8310,12 @@ Tags: %1</source>
     <message>
         <location line="+7"/>
         <source>Request receipts</source>
-        <translation>Запрашивать подтверждения</translation>
+        <translation>Запрашивать отчёт о доставке</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Send receipts</source>
-        <translation>Отправлять подтверждения</translation>
+        <translation>Отправлять отчёт о доставке</translation>
     </message>
     <message>
         <location line="+70"/>
@@ -8702,7 +8702,7 @@ Tags: %1</source>
     <message>
         <location line="+28"/>
         <source>for mucs, chats and roster in one window</source>
-        <translation>для чатов, конференций и ростера в одном окне</translation>
+        <translation>всё в одном окне</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -9849,7 +9849,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_iconset.cpp" line="+873"/>
         <source>Activity</source>
-        <translation>Занятие</translation>
+        <translation>Занятия</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -16530,11 +16530,13 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <location filename="../src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="+68"/>
+        <location filename="../src/widgets/typeaheadfind.cpp" line="-91"/>
         <source>Search: </source>
-        <translation>Искать:</translation>
+        <translation>Искать: </translation>
     </message>
     <message>
         <location line="+21"/>
+        <location filename="../src/widgets/typeaheadfind.cpp" line="+17"/>
         <source>&amp;Case sensitive</source>
         <translation>&amp;Чувствительно к регистру</translation>
     </message>
