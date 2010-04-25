@@ -61,10 +61,6 @@
         <translation>О программе</translation>
     </message>
     <message>
-        <source>About Psi</source>
-        <translation type="obsolete">О программе</translation>
-    </message>
-    <message>
         <location line="-25"/>
         <source>psi/psiplus_logo</source>
         <translation type="unfinished"></translation>
@@ -2691,13 +2687,6 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
-    <name>ClientStream</name>
-    <message>
-        <source>Offered mechanisms: </source>
-        <translation type="obsolete">Предлагаемые механизмы: </translation>
-    </message>
-</context>
-<context>
     <name>ConferenceLogger</name>
     <message>
         <location filename="../src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="+141"/>
@@ -4632,49 +4621,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
 </context>
 <context>
-    <name>Features::FeatureName</name>
-    <message>
-        <source>Add to roster</source>
-        <translation type="obsolete">Добавить в ростер</translation>
-    </message>
-    <message>
-        <source>ERROR: Incorrect usage of Features class</source>
-        <translation type="obsolete">Ошибка: неправильное использование класса Features</translation>
-    </message>
-    <message>
-        <source>Execute command</source>
-        <translation type="obsolete">Выполнить команду</translation>
-    </message>
-    <message>
-        <source>Gateway</source>
-        <translation type="obsolete">Шлюз</translation>
-    </message>
-    <message>
-        <source>Groupchat</source>
-        <translation type="obsolete">Конференции</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation type="obsolete">Нет</translation>
-    </message>
-    <message>
-        <source>Register</source>
-        <translation type="obsolete">Зарегистрироваться</translation>
-    </message>
-    <message>
-        <source>Search</source>
-        <translation type="obsolete">Найти</translation>
-    </message>
-    <message>
-        <source>Service Discovery</source>
-        <translation type="obsolete">Обзор сервисов</translation>
-    </message>
-    <message>
-        <source>VCard</source>
-        <translation type="obsolete">vCard</translation>
-    </message>
-</context>
-<context>
     <name>FigureDialog</name>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="+17"/>
@@ -5479,10 +5425,6 @@ Reason: %1</source>
         <translation>&amp;Найти</translation>
     </message>
     <message>
-        <source>has set the topic to: %1</source>
-        <translation type="obsolete">меняет тему на: %1</translation>
-    </message>
-    <message>
         <location line="+781"/>
         <source>Kicked</source>
         <translation>Выкинут</translation>
@@ -5525,10 +5467,6 @@ Reason: %1</source>
         <translation>Комната уничтожена</translation>
     </message>
     <message>
-        <source>The topic has been set to: %1</source>
-        <translation type="obsolete">Тема установлена в: %1</translation>
-    </message>
-    <message>
         <location line="-17"/>
         <source>This room has been destroyed.</source>
         <translation>Комнаты больше не существует.</translation>
@@ -5562,14 +5500,6 @@ Reason: %1</source>
         <location line="-8"/>
         <source>You have been removed from the room due to an affiliation change</source>
         <translation>Вы удалены из конференции в связи с изменением ранга</translation>
-    </message>
-    <message>
-        <source>Set Groupchat Topic</source>
-        <translation type="obsolete">Тема конференции</translation>
-    </message>
-    <message>
-        <source>Enter a topic:</source>
-        <translation type="obsolete">Указать тему:</translation>
     </message>
     <message>
         <location line="-202"/>
@@ -6231,10 +6161,6 @@ You lost the game.</source>
 <context>
     <name>GmailNotifyPlugin</name>
     <message>
-        <source>Notification On/Off</source>
-        <translation type="obsolete">Уведомления Вкл/Откл</translation>
-    </message>
-    <message>
         <location filename="../src/plugins/generic/gmailnotifyplugin/gmailnotifyplugin.cpp" line="+108"/>
         <source>Notification</source>
         <translation type="unfinished"></translation>
@@ -6397,17 +6323,9 @@ You lost the game.</source>
         <translation>Вы достигли начала истории сообщений.</translation>
     </message>
     <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Закрыть</translation>
-    </message>
-    <message>
         <location line="-203"/>
         <source>Confirm erase all</source>
         <translation>Подтверждение удаления</translation>
-    </message>
-    <message>
-        <source>Er&amp;ase All</source>
-        <translation type="obsolete">&amp;Удалить все</translation>
     </message>
     <message>
         <location line="+170"/>
@@ -6557,38 +6475,6 @@ Are you sure you want to do this?</source>
 </context>
 <context>
     <name>HistoryView</name>
-    <message>
-        <source>Copy</source>
-        <translation type="obsolete">Копировать</translation>
-    </message>
-    <message>
-        <source>Date</source>
-        <translation type="obsolete">Дата</translation>
-    </message>
-    <message>
-        <source>From</source>
-        <translation type="obsolete">От</translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation type="obsolete">Открыть</translation>
-    </message>
-    <message>
-        <source>Origin</source>
-        <translation type="obsolete">Источник</translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation type="obsolete">Текст</translation>
-    </message>
-    <message>
-        <source>To</source>
-        <translation type="obsolete">К</translation>
-    </message>
-    <message>
-        <source>Type</source>
-        <translation type="obsolete">Тип</translation>
-    </message>
     <message>
         <location filename="../src/plugins/generic/cleanerplugin/common.cpp" line="+44"/>
         <source>Close</source>
@@ -7347,13 +7233,6 @@ to play chess. He wants to play %2.</source>
         <location line="+7"/>
         <source>Play Black</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>JT_VCard</name>
-    <message>
-        <source>No VCard available</source>
-        <translation type="obsolete">vCard недоступен</translation>
     </message>
 </context>
 <context>
@@ -8146,13 +8025,6 @@ Proceed?</source>
     </message>
 </context>
 <context>
-    <name>MainWin::Private</name>
-    <message>
-        <source>Diagnostics</source>
-        <translation type="obsolete">Диагностика</translation>
-    </message>
-</context>
-<context>
     <name>MainWindow</name>
     <message>
         <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="+46"/>
@@ -8701,10 +8573,6 @@ Tags: %1</source>
 <context>
     <name>OptApplication</name>
     <message>
-        <source>Auto-resize contact list</source>
-        <translation type="obsolete">Автоматически изменять размер ростера</translation>
-    </message>
-    <message>
         <location filename="../src/options/opt_application.ui" line="+171"/>
         <source>Data transfer external address:</source>
         <translation>Внешний адрес для передачи данных:</translation>
@@ -8763,18 +8631,6 @@ Tags: %1</source>
         <location line="-81"/>
         <source>Remember window sizes</source>
         <translation>Запоминать размеры окон</translation>
-    </message>
-    <message>
-        <source>Roster window always on top</source>
-        <translation type="obsolete">Окно ростера всегда наверху</translation>
-    </message>
-    <message>
-        <source>Show menubar</source>
-        <translation type="obsolete">Отображать панель меню в ростере</translation>
-    </message>
-    <message>
-        <source>Use left-click for menu</source>
-        <translation type="obsolete">Вызов меню левой кнопкой мыши</translation>
     </message>
     <message>
         <location line="+62"/>
@@ -9772,18 +9628,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Отображать иконку Psi в трее.</translation>
     </message>
     <message>
-        <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="obsolete">Помещать основное окно Psi поверх всех других окон.</translation>
-    </message>
-    <message>
-        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="obsolete">Автоматически изменять размер основного окна для отображения всех контактов.</translation>
-    </message>
-    <message>
-        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="obsolete">Обычно при клике правой кнопкой мыши по контакту открывается контекстное меню.  Отметьте эту опцию, если хотите использовать для этого левую кнопку.</translation>
-    </message>
-    <message>
         <location line="+2"/>
         <source>Normally, single-clicking on the Psi docklet icon brings the main window to the foreground.  Check this option if you would rather use a double-click.</source>
         <translation>Обычно при клике мышью по иконке Psi, расположенной в трее, открывается основное окно.  Включите эту опцию, если хотите использовать для этого двойной клик.</translation>
@@ -9802,10 +9646,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <location line="+3"/>
         <source>(TCP: %1, UDP: %1-%2)</source>
         <translation></translation>
-    </message>
-    <message>
-        <source>Shows the menubar in the application window.</source>
-        <translation type="obsolete">Показывать меню в окне приложения.</translation>
     </message>
     <message>
         <location line="-100"/>
@@ -11980,14 +11820,6 @@ Reason: %1.</source>
 <context>
     <name>PsiChatDlg</name>
     <message>
-        <source>-- Attached URL(s) --</source>
-        <translation type="obsolete">-- Вложенные URL --</translation>
-    </message>
-    <message>
-        <source>%1 says:</source>
-        <translation type="obsolete">%1 пишет:</translation>
-    </message>
-    <message>
         <location filename="../src/psichatdlg.cpp" line="+228"/>
         <source>Input command...</source>
         <translation>Введите команду...</translation>
@@ -12068,18 +11900,6 @@ Reason: %1.</source>
         <location line="+103"/>
         <source>Command&gt;</source>
         <translation>Команда&gt;</translation>
-    </message>
-    <message>
-        <source>Desc:</source>
-        <translation type="obsolete">Описание:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="obsolete">Тема:</translation>
-    </message>
-    <message>
-        <source>URL:</source>
-        <translation type="obsolete">URL:</translation>
     </message>
     <message>
         <location line="-292"/>
@@ -12552,62 +12372,6 @@ This may mean you are already running another instance of Psi. You may experienc
         <location line="+7"/>
         <source>&amp;Picture</source>
         <translation>&amp;Аватар</translation>
-    </message>
-    <message>
-        <source>&amp;Unblock</source>
-        <translation type="obsolete">&amp;Разблокировать</translation>
-    </message>
-    <message>
-        <source>Invitation</source>
-        <translation type="obsolete">Приглашение</translation>
-    </message>
-    <message>
-        <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="obsolete">Послано приглашение в конференцию &lt;b&gt;%1&lt;/b&gt; .</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">Добавить</translation>
-    </message>
-    <message>
-        <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation type="obsolete">&lt;b&gt;%1&lt;/b&gt; добавлен в список контактов/авторизован.</translation>
-    </message>
-    <message>
-        <source>Authorize</source>
-        <translation type="obsolete">Подписка</translation>
-    </message>
-    <message>
-        <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="obsolete">Подписка к &lt;b&gt;%1&lt;/b&gt; отправлена.</translation>
-    </message>
-    <message>
-        <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="obsolete">Запрошена подписка у &lt;b&gt;%1&lt;/b&gt;.</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="obsolete">Удалить</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="obsolete">Удалить подписку у &lt;b&gt;%1&lt;/b&gt;?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="obsolete">&amp;Да</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="obsolete">&amp;Нет</translation>
-    </message>
-    <message>
-        <source>Choose an Image</source>
-        <translation type="obsolete">Выберите изображение</translation>
-    </message>
-    <message>
-        <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="obsolete">Все файлы (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -13312,10 +13076,6 @@ Would you like to activate that session now?</source>
         <translation>Общая ошибка проверки сертификата.</translation>
     </message>
     <message>
-        <source>Geolocation</source>
-        <translation type="obsolete">Местонахождение</translation>
-    </message>
-    <message>
         <location filename="../src/moodcatalog.cpp" line="-20"/>
         <source>Cautious</source>
         <translation>Осторожное</translation>
@@ -13619,10 +13379,6 @@ Would you like to activate that session now?</source>
         <location line="+5"/>
         <source>Listening to</source>
         <translation>Слушает</translation>
-    </message>
-    <message>
-        <source>Location</source>
-        <translation type="obsolete">Адрес</translation>
     </message>
     <message>
         <location filename="../src/moodcatalog.cpp" line="+1"/>
@@ -14489,21 +14245,6 @@ Room: </source>
         <source>
 Description: </source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>QTableView</name>
-    <message>
-        <source>Check</source>
-        <translation type="obsolete">Выделить</translation>
-    </message>
-    <message>
-        <source>Uncheck</source>
-        <translation type="obsolete">Снять выделение</translation>
-    </message>
-    <message>
-        <source>Invert</source>
-        <translation type="obsolete">Инвертировать</translation>
     </message>
 </context>
 <context>
@@ -15814,185 +15555,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>Stanza::Error::Private</name>
-    <message>
-        <source>A remote server or service specified as part or all of the JID of the intended recipient (or required to fulfill a request) could not be contacted within a reasonable amount of time.</source>
-        <translation type="obsolete">Сервер или сервис, указанные как часть JID, временно недоступны.</translation>
-    </message>
-    <message>
-        <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
-        <translation type="obsolete">Сервер или сервис, указанные как часть JID, не найдены.</translation>
-    </message>
-    <message>
-        <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
-        <translation type="obsolete">Доступ не может быть разрешён, пока есть открытый ресурс или сеанс с таким же именем или адресом.</translation>
-    </message>
-    <message>
-        <source>Bad request</source>
-        <translation type="obsolete">Неверный запрос</translation>
-    </message>
-    <message>
-        <source>Conflict</source>
-        <translation type="obsolete">Конфликт</translation>
-    </message>
-    <message>
-        <source>Feature not implemented</source>
-        <translation type="obsolete">Не реализовано</translation>
-    </message>
-    <message>
-        <source>Forbidden</source>
-        <translation type="obsolete">Доступ запрещён</translation>
-    </message>
-    <message>
-        <source>Gone</source>
-        <translation type="obsolete">Ушёл</translation>
-    </message>
-    <message>
-        <source>Internal server error</source>
-        <translation type="obsolete">Внутренняя ошибка сервера</translation>
-    </message>
-    <message>
-        <source>Item not found</source>
-        <translation type="obsolete">Элемент не найден</translation>
-    </message>
-    <message>
-        <source>JID malformed</source>
-        <translation type="obsolete">Неверный JID</translation>
-    </message>
-    <message>
-        <source>Not acceptable</source>
-        <translation type="obsolete">Неприемлемо</translation>
-    </message>
-    <message>
-        <source>Not allowed</source>
-        <translation type="obsolete">Не позволено</translation>
-    </message>
-    <message>
-        <source>Not authorized</source>
-        <translation type="obsolete">Не авторизован</translation>
-    </message>
-    <message>
-        <source>Payment required</source>
-        <translation type="obsolete">Платная услуга</translation>
-    </message>
-    <message>
-        <source>Recipient unavailable</source>
-        <translation type="obsolete">Получатель недоступен</translation>
-    </message>
-    <message>
-        <source>Redirect</source>
-        <translation type="obsolete">Перенаправление</translation>
-    </message>
-    <message>
-        <source>Registration required</source>
-        <translation type="obsolete">Требуется регистрация</translation>
-    </message>
-    <message>
-        <source>Remote server not found</source>
-        <translation type="obsolete">Сервер не найден</translation>
-    </message>
-    <message>
-        <source>Remote server timeout</source>
-        <translation type="obsolete">Таймаут сервера</translation>
-    </message>
-    <message>
-        <source>Resource constraint</source>
-        <translation type="obsolete">Недостаточно ресурсов</translation>
-    </message>
-    <message>
-        <source>Service unavailable</source>
-        <translation type="obsolete">Сервис недоступен</translation>
-    </message>
-    <message>
-        <source>Subscription required</source>
-        <translation type="obsolete">Требуется подписка</translation>
-    </message>
-    <message>
-        <source>The addressed JID or item requested cannot be found.</source>
-        <translation type="obsolete">Адресуемый JID или запрашиваемый элемент не найден.</translation>
-    </message>
-    <message>
-        <source>The error condition is not one of those defined by the other conditions in this list.</source>
-        <translation type="obsolete">Неопределённое условие в запросе.</translation>
-    </message>
-    <message>
-        <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
-        <translation type="obsolete">Запрашиваемая функциональность не реализована получателем или сервером и, соответственно, не может быть выполнена.</translation>
-    </message>
-    <message>
-        <source>The intended recipient is temporarily unavailable.</source>
-        <translation type="obsolete">Указанный получатель временно недоступен.</translation>
-    </message>
-    <message>
-        <source>The recipient or server can no longer be contacted at this address.</source>
-        <translation type="obsolete">Получатель или сервер не может больше контактировать с этим адресом.</translation>
-    </message>
-    <message>
-        <source>The recipient or server does not allow any entity to perform the action.</source>
-        <translation type="obsolete">Получатель или сервер не принимают данных для этого действия.</translation>
-    </message>
-    <message>
-        <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
-        <translation type="obsolete">Ваш запрос будет перенаправлен.</translation>
-    </message>
-    <message>
-        <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server (e.g., a local policy regarding acceptable words in messages).</source>
-        <translation type="obsolete">Данные приняты, но не могут быть обработаны получателем или сервером (например, из-за политики фильтрации слов).</translation>
-    </message>
-    <message>
-        <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
-        <translation type="obsolete">Сервер или получатель не могут обработать запрос.</translation>
-    </message>
-    <message>
-        <source>The requesting entity does not possess the required permissions to perform the action.</source>
-        <translation type="obsolete">Запрашиваемый элемент не обладает необходимыми разрешениями для выполнения действия.</translation>
-    </message>
-    <message>
-        <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
-        <translation type="obsolete">Для выполнения запроса требуется подписаться на службу.</translation>
-    </message>
-    <message>
-        <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
-        <translation type="obsolete">Данная услуга является платной.</translation>
-    </message>
-    <message>
-        <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
-        <translation type="obsolete">Запрос требует регистрации.</translation>
-    </message>
-    <message>
-        <source>The sender has sent XML that is malformed or that cannot be processed.</source>
-        <translation type="obsolete">Отправитель отправил испорченный XML, который невозможно обработать.</translation>
-    </message>
-    <message>
-        <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
-        <translation type="obsolete">Отправитель должен предоставить правильное удостоверение для обработки этого действия.</translation>
-    </message>
-    <message>
-        <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
-        <translation type="obsolete">Адрес XMPP (например, значение параметра &apos;to&apos;) не соответствует синтаксису схемы адресации.</translation>
-    </message>
-    <message>
-        <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
-        <translation type="obsolete">Сервер не может выполнить операцию в связи с ошибками настройки или другими неизвестными внутренними ошибками.</translation>
-    </message>
-    <message>
-        <source>The server or recipient does not currently provide the requested service.</source>
-        <translation type="obsolete">Нет запрошенной службы на сервере или у получателя.</translation>
-    </message>
-    <message>
-        <source>The server or recipient lacks the system resources necessary to service the request.</source>
-        <translation type="obsolete">Недостаточно ресурсов на сервере или у получателя для выполнения запроса.</translation>
-    </message>
-    <message>
-        <source>Undefined condition</source>
-        <translation type="obsolete">Неопределённое условие</translation>
-    </message>
-    <message>
-        <source>Unexpected request</source>
-        <translation type="obsolete">Неверный запрос</translation>
-    </message>
-</context>
-<context>
     <name>StatusSetDlg</name>
     <message>
         <location filename="../src/statusdlg.cpp" line="+171"/>
@@ -16352,13 +15914,6 @@ Reason: %1</source>
         <location line="+3"/>
         <source>Use for New Mucs</source>
         <translation>Использовать для новых конференций</translation>
-    </message>
-</context>
-<context>
-    <name>Task</name>
-    <message>
-        <source>Disconnected</source>
-        <translation type="obsolete">Отключён</translation>
     </message>
 </context>
 <context>
