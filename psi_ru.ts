@@ -841,7 +841,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location line="-191"/>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
-        <translation>Заставит Psi подключиться когда компьютер выйдет из спящего режима</translation>
+        <translation>Заставит Psi подключиться когда компьютер выйдет из спящего режима.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1980,7 +1980,7 @@ Make sure you enter a fully qualified Jabber ID.</source>
     <message>
         <location line="+4"/>
         <source>The certificate is NOT valid!</source>
-        <translation>Сертификат НЕ подходит.</translation>
+        <translation>Сертификат недействителен!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -6368,7 +6368,7 @@ You lost the game.</source>
     <message>
         <location line="+7"/>
         <source>Er&amp;ase all</source>
-        <translation>Удалить всё</translation>
+        <translation>&amp;Удалить всё</translation>
     </message>
     <message>
         <location filename="../src/historydlg.cpp" line="+163"/>
@@ -7395,7 +7395,7 @@ caching avatars will be not available</source>
     <message>
         <location line="+176"/>
         <source> replied:</source>
-        <translation> ответил:</translation>
+        <translation> отвечает:</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -8707,7 +8707,7 @@ Tags: %1</source>
     <message>
         <location line="+28"/>
         <source>Show tab buttons</source>
-        <translation>Показывать кнопки вкладок</translation>
+        <translation>Показывать дополнительные кнопки вкладок</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -9046,12 +9046,12 @@ Tags: %1</source>
     <message>
         <location line="+7"/>
         <source>Show icon when contact is listening to music</source>
-        <translation>Показывать иконку когда контакт слушает музыку</translation>
+        <translation>Показывать иконку мелодии, когда контакт слушает музыку</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Now playing</source>
-        <translation>Слушает</translation>
+        <translation>Музыка</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -9076,7 +9076,7 @@ Tags: %1</source>
     <message>
         <location line="+13"/>
         <source>Avatar settings</source>
-        <translation>Настройки аватар</translation>
+        <translation>Настройки аватаров</translation>
     </message>
     <message>
         <location line="+11"/>
