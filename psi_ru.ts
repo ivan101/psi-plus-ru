@@ -2386,13 +2386,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>ChessWindow</name>
     <message>
         <location filename="../src/plugins/generic/chessplugin/mainwindow.ui" line="+26"/>
-        <location filename="../src/plugins/generic/chessplugin/ui_mainwindow.h" line="+142"/>
         <source>Chess Board</source>
         <translation>Шахматная доска</translation>
     </message>
     <message>
         <location line="+11"/>
-        <location filename="../src/plugins/generic/chessplugin/ui_mainwindow.h" line="+1"/>
         <source>Moves:</source>
         <translation>Ходы:</translation>
     </message>
@@ -2477,85 +2475,71 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CleanerMainWindow</name>
     <message>
         <location filename="../src/plugins/generic/cleanerplugin/cleaner.ui" line="+20"/>
-        <location filename="../src/plugins/generic/cleanerplugin/ui_cleaner.h" line="+167"/>
         <source>Psi Cleaner</source>
         <translation>Чистильщик</translation>
     </message>
     <message>
         <location line="+11"/>
-        <location filename="../src/plugins/generic/cleanerplugin/ui_cleaner.h" line="+1"/>
         <source>History</source>
         <translation>История</translation>
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../src/plugins/generic/cleanerplugin/ui_cleaner.h" line="+1"/>
         <source>vCards</source>
         <translation>vCard&apos;ы</translation>
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../src/plugins/generic/cleanerplugin/ui_cleaner.h" line="+1"/>
         <source>Avatars</source>
         <translation>Аватары</translation>
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../src/plugins/generic/cleanerplugin/ui_cleaner.h" line="+1"/>
         <source>Options</source>
         <translation>Опции</translation>
     </message>
     <message>
         <location line="+10"/>
-        <location filename="../src/plugins/generic/cleanerplugin/ui_cleaner.h" line="+1"/>
         <source>Filter:</source>
         <translation>Фильтр:</translation>
     </message>
     <message>
         <location line="+16"/>
-        <location filename="../src/plugins/generic/cleanerplugin/ui_cleaner.h" line="+2"/>
         <source>Select All Files</source>
         <translation>Выбрать все файлы</translation>
     </message>
     <message>
         <location line="+16"/>
-        <location filename="../src/plugins/generic/cleanerplugin/ui_cleaner.h" line="+4"/>
         <source>Unselect All Files</source>
         <translation>Очистить выбор</translation>
     </message>
     <message>
         <location line="+35"/>
-        <location filename="../src/plugins/generic/cleanerplugin/ui_cleaner.h" line="+3"/>
         <source>0</source>
         <translation></translation>
     </message>
     <message>
         <location line="+10"/>
-        <location filename="../src/plugins/generic/cleanerplugin/ui_cleaner.h" line="+1"/>
         <source> files selected</source>
         <translation> файлов выбрано</translation>
     </message>
     <message>
         <location line="+11"/>
-        <location filename="../src/plugins/generic/cleanerplugin/ui_cleaner.h" line="+2"/>
         <source>Delete selected files</source>
         <translation>Удалить выбранные файлы</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../src/plugins/generic/cleanerplugin/ui_cleaner.h" line="+2"/>
         <source>Delete selected</source>
         <translation>Удалить выбранные</translation>
     </message>
     <message>
         <location line="+20"/>
-        <location filename="../src/plugins/generic/cleanerplugin/ui_cleaner.h" line="+2"/>
         <source>Close Psi Cleaner</source>
         <translation>Закрыть чистильщик</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../src/plugins/generic/cleanerplugin/ui_cleaner.h" line="+2"/>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
@@ -2763,7 +2747,6 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingTab</name>
     <message>
         <location filename="../src/plugins/generic/cleanerplugin/clearingtab.ui" line="+14"/>
-        <location filename="../src/plugins/generic/cleanerplugin/ui_clearingtab.h" line="+51"/>
         <source>Form</source>
         <translation></translation>
     </message>
@@ -4077,31 +4060,26 @@ Proceed?</source>
     <name>EditNote</name>
     <message>
         <location filename="../src/plugins/generic/storagenotesplugin/editnote.ui" line="+14"/>
-        <location filename="../src/plugins/generic/storagenotesplugin/ui_editnote.h" line="+114"/>
         <source>Edit Note</source>
         <translation>Изменить запись</translation>
     </message>
     <message>
         <location line="+8"/>
-        <location filename="../src/plugins/generic/storagenotesplugin/ui_editnote.h" line="+1"/>
         <source>Title:</source>
         <translation>Заголовок:</translation>
     </message>
     <message>
         <location line="+14"/>
-        <location filename="../src/plugins/generic/storagenotesplugin/ui_editnote.h" line="+1"/>
         <source>Tags:</source>
         <translation>Теги:</translation>
     </message>
     <message>
         <location line="+30"/>
-        <location filename="../src/plugins/generic/storagenotesplugin/ui_editnote.h" line="+1"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../src/plugins/generic/storagenotesplugin/ui_editnote.h" line="+1"/>
         <source>OK</source>
         <translation>ОК</translation>
     </message>
@@ -6288,37 +6266,31 @@ You lost the game.</source>
     <name>GetSkinName</name>
     <message>
         <location filename="../src/plugins/generic/skinsplugin/getskinname.ui" line="+23"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_getskinname.h" line="+131"/>
         <source>Get Skin Name</source>
         <translation>Имя скина</translation>
     </message>
     <message>
         <location line="+14"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_getskinname.h" line="+1"/>
         <source>Name: </source>
         <translation>Имя:</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_getskinname.h" line="+1"/>
         <source>Author: </source>
         <translation>Автор:</translation>
     </message>
     <message>
         <location line="+10"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_getskinname.h" line="+1"/>
         <source>Version: </source>
         <translation>Версия: </translation>
     </message>
     <message>
         <location line="+30"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_getskinname.h" line="+1"/>
         <source>OK</source>
         <translation>ОК</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_getskinname.h" line="+1"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
@@ -6357,8 +6329,8 @@ You lost the game.</source>
     </message>
     <message>
         <location line="+18"/>
-        <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#Gmailnotify_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#Gmailnotify_Plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#GMail_Notification_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+228"/>
@@ -7414,19 +7386,16 @@ Are you sure you want to discard them?</source>
     <name>InvitationDialog</name>
     <message>
         <location filename="../src/plugins/generic/chessplugin/invitationdialog.ui" line="+20"/>
-        <location filename="../src/plugins/generic/chessplugin/ui_invitationdialog.h" line="+81"/>
         <source>Chess Plugin - Invitation</source>
         <translation>Приглашение в шахматы</translation>
     </message>
     <message>
         <location line="+28"/>
-        <location filename="../src/plugins/generic/chessplugin/ui_invitationdialog.h" line="+2"/>
         <source>Accept</source>
         <translation>Принять</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../src/plugins/generic/chessplugin/ui_invitationdialog.h" line="+1"/>
         <source>Reject</source>
         <translation>Отклонить</translation>
     </message>
@@ -7442,25 +7411,21 @@ to play chess. He wants to play %2.</source>
     <name>InviteDialog</name>
     <message>
         <location filename="../src/plugins/generic/chessplugin/invitedialog.ui" line="+20"/>
-        <location filename="../src/plugins/generic/chessplugin/ui_invitedialog.h" line="+101"/>
         <source>Invitation</source>
         <translation>Приглашение</translation>
     </message>
     <message>
         <location line="+8"/>
-        <location filename="../src/plugins/generic/chessplugin/ui_invitedialog.h" line="+1"/>
         <source>Select resource:</source>
         <translation>Выбрать ресурс:</translation>
     </message>
     <message>
         <location line="+47"/>
-        <location filename="../src/plugins/generic/chessplugin/ui_invitedialog.h" line="+1"/>
         <source>Play White</source>
         <translation>Играть белыми</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../src/plugins/generic/chessplugin/ui_invitedialog.h" line="+1"/>
         <source>Play Black</source>
         <translation>Играть чёрными</translation>
     </message>
@@ -8422,61 +8387,51 @@ Tags: %1</source>
         <location filename="../src/plugins/generic/storagenotesplugin/notes.cpp" line="+54"/>
         <location line="+28"/>
         <location line="+91"/>
-        <location filename="../src/plugins/generic/storagenotesplugin/ui_notes.h" line="+128"/>
         <source>Notebook</source>
         <translation>Записная книжка</translation>
     </message>
     <message>
         <location line="+38"/>
-        <location filename="../src/plugins/generic/storagenotesplugin/ui_notes.h" line="+2"/>
         <source>Add note</source>
         <translation>Добавить</translation>
     </message>
     <message>
         <location line="+16"/>
-        <location filename="../src/plugins/generic/storagenotesplugin/ui_notes.h" line="+4"/>
         <source>Edit note</source>
         <translation>Изменить</translation>
     </message>
     <message>
         <location line="+16"/>
-        <location filename="../src/plugins/generic/storagenotesplugin/ui_notes.h" line="+4"/>
         <source>Delete note</source>
         <translation>Удалить</translation>
     </message>
     <message>
         <location line="+40"/>
-        <location filename="../src/plugins/generic/storagenotesplugin/ui_notes.h" line="+4"/>
         <source>Load notes</source>
         <translation>Загрузить</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../src/plugins/generic/storagenotesplugin/ui_notes.h" line="+2"/>
         <source>Reload</source>
         <translation>Перезагрузить</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../src/plugins/generic/storagenotesplugin/ui_notes.h" line="+2"/>
         <source>Save notes</source>
         <translation>Сохранить</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../src/plugins/generic/storagenotesplugin/ui_notes.h" line="+2"/>
         <source>Save</source>
         <translation>Сохранить</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../src/plugins/generic/storagenotesplugin/ui_notes.h" line="+2"/>
         <source>Close window</source>
         <translation>Закрыть окно</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../src/plugins/generic/storagenotesplugin/ui_notes.h" line="+2"/>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
@@ -8797,14 +8752,12 @@ Tags: %1</source>
 <context>
     <name>OptAppearanceTheme</name>
     <message>
-        <location filename="../src/options/opt_chat_theme.ui" line="+14"/>
         <location filename="../src/options/opt_theme.ui" line="+14"/>
         <source>OptAppearanceThemeUI</source>
         <translation></translation>
     </message>
     <message>
-        <location line="+33"/>
-        <location filename="../src/options/opt_theme.ui" line="+47"/>
+        <location line="+47"/>
         <source>&lt;a href=&quot;thememanager://showmore/&quot;&gt;More themes&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;thememanager://showmore/&quot;&gt;Ещё темы&lt;/a&gt;</translation>
     </message>
@@ -9179,12 +9132,7 @@ Tags: %1</source>
         <translation>Название:</translation>
     </message>
     <message>
-        <location line="+29"/>
-        <source>i</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+13"/>
+        <location line="+42"/>
         <source>Version: 0</source>
         <translation>Версия: 0</translation>
     </message>
@@ -9242,9 +9190,9 @@ Tags: %1</source>
         <translation>Автоматически скрывать ростер после</translation>
     </message>
     <message>
-        <location line="+14"/>
-        <source>minutes</source>
-        <translation>минут(ы)</translation>
+        <location line="+17"/>
+        <source>seconds</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -10196,12 +10144,12 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
 <context>
     <name>OptionsTabPlugins</name>
     <message>
-        <location filename="../src/options/opt_plugins.cpp" line="+129"/>
+        <location filename="../src/options/opt_plugins.cpp" line="+132"/>
         <source>No plugin selected.</source>
         <translation>Модуль не выбран.</translation>
     </message>
     <message>
-        <location line="-103"/>
+        <location line="-105"/>
         <source>Options for Psi plugins</source>
         <translation>Настройка модулей</translation>
     </message>
@@ -10211,7 +10159,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Модули</translation>
     </message>
     <message>
-        <location line="+109"/>
+        <location line="+111"/>
         <location line="+31"/>
         <source>This plugin has no user configurable options</source>
         <translation>Этот модуль не имеет опций для настройки пользователем</translation>
@@ -10618,44 +10566,37 @@ Please enter your passphrase below:</source>
         <location filename="../src/plugins/generic/skinsplugin/previewer.ui" line="+14"/>
         <location filename="../src/plugins/generic/skinsplugin/skin.cpp" line="+71"/>
         <location line="+5"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_previewer.h" line="+141"/>
         <source>Preview Skin</source>
         <translation>Предпросмотр</translation>
     </message>
     <message>
         <location line="+12"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_previewer.h" line="+1"/>
         <source>Preview unavailable</source>
         <translation>Предпросмотр
 недоступен</translation>
     </message>
     <message>
         <location line="+14"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_previewer.h" line="+1"/>
         <source>Name: </source>
         <translation>Имя: </translation>
     </message>
     <message>
         <location line="+14"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_previewer.h" line="+2"/>
         <source>Author: </source>
         <translation>Автор: </translation>
     </message>
     <message>
         <location line="+14"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_previewer.h" line="+2"/>
         <source>Version: </source>
         <translation>Версия: </translation>
     </message>
     <message>
         <location line="+31"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_previewer.h" line="+2"/>
         <source>Apply</source>
         <translation>Применить</translation>
     </message>
     <message>
         <location line="+20"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_previewer.h" line="+1"/>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
@@ -15780,102 +15721,86 @@ Reason: %1</source>
     <name>SkinsPlugin</name>
     <message>
         <location filename="../src/plugins/generic/skinsplugin/skinsplugin.ui" line="+14"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_skinsplugin.h" line="+146"/>
         <source>Form</source>
         <translation></translation>
     </message>
     <message>
         <location line="+29"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_skinsplugin.h" line="+5"/>
         <source>Preview skin</source>
         <translation>Предпросмотр скина</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_skinsplugin.h" line="+2"/>
         <source>Preview</source>
         <translation>Предпросмотр</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_skinsplugin.h" line="+2"/>
         <source>Update skins list</source>
         <translation>Обновить список</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_skinsplugin.h" line="+2"/>
         <source>Update</source>
         <translation>Обновить</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_skinsplugin.h" line="+2"/>
         <source>Apply selected skin</source>
         <translation>Применить выбранный скин</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_skinsplugin.h" line="+2"/>
         <source>Apply</source>
         <translation>Применить</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_skinsplugin.h" line="+2"/>
         <source>Open skin file</source>
         <translation>Открыть файл со скином</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_skinsplugin.h" line="+2"/>
         <source>Open</source>
         <translation>Открыть</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_skinsplugin.h" line="+2"/>
         <source>Remove selected skin</source>
         <translation>Удалить выбранный скин</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_skinsplugin.h" line="+2"/>
         <source>Remove</source>
         <translation>Удалить</translation>
     </message>
     <message>
         <location line="+30"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_skinsplugin.h" line="+3"/>
         <source>Overwrite selected skin with the current settings </source>
         <translation>Перезаписать выбранный скин текущими настройками </translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_skinsplugin.h" line="+2"/>
         <source>Save</source>
         <translation>Сохранить</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_skinsplugin.h" line="+2"/>
         <source>Create new skin from current settings</source>
         <translation>Создать новый скин с текущими настройками</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_skinsplugin.h" line="+2"/>
         <source>Create</source>
         <translation>Создать</translation>
     </message>
     <message>
         <location line="+11"/>
-        <location filename="../src/plugins/generic/skinsplugin/ui_skinsplugin.h" line="+1"/>
         <source>Backup skin before applying</source>
         <translation>Сделать резервную копию скина перед применением</translation>
     </message>
     <message>
-        <location filename="../src/plugins/generic/skinsplugin/skinsplugin.cpp" line="+116"/>
+        <location filename="../src/plugins/generic/skinsplugin/skinsplugin.cpp" line="+120"/>
         <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#Skins_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#Skins_Plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
@@ -16086,7 +16011,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
 <context>
     <name>StopSpam</name>
     <message>
-        <location filename="../src/plugins/generic/stopspamplugin/stopspamplugin.cpp" line="+424"/>
+        <location filename="../src/plugins/generic/stopspamplugin/stopspamplugin.cpp" line="+427"/>
         <source>Main</source>
         <translation>Главные</translation>
     </message>
@@ -17273,7 +17198,7 @@ And these work only in groupchat dialog:
 <context>
     <name>Watcher</name>
     <message>
-        <location filename="../src/plugins/generic/watcherplugin/watcherplugin.cpp" line="+157"/>
+        <location filename="../src/plugins/generic/watcherplugin/watcherplugin.cpp" line="+159"/>
         <source>Add row</source>
         <translation>Добавить</translation>
     </message>
@@ -17303,7 +17228,7 @@ And these work only in groupchat dialog:
         <translation>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#Watcher_Plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
-        <location line="+145"/>
+        <location line="+146"/>
         <location line="+4"/>
         <source>Choose a sound file</source>
         <translation>Выбрать звуковой файл</translation>
@@ -17794,55 +17719,46 @@ The contents of the whiteboard will be lost.</source>
     <name>options</name>
     <message>
         <location filename="../src/plugins/generic/chessplugin/options.ui" line="+14"/>
-        <location filename="../src/plugins/generic/chessplugin/ui_options.h" line="+212"/>
         <source>Form</source>
         <translation></translation>
     </message>
     <message>
         <location line="+6"/>
-        <location filename="../src/plugins/generic/chessplugin/ui_options.h" line="+1"/>
         <source>Select Sounds:</source>
         <translation>Выбрать звуки:</translation>
     </message>
     <message>
         <location line="+11"/>
-        <location filename="../src/plugins/generic/chessplugin/ui_options.h" line="+1"/>
         <source>Game Started:</source>
         <translation>Игра начата:</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../src/plugins/generic/chessplugin/ui_options.h" line="+1"/>
         <source>Game Finished:</source>
         <translation>Игра окончена:</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../src/plugins/generic/chessplugin/ui_options.h" line="+1"/>
         <source>Your Move:</source>
         <translation>Ваш ход:</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../src/plugins/generic/chessplugin/ui_options.h" line="+1"/>
         <source>Error:</source>
         <translation>Ошибка:</translation>
     </message>
     <message>
         <location line="+159"/>
-        <location filename="../src/plugins/generic/chessplugin/ui_options.h" line="+10"/>
         <source>If checked, the sound will always enabled (or disabled)</source>
         <translation>Если установлено, звук всегда включен (или отключён)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../src/plugins/generic/chessplugin/ui_options.h" line="+2"/>
         <source>Override default sound settings</source>
         <translation>Игнорировать глобальные настройки звука</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../src/plugins/generic/chessplugin/ui_options.h" line="+1"/>
         <source>Disable invitations, if status is DND</source>
         <translation>Отключить приглашения, если статус &quot;Не беспокоить&quot;</translation>
     </message>
