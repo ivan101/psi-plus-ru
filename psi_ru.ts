@@ -31,7 +31,7 @@
     <message>
         <location filename="../src/ahcformdlg.ui" line="+14"/>
         <source>Form</source>
-        <translation>Форма</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -39,7 +39,7 @@
     <message>
         <location filename="../src/ahcommanddlg.ui" line="+14"/>
         <source>Form</source>
-        <translation>Форма</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1500,7 +1500,6 @@ Make sure you enter a fully qualified Jabber ID.</source>
     <message>
         <location line="+6"/>
         <source>Allow receiving one Attention from the same contact every</source>
-        <translatorcomment>fixme</translatorcomment>
         <translation>Разрешить привлекать внимание от того же контакта через</translation>
     </message>
     <message>
@@ -1511,7 +1510,7 @@ Make sure you enter a fully qualified Jabber ID.</source>
     <message>
         <location line="+3"/>
         <source>Don&apos;t hide popup if status is Away or XA</source>
-        <translation>Не скрывать уведомление, если статус &quot;Не доступен&quot; или &quot;Отсутствую&quot;</translation>
+        <translation>Не скрывать уведомление, если статус &quot;Недоступен&quot; или &quot;Отсутствую&quot;</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1655,7 +1654,6 @@ To work correctly, the plugin requires that the client of the other part support
     <message>
         <location line="+5"/>
         <source>for JIDs and conferences:</source>
-        <translatorcomment>fixme</translatorcomment>
         <translation>для JID&apos;ов и конференций:</translation>
     </message>
     <message>
@@ -2237,7 +2235,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../src/chatdlg.ui" line="-348"/>
         <source>Form</source>
-        <translation>Форма</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+109"/>
@@ -2333,7 +2331,7 @@ Do you still want to close the window?</source>
         <location line="-107"/>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation>Ваш противник закрыл доску!
+        <translation>Ваш соперник вышел из игры!
  Вы всё ещё можете сохранить игру.</translation>
     </message>
     <message>
@@ -2344,7 +2342,7 @@ Do you still want to close the window?</source>
     <message>
         <location line="+9"/>
         <source>You Win!</source>
-        <translation>Вы выиграли!</translation>
+        <translation>Вы победили!</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -2430,7 +2428,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location line="+1"/>
         <source>Enable sound</source>
-        <translation>Включить звуки</translation>
+        <translation>Включить звук</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2767,7 +2765,7 @@ You can preview items before deleting them from your hard drive.</source>
         <location filename="../src/plugins/generic/cleanerplugin/clearingtab.ui" line="+14"/>
         <location filename="../src/plugins/generic/cleanerplugin/ui_clearingtab.h" line="+51"/>
         <source>Form</source>
-        <translation>Форма</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -5463,7 +5461,7 @@ Reason: %1</source>
     <message>
         <location line="+1"/>
         <source>&amp;Auto join:</source>
-        <translation>&amp;Авто-вход</translation>
+        <translation>&amp;Авто-вход:</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -5999,7 +5997,7 @@ You lost the game.</source>
     <message>
         <location line="+7"/>
         <source>Enable hash nick coloring</source>
-        <translation>Включить хэш для раскраски</translation>
+        <translation>Включить раскраску по хешированию</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -6238,7 +6236,7 @@ You lost the game.</source>
     <message>
         <location line="+26"/>
         <source>An administrative region of the nation, such as a state or province</source>
-        <translation>Админимстративный район страны, например край или область</translation>
+        <translation>Административный район страны, например край или область</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -6330,7 +6328,7 @@ You lost the game.</source>
     <message>
         <location filename="../src/plugins/generic/gmailnotifyplugin/gmailnotifyplugin.cpp" line="+111"/>
         <source>Notification</source>
-        <translation>Уведомление</translation>
+        <translation>Уведомления</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -6461,7 +6459,6 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <message>
         <location line="+9"/>
         <source>General</source>
-        <translatorcomment>fixme/оставить без перевода?</translatorcomment>
         <translation>Общие</translation>
     </message>
     <message>
@@ -7037,7 +7034,6 @@ You can select or deselect a contact for history removal from the context menu o
         <source>Я Вам как Linux скажу, только Вы не обижайтесь. Этот чувак, конечно, получит Ваше сообщение, но лучше бы Вам общаться с ним через Jabber. А то не ровен час - аська сдохнет, старушка свое отжила. Его JID: %1.
 
 Искренне Ваш, Debian Sid.</source>
-        <translatorcomment>fixme</translatorcomment>
         <translation>Я Вам как приличный интернет-месенджер скажу, только Вы не обижайтесь. Этот чувак, конечно, получит Ваше сообщение (если, конечно, не отключил), 
 но лучше Вам общаться с ним через Jabber. А то не ровен час - аська сдохнет, старушка своё отжила. Его JID: %1.
 
@@ -7439,7 +7435,7 @@ Are you sure you want to discard them?</source>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
         <translation>Игрок %1 приглашает Вас
-играть в шахматы. Он хочет играть %2.</translation>
+поиграть в шахматы. Он выбрал %2 фигуры.</translation>
     </message>
 </context>
 <context>
@@ -8886,7 +8882,7 @@ Tags: %1</source>
     <message>
         <location filename="../src/options/opt_avcall.ui" line="+13"/>
         <source>Form</source>
-        <translation>Форма</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+6"/>
@@ -10166,13 +10162,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location line="+40"/>
         <source>VKontakte</source>
-        <translatorcomment>fixme- очистить</translatorcomment>
         <translation>ВКонтакте</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Weather</source>
-        <translatorcomment>fixme убрать?</translatorcomment>
         <translation>Погода</translation>
     </message>
     <message>
@@ -10396,7 +10390,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location line="-185"/>
         <source>Press this button to create a new status message preset.</source>
-        <translation>Нажмите эту кнопку, чтобы создать новый шаблон</translation>
+        <translation>Нажмите эту кнопку, чтобы создать новый шаблон.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -12304,7 +12298,7 @@ Reason: %1.</source>
     <message>
         <location line="+4"/>
         <source>Psi - The Cross-Platform Jabber/XMPP Client For Power Users</source>
-        <translation>Psi — мультиплатформенный джаббер-клиент для опытного пользователя.</translation>
+        <translation>Psi+ — мультиплатформенный джаббер-клиент для опытных пользователей</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -14746,7 +14740,6 @@ is online and then press &quot;Check Birthdays&quot; button. It takes some time.
     <message>
         <location line="+7"/>
         <source>Start notifying</source>
-        <translatorcomment>fixme</translatorcomment>
         <translation>Начать извещение за</translation>
     </message>
     <message>
@@ -15072,7 +15065,7 @@ Note: If you do not specify one of the parameters, Url, Login, Password, then th
     <message>
         <location line="-99"/>
         <source>form</source>
-        <translation>форма</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="-10"/>
@@ -15474,7 +15467,7 @@ Reason: %1</source>
     <message>
         <location line="+1"/>
         <source>Status All</source>
-        <translation>Установить статус</translation>
+        <translation>Установить статус для всех аккаунтов</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -15554,7 +15547,7 @@ Reason: %1</source>
     <message>
         <location line="+1"/>
         <source>About Psi</source>
-        <translation>О Psi</translation>
+        <translation>О Psi+</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -15789,7 +15782,7 @@ Reason: %1</source>
         <location filename="../src/plugins/generic/skinsplugin/skinsplugin.ui" line="+14"/>
         <location filename="../src/plugins/generic/skinsplugin/ui_skinsplugin.h" line="+146"/>
         <source>Form</source>
-        <translation>Форма</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+29"/>
@@ -16343,7 +16336,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <location filename="../src/tabs/tabdlg.cpp" line="+535"/>
         <source> is composing</source>
-        <translation> печатает...</translation>
+        <translation> печатает</translation>
     </message>
     <message>
         <location line="-4"/>
@@ -16845,7 +16838,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location line="-35"/>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation>Вы можете выбрать несколько наборов смайлов и установить приоритеты для них в диалоге настройки.</translation>
+        <translation>Вы можете выбрать несколько наборов смайлов и установить приоритеты для них в диалоге настроек.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -16993,14 +16986,14 @@ And these work only in groupchat dialog:
         <location filename="../src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+68"/>
         <location filename="../src/widgets/typeaheadfind.cpp" line="-87"/>
         <source>Search: </source>
-        <translation>Искать: </translation>
+        <translation>Найти: </translation>
     </message>
     <message>
         <location line="+21"/>
         <location filename="../src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+21"/>
         <location filename="../src/widgets/typeaheadfind.cpp" line="+17"/>
         <source>&amp;Case sensitive</source>
-        <translation>&amp;Чувствительно к регистру</translation>
+        <translation>Учесть &amp;регистр</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -17324,7 +17317,6 @@ And these work only in groupchat dialog:
     <message>
         <location line="+26"/>
         <source> change status to </source>
-        <translatorcomment>fixme wtf???</translatorcomment>
         <translation> меняет статус на </translation>
     </message>
     <message>
@@ -17804,7 +17796,7 @@ The contents of the whiteboard will be lost.</source>
         <location filename="../src/plugins/generic/chessplugin/options.ui" line="+14"/>
         <location filename="../src/plugins/generic/chessplugin/ui_options.h" line="+212"/>
         <source>Form</source>
-        <translation>Форма</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+6"/>
@@ -17846,7 +17838,7 @@ The contents of the whiteboard will be lost.</source>
         <location line="+3"/>
         <location filename="../src/plugins/generic/chessplugin/ui_options.h" line="+2"/>
         <source>Override default sound settings</source>
-        <translation>Заменить настройки звука по умолчанию</translation>
+        <translation>Игнорировать глобальные настройки звука</translation>
     </message>
     <message>
         <location line="+7"/>
