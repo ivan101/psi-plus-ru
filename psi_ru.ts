@@ -132,7 +132,7 @@ Copyright © 2001-2010 The Psi Team.&lt;br&gt;</translation>
         <location line="+12"/>
         <location line="+3"/>
         <source>Plugins Writer and Patcher</source>
-        <translation>Разработчик модулей и автор патчей</translation>
+        <translation>Разработчик плагинов и автор патчей</translation>
     </message>
     <message>
         <location line="-9"/>
@@ -202,7 +202,7 @@ Copyright © 2001-2010 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 16.05.2010</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 23.05.2010</translation>
     </message>
     <message>
         <location line="-49"/>
@@ -1536,7 +1536,8 @@ Make sure you enter a fully qualified Jabber ID.</source>
         <location line="+1"/>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин предназначен для отправки и приёма сообщений типа Attention (привлечение внимания).
+Для работы необходимо, чтобы клиент собеседника поддерживал XEP-0224 (например: Pidgin, Miranda IM с плагином Nudge).</translation>
     </message>
     <message>
         <location line="-215"/>
@@ -1716,7 +1717,17 @@ To work correctly, the plugin requires that the client of the other part support
 The list of exceptions for jids has two operating modes:
 * auto-responder is switched off for the list of exceptions, for the others is switched on (Disable mode)
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин выполняет роль автоответчика. Имеет ряд несложных настроек, с помощью которых можно:
+ * задать текст сообщения для автоответа
+ * исключить определённые jid&apos;ы, включая конференции, из объектов для автоответа (если задан jid конференции, то в исключения попадают все приватные сообщения)
+ * отключить автоответчик для некоторых ваших аккаунтов
+ * задать количество посылок автоответа
+ * задать интервал времени, по истечении которого счётчик количества автоответов будет обнулён
+ * отключить автоответчик для активной вкладки/таба
+ * отключить автоответчик для контактов не из вашего ростера
+Список исключений для jid&apos;ов имеет два режима работы:
+ * автоответчик выключен для списка исключений, для остальных -- включён (Disable mode)
+ * автоответчик включён для списка исключений, для остальных -- выключен (Enable mode)</translation>
     </message>
 </context>
 <context>
@@ -2379,7 +2390,9 @@ Do you still want to close the window?</source>
         <source>This plugin allows you to play chess with your friends.
 The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин позволяет Вам играть в шахматы с Вашими друзьями.
+Плагин совместим с аналогичным для Tkabber&apos;a.
+Для отправки комманд используются обычные сообщения, поэтому он будет работать всегда, когда Вы можете авторизоваться на своём Jabber-сервере. Для того, чтобы пригласить друга в игру Вы можете использовать пункт меню непосредственно на контакте или кнопку на панели окна чата.</translation>
     </message>
 </context>
 <context>
@@ -2686,7 +2699,8 @@ For sending commands, normal messages are used, so this plugin will always work 
         <location line="+1"/>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин позволяет очищать кэш аватаров, локально сохранённых копий vCard&apos;ов и логов переписки.
+Вы можете просматривать элементы перед удалением с жёсткого диска.</translation>
     </message>
 </context>
 <context>
@@ -2807,7 +2821,10 @@ You can preview items before deleting them from your hard drive.</source>
 Conferences logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with conference.
 
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин позволяет сохранять логи конференций, в которых Вы общаетесь.
+Лог может быть просмотрен как из настроек плагина, так и по нажатию соответствующей кнопки на панели в активной конференции.
+
+Примечание: для корректной работы требуется, чтобы опция &quot;option options.ui.chat.central-toolbar&quot; была установлена в &quot;true&quot;.</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2930,7 +2947,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location line="+16"/>
         <source>Plugins</source>
-        <translation>Модули</translation>
+        <translation>Плагины</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -3703,7 +3720,7 @@ Proceed?</source>
         <location line="+1"/>
         <location line="+278"/>
         <location line="+41"/>
-        <location filename="../src/userlist.cpp" line="+604"/>
+        <location filename="../src/userlist.cpp" line="+606"/>
         <source>Hidden</source>
         <translation>Скрытые</translation>
     </message>
@@ -4087,7 +4104,7 @@ Proceed?</source>
 <context>
     <name>EventDlg</name>
     <message>
-        <location filename="../src/eventdlg.cpp" line="+1444"/>
+        <location filename="../src/eventdlg.cpp" line="+1446"/>
         <source>
 If you wish to confirm this request, please provide transaction identifier and press Confirm button. Otherwise press Deny button.</source>
         <translation>
@@ -4144,7 +4161,7 @@ If you wish to confirm this request, please provide transaction identifier and p
         <translation>Изменено: 1</translation>
     </message>
     <message>
-        <location line="-1218"/>
+        <location line="-1220"/>
         <source>Add URL</source>
         <translation>Добавить URL</translation>
     </message>
@@ -4206,7 +4223,7 @@ If you wish to confirm this request, please provide transaction identifier and p
     </message>
     <message>
         <location line="+139"/>
-        <location line="+1140"/>
+        <location line="+1142"/>
         <location line="+13"/>
         <source>&amp;Next</source>
         <translation>&amp;Следующее</translation>
@@ -4217,12 +4234,12 @@ If you wish to confirm this request, please provide transaction identifier and p
         <translation>Не указаны получатели!</translation>
     </message>
     <message>
-        <location line="-712"/>
+        <location line="-714"/>
         <source>Normal</source>
         <translation>Обычное</translation>
     </message>
     <message>
-        <location line="+902"/>
+        <location line="+904"/>
         <source>Please complete all required fields (marked with a &apos;*&apos;).</source>
         <translation>Заполните все необходимые поля (отмеченные &apos;*&apos;).</translation>
     </message>
@@ -4237,7 +4254,7 @@ If you wish to confirm this request, please provide transaction identifier and p
         <translation>Введите идентификатор транзакции.</translation>
     </message>
     <message>
-        <location line="-674"/>
+        <location line="-676"/>
         <source>&amp;Quote</source>
         <translation>&amp;Цитировать</translation>
     </message>
@@ -4257,12 +4274,12 @@ If you wish to confirm this request, please provide transaction identifier and p
         <translation>&amp;Отправить</translation>
     </message>
     <message>
-        <location line="+382"/>
+        <location line="+383"/>
         <source>Send Message</source>
         <translation>Отправить сообщение</translation>
     </message>
     <message>
-        <location line="+496"/>
+        <location line="+497"/>
         <source>Someone (maybe you) has requested access to the following resource:
 URL: %1
 Method: %2
@@ -4273,13 +4290,13 @@ URL: %1
 </translation>
     </message>
     <message>
-        <location line="-998"/>
-        <location line="+1055"/>
+        <location line="-1000"/>
+        <location line="+1057"/>
         <source>Subject:</source>
         <translation>Тема:</translation>
     </message>
     <message>
-        <location line="-901"/>
+        <location line="-903"/>
         <source>&amp;Submit</source>
         <translation>&amp;Отправить</translation>
     </message>
@@ -4304,7 +4321,7 @@ URL: %1
         <translation>&amp;Идентификатор транзакции:</translation>
     </message>
     <message>
-        <location line="+944"/>
+        <location line="+946"/>
         <source>Transaction identifier: %1
 
 If you wish to confirm this request, please press Confirm button. Otherwise press Deny button.</source>
@@ -4313,7 +4330,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
 Если вы подтверждаете этот запрос, нажмите кнопку Подтвердить. Иначе нажмите кнопку Отклонить.</translation>
     </message>
     <message>
-        <location line="-1085"/>
+        <location line="-1087"/>
         <source>Type:</source>
         <translation>Тип:</translation>
     </message>
@@ -4323,7 +4340,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <translation>vCard</translation>
     </message>
     <message>
-        <location line="+655"/>
+        <location line="+657"/>
         <location line="+6"/>
         <location line="+135"/>
         <location line="+55"/>
@@ -4741,13 +4758,16 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин позволяет легко конфигурировать некоторые &quot;расширенные&quot; опции в Psi+.
+Данный плагин даёт Вам доступ к настройкам приложения, которые не имеют &quot;графического&quot; интерфейса в стандартной поставке.
+
+Важно: бОльшая часть настроек имеет системный характер и требует внимания и понимания смысла изменяемых функций.</translation>
     </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>
     <message>
-        <location filename="../src/widgets/fancypopup.cpp" line="+259"/>
+        <location filename="../src/widgets/fancypopup.cpp" line="+264"/>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
@@ -5266,7 +5286,7 @@ Reason: %3</source>
 <context>
     <name>GCFindDlg</name>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="+2045"/>
+        <location filename="../src/groupchatdlg.cpp" line="+2044"/>
         <source>&amp;Close</source>
         <translation>&amp;Закрыть</translation>
     </message>
@@ -5305,12 +5325,12 @@ Reason: %3</source>
         <translation>Очистить окно чата</translation>
     </message>
     <message>
-        <location line="-4"/>
+        <location line="-3"/>
         <source>Find toolbar</source>
         <translation>Панель поиска</translation>
     </message>
     <message>
-        <location line="+14"/>
+        <location line="+13"/>
         <source>Open a Whiteboard</source>
         <translation>Открыть доску для рисования</translation>
     </message>
@@ -5657,7 +5677,7 @@ Reason: %1</source>
 <context>
     <name>GCMainDlg::Private</name>
     <message>
-        <location line="-1135"/>
+        <location line="-1134"/>
         <location line="+56"/>
         <source>new nick</source>
         <translation>Новый ник</translation>
@@ -6330,7 +6350,7 @@ You lost the game.</source>
     <message>
         <location line="+18"/>
         <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#GMail_Notification_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#GMail_Notification_Plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
         <location line="+228"/>
@@ -6341,7 +6361,8 @@ You lost the game.</source>
         <location line="+1"/>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин показывает уведомления о поступлении новых писем в почтовый ящик Gmail.
+Примечание: плагин проверяет корень директории &quot;Входящие&quot; на предмет наличия новых писем. Если фильтрация (пересортировка) писем осуществляется непосредственно на сервере Gmail, то уведомлений о новой почте не будет.</translation>
     </message>
 </context>
 <context>
@@ -6605,7 +6626,8 @@ Are you sure you want to do this?</source>
         <location line="+1"/>
         <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин предназначен для очистки истории отмеченных контактов при выходе из Psi+.
+Вы можете включить или отключить очистку истории из контекстного меню контакта или из настроек плагина.</translation>
     </message>
 </context>
 <context>
@@ -7002,57 +7024,32 @@ You can select or deselect a contact for history removal from the context menu o
 <context>
     <name>IcqDie</name>
     <message utf8="true">
-        <location filename="../src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="+90"/>
-        <source>Я Вам как Linux скажу, только Вы не обижайтесь. Этот чувак, конечно, получит Ваше сообщение, но лучше бы Вам общаться с ним через Jabber. А то не ровен час - аська сдохнет, старушка свое отжила. Его JID: %1.
+        <location filename="../src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="+91"/>
+        <source>Я Вам как Linux скажу, только Вы не обижайтесь. Этот человек, конечно, получит Ваше сообщение, но лучше бы Вам общаться с ним через Jabber. А то не ровен час - аська сдохнет, старушка своё отжила. Его JID: %1.
 
 Искренне Ваш, Debian Sid.</source>
-        <translation>Я Вам как приличный интернет-месенджер скажу, только Вы не обижайтесь. Этот чувак, конечно, получит Ваше сообщение (если, конечно, не отключил), 
-но лучше Вам общаться с ним через Jabber. А то не ровен час - аська сдохнет, старушка своё отжила. Его JID: %1.
+        <translation>Я Вам как Linux скажу, только Вы не обижайтесь. Этот человек, конечно, получит Ваше сообщение, но лучше бы Вам общаться с ним через Jabber. А то не ровен час - аська сдохнет, старушка своё отжила. Его JID: %1
 
-Искренне Ваш, Psi+.</translation>
+Искренне Ваш, Debian Sid.</translation>
     </message>
-    <message>
-        <location line="+140"/>
-        <source>Disable if chat window is active</source>
-        <translation>Отключить, если открыто окно чата</translation>
-    </message>
-    <message>
-        <location line="+2"/>
-        <source>Disable if contact isn&apos;t from your roster</source>
-        <translation>Отключить, если контакт не из ростера</translation>
-    </message>
-    <message>
-        <location line="+2"/>
-        <source>Disable display messages from ICQ</source>
-        <translation>Отключить отображение сообщений из ICQ</translation>
-    </message>
-    <message>
+    <message utf8="true">
         <location line="+4"/>
-        <source>Auto Reply Message:</source>
-        <translation>Сообщение автоответа:</translation>
+        <source>Я Вам как Linux скажу, только Вы не обижайтесь. Этот человек имел в виду всех пользователей аськи, поэтому если Вы до сих пор сидите в этой сети, то он не получит Ваше сообщение, поэтому Вам придётся общаться с ним через Jabber. Его JID: %1.
+
+Если Вы не знаете что такое Jabber, то есть Google - он всё знает и поможет любому, кто к нему обратится.
+Искренне Ваш, Debian Sid.</source>
+        <translation>Я Вам как Linux скажу, только Вы не обижайтесь. Этот человек имел в виду всех пользователей аськи, поэтому если Вы до сих пор сидите в этой сети, то он не получит Ваше сообщение, поэтому Вам придётся общаться с ним через Jabber. Его JID: %1
+
+Если Вы не знаете что такое Jabber, то есть Google - он всё знает и поможет любому, кто к нему обратится.
+Искренне Ваш, Debian Sid.</translation>
     </message>
     <message>
-        <location line="+4"/>
-        <source>Disable for UINs:</source>
-        <translation>Отключить для UIN&apos;ов:</translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>Pause for next Recv message:</source>
-        <translation>Пауза перед ответом на следующее принятое сообщение:</translation>
-    </message>
-    <message>
-        <location line="+2"/>
-        <source>min.</source>
-        <translation>мин.</translation>
-    </message>
-    <message>
-        <location line="+15"/>
+        <location line="+145"/>
         <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
-        <location line="+135"/>
+        <location line="+120"/>
         <source>Author: </source>
         <translation>Автор: </translation>
     </message>
@@ -7065,7 +7062,13 @@ The plugin has a number of simple settings that can help you:
 * set the time interval after which the message will be repeated
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин призван помочь Вам перевести как можно большее количество Ваших контактов с ICQ на Jabber.
+Плагин имеет ряд несложных настроек, с помощью которых можно:
+ * задать текст сообщения
+ * исключить определённые ICQ номера
+ * задать интервал времени, по истечении которого сообщение может быть повторено
+ * отключить сообщения для активного окна/вкладки
+ * отключить сообщения для контактов не из Вашего ростера</translation>
     </message>
 </context>
 <context>
@@ -7110,7 +7113,9 @@ The plugin has a number of simple settings that can help you:
         <source>This plugin is designed to send images to roster contacts.
 Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин предназначен для отправки собеседнику графического изображения.
+Клиент собеседника должен поддерживать XEP-0071: XHTML-IM и поддерживать схему data:URI.
+Примечание: для корректной работы требуется, чтобы опция &quot;options.ui.chat.central-toolbar&quot; была установлена в &quot;true&quot;.</translation>
     </message>
 </context>
 <context>
@@ -7429,6 +7434,16 @@ to play chess. He wants to play %2.</source>
         <source>Play Black</source>
         <translation>Играть чёрными</translation>
     </message>
+    <message>
+        <location filename="../src/plugins/generic/chessplugin/invitedialog.cpp" line="-19"/>
+        <source>white</source>
+        <translation>белые</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>black</source>
+        <translation>чёрные</translation>
+    </message>
 </context>
 <context>
     <name>JuickPlugin</name>
@@ -7548,7 +7563,13 @@ Currently, the plugin is able to:
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
 Note: To work correctly, the option options.html.chat.render  must be set to true. </source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин предназначен для эффективной и комфортной работы с сервисом микроблогов Juick.
+На текущий момент плагин умеет:
+ * Раскрашивать @ники, *тэги, #id_сообщений в сообщениях от бота juick@juick.com
+ * Распознавать &gt;цитаты в сообщениях
+ * Кликабельные @ники, *тэги, #id_сообщений и другие управляющие элементы для подстановки их в строку ввода.
+
+Примечание: для корректной работы плагина опция &quot;options.html.chat.render&quot; должна быть установленна в &quot;true&quot;.</translation>
     </message>
     <message>
         <location line="-1367"/>
@@ -8088,7 +8109,7 @@ Reason: %1</source>
 <context>
     <name>MainWin</name>
     <message>
-        <location filename="../src/mainwin.cpp" line="+1564"/>
+        <location filename="../src/mainwin.cpp" line="+1574"/>
         <source>%1 events received</source>
         <translation>Новых сообщений: %1</translation>
     </message>
@@ -8098,7 +8119,7 @@ Reason: %1</source>
         <translation>1 новое сообщение</translation>
     </message>
     <message>
-        <location line="-274"/>
+        <location line="-284"/>
         <source>Connecting</source>
         <translation>Соединение</translation>
     </message>
@@ -9114,7 +9135,7 @@ Tags: %1</source>
     <message>
         <location line="+34"/>
         <source>No plugin selected</source>
-        <translation>Модуль не выбран</translation>
+        <translation>Плагин не выбран</translation>
     </message>
     <message>
         <location line="-10"/>
@@ -9192,7 +9213,7 @@ Tags: %1</source>
     <message>
         <location line="+17"/>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>секунд</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -10146,23 +10167,23 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_plugins.cpp" line="+132"/>
         <source>No plugin selected.</source>
-        <translation>Модуль не выбран.</translation>
+        <translation>Плагин не выбран.</translation>
     </message>
     <message>
         <location line="-105"/>
         <source>Options for Psi plugins</source>
-        <translation>Настройка модулей</translation>
+        <translation>Настройка плагинов</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Plugins</source>
-        <translation>Модули</translation>
+        <translation>Плагины</translation>
     </message>
     <message>
         <location line="+111"/>
         <location line="+31"/>
         <source>This plugin has no user configurable options</source>
-        <translation>Этот модуль не имеет опций для настройки пользователем</translation>
+        <translation>Этот плагин не имеет опций для настройки пользователем</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -11565,7 +11586,7 @@ Reason: %1.</source>
 <context>
     <name>PsiActionList::Private</name>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="+361"/>
+        <location filename="../src/psiactionlist.cpp" line="+364"/>
         <source>About</source>
         <translation>О программе</translation>
     </message>
@@ -11585,7 +11606,7 @@ Reason: %1.</source>
         <translation>О библиотеке Qt</translation>
     </message>
     <message>
-        <location line="-136"/>
+        <location line="-139"/>
         <source>Account Setup</source>
         <translation>Настройки аккаунта</translation>
     </message>
@@ -11640,12 +11661,12 @@ Reason: %1.</source>
         <translation>Готов поболтать</translation>
     </message>
     <message>
-        <location line="+94"/>
+        <location line="+98"/>
         <source>Help</source>
         <translation>Справка</translation>
     </message>
     <message>
-        <location line="-43"/>
+        <location line="-47"/>
         <source>&amp;Home Page (Online)</source>
         <translation>&amp;Домашняя страница</translation>
     </message>
@@ -11757,7 +11778,18 @@ Reason: %1.</source>
         <translation>Конференция обсуждения Psi</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+2"/>
+        <location line="+1"/>
+        <source>Check for Updates...</source>
+        <translation>Проверка обновлений...</translation>
+    </message>
+    <message>
+        <location line="-1"/>
+        <source>&amp;Check for Updates...</source>
+        <translation>&amp;Проверка обновлений...</translation>
+    </message>
+    <message>
+        <location line="+12"/>
         <source>About GStreamer</source>
         <translation>О GStreamer</translation>
     </message>
@@ -11777,7 +11809,7 @@ Reason: %1.</source>
         <translation>&amp;Ключ защиты памяти</translation>
     </message>
     <message>
-        <location line="-107"/>
+        <location line="-110"/>
         <source>Menu Items</source>
         <translation>Пункты меню</translation>
     </message>
@@ -11842,7 +11874,7 @@ Reason: %1.</source>
         <translation>Инструкции</translation>
     </message>
     <message>
-        <location line="+21"/>
+        <location line="+24"/>
         <source>Report a &amp;Bug (Online)</source>
         <translation>Сообщить об о&amp;шибке</translation>
     </message>
@@ -11863,7 +11895,7 @@ Reason: %1.</source>
         <translation>&amp;Модули безопасности</translation>
     </message>
     <message>
-        <location line="-127"/>
+        <location line="-130"/>
         <location line="+97"/>
         <source>See many useful tips</source>
         <translation>Просмотр многих полезных советов</translation>
@@ -12977,7 +13009,7 @@ Proceed?</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="+651"/>
+        <location filename="../src/groupchatdlg.cpp" line="+650"/>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
         <translation>Предупреждение: команда %1 не рекомендуется и будет удалена в будущем</translation>
     </message>
@@ -13586,7 +13618,7 @@ Proceed?</source>
         <translation>Невидимый</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="-1339"/>
+        <location filename="../src/eventdlg.cpp" line="-1341"/>
         <source>Invitation to %1</source>
         <translation>Приглашение в %1</translation>
     </message>
@@ -14548,7 +14580,7 @@ Description: </source>
     <message>
         <location line="+1"/>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин позволяет отображать X-Статусы контактов, которые используют QIP Infium в качестве Jabber-клиента.</translation>
     </message>
 </context>
 <context>
@@ -14672,14 +14704,7 @@ Reason: %1</source>
         <translation>Очистить кэш дней рождения</translation>
     </message>
     <message>
-        <location line="+2"/>
-        <source>If you use this plugin at first time, make sure that all your accounts 
-is online and then press &quot;Check Birthdays&quot; button. It takes some time.</source>
-        <translation>Если Вы используете модуль в первый раз — проверьте, что все ваши аккаунты 
-подключены и после этого нажмите &quot;Проверить дни рождения&quot;. Это займёт некоторое время.</translation>
-    </message>
-    <message>
-        <location line="+7"/>
+        <location line="+9"/>
         <source>Start notifying</source>
         <translation>Начать извещение за</translation>
     </message>
@@ -14742,7 +14767,8 @@ is online and then press &quot;Check Birthdays&quot; button. It takes some time.
         <location line="+1"/>
         <source>This plugin is designed to show reminders of upcoming birthdays.
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин предназначен для напоминаний о приближающихся днях рождения.
+Если Вы установили этот плагин впервые, то вам необходимо выйти всеми своими аккаунтами в онлайн, зайти в настройки плагина и нажать кнопку &quot;Обновить дни рождения&quot;. В результате будет собрана информация о днях рождения пользователей в вашем ростере, а если выбрана соответствующая опция, то и пользователей, vCard&apos;ы которых находятся в кэше на жёстком диске.</translation>
     </message>
     <message>
         <location line="-208"/>
@@ -14750,7 +14776,14 @@ The first time you install this plugin, you need to log on to all of your accoun
         <translation> отмечает день рождения сегодня!</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="-356"/>
+        <source>If you use this plugin at first time, make sure that all your accounts 
+is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
+        <translation>Если Вы используете плагин в первый раз — проверьте, что все ваши аккаунты 
+подключены и после этого нажмите &quot;Обновить дни рождения&quot;. Это займёт некоторое время.</translation>
+    </message>
+    <message>
+        <location line="+359"/>
         <source>celebrates birthday in </source>
         <translation> отмечает день рождения через </translation>
     </message>
@@ -14973,7 +15006,18 @@ The plugin has the following settings:
 The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2 or as ftp.domain.tld/path1/path2
 
 Note: If you do not specify one of the parameters, Url, Login, Password, then the image file will be saved to local disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин позволяет делать копию экрана и сохранять на локальный диск или загружать на FTP-сервер.
+Плагин имеет следующие настройки:
+Shortcut -- горячая клавиша для вызова плагина (по умолчанию, Ctrl+Alt+P)
+Format -- формат графического файла, в котором будет сохранена копия экрана (по умолчанию, png)
+File Name -- формат имени графического файла (по умолчанию, pic-yyyyMMdd-hhmmss, где yyyyMMdd=ГГГГММДД, hhmmss=ччммсс - текущая дата в формате годмесяцдень-часминутасекунда)
+Url -- адрес FTP-сервера, на который будет загружен графический файл
+Login -- имя пользователя FTP-сервера
+Password -- пароль
+
+Адрес FTP-сервера задаётся в виде ftp://ftp.domain.tld/path1/path2, либо в виде ftp.domain.tld/path1/path2
+
+Примечание: если не указан один из параметров Url, Login или Password, то графический файл будет сохранён на локальный диск.</translation>
     </message>
 </context>
 <context>
@@ -15904,7 +15948,16 @@ In most cases, to be sure that the skin is applied correctly, you must perform a
 2. Restart the application
 3. Apply the same skin again
 This allows all settings (icons, toolbar layout) to be picked up correctly. </source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин предназначен для создания, хранения и применения скинов для Psi+.
+Скин - это набор пользовательских настроек.
+Чтобы загрузить новый скин - создайте в каталоге PsiData? папку skins и расположите там скины. Либо можно открыть файл скина из любого места самостоятельно.
+Каждый скин должен лежать в отдельном каталоге. Рядом с файлом скина можно положить скриншот.
+
+В большинстве случаев, чтобы быть уверенным, что скин применился правильно, необходимо выполнить такую последовательность действий:
+1.Применить скин
+2.Перезапустить приложение
+3.Применить этот же скин повторно
+Это позволит всем настройкам (иконкам, расположению панелей инструментов) подхватиться правильно.</translation>
     </message>
 </context>
 <context>
@@ -16213,7 +16266,26 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин предназначен для блокировки получения в ростер пользователя Psi+ рассылок спама и другой нежелательной информации.
+Функционал плагина основан на принципе &quot;вопрос - ответ&quot;.
+С помощью настроек плагина можно:
+ * ввести контрольный вопрос и ответ на него
+ * задать набор правил, определяющих, будет ли срабатывать плагин для данного контакта
+ * задать текст сообщения, посылаемого в случае правильного ответа
+ * включить уведомления при помощи всплывающих окон
+ * включить сохранение заблокированных сообщений в истории контакта
+ * задать количество посылок вопроса
+ * задать интервал времени, по истечении которого счетчик количества отправленных вопросов будет обнулён
+ * включить блокировку приватных сообщений в конференциях
+ * выбрать для каких рангов и ролей участников конференции блокировка сообщений будет отключена
+ * включить полную блокировку приватных сообщений для участников конференции, которые не попадают в список исключений и для ролей и рангов которых включена блокировка.
+
+Правила проверяются сверху вниз. Если напротив правила стоит галочка Enabled - стопспам сработает, иначе - нет. В случае, когда ни одно из правил не сработало, для сообщений из ростера можно задать, сработает ли плагин или нет. Для приватных же сообщений из конференций - всегда сработает.
+Контрольный вопрос и ответ, а также список правил общий как для обычных сообщений, так и для приватных сообщений в конференциях.
+Также пользователю, прошедшему тест, придётся заново запрашивать авторизацию. Это стоит отметить в сообщении, отсылаемом в случае правильного ответа на контрольный вопрос.
+Плагин ведёт лог заблокированных сообщений, который можно просмотреть из настроек плагина. Кнопка &quot;Reset&quot; удаляет этот лог, и сбрасывает счётчик заблокированных сообщений.
+
+ВНИМАНИЕ!!! Перед регистрацией на новом транспорте рекомендуется добавить jid транспорта в исключения. Это связано с тем, что после регистрации транспорт запрашивает авторизацию для всех контактов и если его не добавить в исключения, то плагин заблокирует все запросы.</translation>
     </message>
     <message>
         <location line="-267"/>
@@ -16253,13 +16325,15 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин представляет собой реализацию XEP-0049: Private XML Storage.
+Плагин полностью совместим с заметками, сохранёнными из клиента Miranda IM.
+Предназначен для хранения заметок на jabber-сервере, с возможностью доступа к ним из любого места через клиент Psi+ или Miranda IM.</translation>
     </message>
 </context>
 <context>
     <name>TabDlg</name>
     <message>
-        <location filename="../src/tabs/tabdlg.cpp" line="+535"/>
+        <location filename="../src/tabs/tabdlg.cpp" line="+540"/>
         <source> is composing</source>
         <translation> печатает</translation>
     </message>
@@ -16269,7 +16343,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
         <translation>%1 Чаты</translation>
     </message>
     <message>
-        <location line="-249"/>
+        <location line="-254"/>
         <source>Close Current Tab</source>
         <translation>Закрыть вкладку</translation>
     </message>
@@ -16852,7 +16926,8 @@ And these work only in groupchat dialog:
         <location line="+1"/>
         <source>This plugin allows you to convert selected text into another language.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин позволяет конвертировать выделенный текст в другую языковую раскладку.
+</translation>
     </message>
     <message>
         <location line="-259"/>
@@ -16882,41 +16957,31 @@ And these work only in groupchat dialog:
     <name>TypeAheadFindBar</name>
     <message>
         <location filename="../src/widgets/typeaheadfind.cpp" line="+151"/>
-        <location line="+1"/>
-        <source>Close</source>
-        <translation>Закрыть</translation>
+        <source>Search</source>
+        <translation>Найти</translation>
     </message>
     <message>
-        <location line="+13"/>
+        <location line="+4"/>
+        <location line="+2"/>
         <source>Find next</source>
         <translation>Следующее</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+4"/>
+        <location line="+2"/>
         <source>Find previous</source>
         <translation>Предыдущее</translation>
     </message>
     <message>
-        <location line="+74"/>
-        <source>Find &amp;next</source>
-        <translation>&amp;Следующее</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Find &amp;previous</source>
-        <translation>&amp;Предыдущее</translation>
-    </message>
-    <message>
         <location filename="../src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="+68"/>
         <location filename="../src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+68"/>
-        <location filename="../src/widgets/typeaheadfind.cpp" line="-87"/>
         <source>Search: </source>
         <translation>Найти: </translation>
     </message>
     <message>
         <location line="+21"/>
         <location filename="../src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+21"/>
-        <location filename="../src/widgets/typeaheadfind.cpp" line="+17"/>
+        <location filename="../src/widgets/typeaheadfind.cpp" line="+4"/>
         <source>&amp;Case sensitive</source>
         <translation>Учесть &amp;регистр</translation>
     </message>
@@ -17268,7 +17333,8 @@ And these work only in groupchat dialog:
         <location line="+1"/>
         <source>This plugin is designed to monitor the status of specific roster contacts.
 When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин предназначен для наблюдения за статусом определённых пользователей в ростере.
+При смене статуса таких контактов будет показываться всплывающее окно, а при смене статуса на &quot;доступен&quot; - ещё и проигрываться указанный звук.</translation>
     </message>
 </context>
 <context>
@@ -17719,6 +17785,7 @@ The contents of the whiteboard will be lost.</source>
     <name>options</name>
     <message>
         <location filename="../src/plugins/generic/chessplugin/options.ui" line="+14"/>
+        <location filename="../src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="+14"/>
         <source>Form</source>
         <translation></translation>
     </message>
@@ -17761,6 +17828,58 @@ The contents of the whiteboard will be lost.</source>
         <location line="+7"/>
         <source>Disable invitations, if status is DND</source>
         <translation>Отключить приглашения, если статус &quot;Не беспокоить&quot;</translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="+8"/>
+        <source>Auto Reply Message If Recv:</source>
+        <translation>Сообщение автоответа если принято:</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Auto Reply Message If No Recv:</source>
+        <translation>Сообщение автоответа если заблокировано:</translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Custom options:
+-uin - do nothing
++uin - send replay
+!uin - block message
+[-+!]other - default
+[-+!]nil - not in list
+# - comment to end line</source>
+        <translation>Пользовательские настройки:
+-uin - ничего не делать
++uin - отправить ответ
+!uin - заблокировать сообщение
+[-+!]other - по умолчанию
+[-+!]nil - не в списке
+# - комментарий к строке</translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Pause for next Recv message:</source>
+        <translation>Пауза перед ответом на следующее принятое сообщение:</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>min.</source>
+        <translation>мин.</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Disable if chat window is active</source>
+        <translation>Отключить, если открыто окно чата</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Transports:</source>
+        <translation>Сервисы:</translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
