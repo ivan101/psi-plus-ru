@@ -7405,7 +7405,17 @@ Are you sure you want to discard them?</source>
         <translation>Отклонить</translation>
     </message>
     <message>
-        <location filename="../src/plugins/generic/chessplugin/invitedialog.cpp" line="+45"/>
+        <location filename="../src/plugins/generic/chessplugin/invitedialog.cpp" line="+46"/>
+        <source>white</source>
+        <translation>белые</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>black</source>
+        <translation>чёрные</translation>
+    </message>
+    <message>
+        <location line="+2"/>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
         <translation>Игрок %1 приглашает Вас
@@ -7433,16 +7443,6 @@ to play chess. He wants to play %2.</source>
         <location line="+7"/>
         <source>Play Black</source>
         <translation>Играть чёрными</translation>
-    </message>
-    <message>
-        <location filename="../src/plugins/generic/chessplugin/invitedialog.cpp" line="-19"/>
-        <source>white</source>
-        <translation>белые</translation>
-    </message>
-    <message>
-        <location line="+4"/>
-        <source>black</source>
-        <translation>чёрные</translation>
     </message>
 </context>
 <context>
