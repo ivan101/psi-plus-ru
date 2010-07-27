@@ -3242,7 +3242,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location line="+1"/>
         <source>RegExp</source>
-        <translation>Рег. выр.</translation>
+        <translation>Маска</translation>
     </message>
     <message>
         <location line="+164"/>
@@ -3924,7 +3924,7 @@ Proceed?</source>
     <message>
         <location line="+5"/>
         <source>Service Discovery toolbar</source>
-        <translation>Панель инструментов служб</translation>
+        <translation>Панель инструментов сервисов</translation>
     </message>
     <message>
         <location line="-33"/>
@@ -6866,7 +6866,7 @@ You can select or deselect a contact for history removal from the context menu o
     <message>
         <location filename="../src/options/opt_iconset_emo.ui" line="+38"/>
         <source>Emoticon iconsets</source>
-        <translation>Наборы смайлов</translation>
+        <translation>Иконки смайлов</translation>
     </message>
     <message>
         <location line="-10"/>
@@ -6927,12 +6927,12 @@ You can select or deselect a contact for history removal from the context menu o
     <message>
         <location line="+112"/>
         <source>Custom iconsets:</source>
-        <translation>Пользовательские наборы иконок:</translation>
+        <translation>Иконки пользователя:</translation>
     </message>
     <message>
         <location line="-284"/>
         <source>Default</source>
-        <translation>По умолчанию</translation>
+        <translation>Для всех</translation>
     </message>
     <message>
         <location line="-16"/>
@@ -6942,7 +6942,7 @@ You can select or deselect a contact for history removal from the context menu o
     <message>
         <location line="+28"/>
         <source>Default roster iconset:</source>
-        <translation>Основной набор иконок для ростера:</translation>
+        <translation>Иконки ростера, если не заданы пользовательские:</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -6960,22 +6960,22 @@ You can select or deselect a contact for history removal from the context menu o
         <location line="-153"/>
         <location line="+175"/>
         <source>Iconset</source>
-        <translation>Набор иконок</translation>
+        <translation>Иконки</translation>
     </message>
     <message>
         <location line="-66"/>
         <source>Iconset:</source>
-        <translation>Набор иконок:</translation>
+        <translation>Иконки</translation>
     </message>
     <message>
         <location line="+61"/>
         <source>RegExp</source>
-        <translation>Рег. выр.</translation>
+        <translation>Маска</translation>
     </message>
     <message>
         <location line="-54"/>
         <source>Regular expression:</source>
-        <translation>Регулярное выражение:</translation>
+        <translation>Регулярное выражение (маска):</translation>
     </message>
     <message>
         <location line="-121"/>
@@ -6985,17 +6985,17 @@ You can select or deselect a contact for history removal from the context menu o
     <message>
         <location line="+70"/>
         <source>Service iconsets:</source>
-        <translation>Наборы иконок для служб:</translation>
+        <translation>Иконки для сервисов:</translation>
     </message>
     <message>
         <location line="-118"/>
         <source>Services</source>
-        <translation>Службы</translation>
+        <translation>Для сервисов</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Use transport specific icons for contacts</source>
-        <translation>Использовать иконки служб для контактов</translation>
+        <translation>Использовать иконки сервисов для контактов</translation>
     </message>
 </context>
 <context>
@@ -10120,7 +10120,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location line="+443"/>
         <source>Roster Icons</source>
-        <translation>Иконки ростера</translation>
+        <translation>Ростер</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -10158,7 +10158,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location line="+0"/>
         <source>System Icons</source>
-        <translation>Системные иконки</translation>
+        <translation>Системные</translation>
     </message>
 </context>
 <context>
