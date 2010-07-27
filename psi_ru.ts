@@ -11683,7 +11683,7 @@ Reason: %1.</source>
     <message>
         <location line="-175"/>
         <source>Show Roster Groups</source>
-        <translation>Показывать группы в ростере</translation>
+        <translation>Группы</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -11907,37 +11907,37 @@ Reason: %1.</source>
     <message>
         <location line="-57"/>
         <source>Show Agents/Transports</source>
-        <translation>Показывать сервисы</translation>
+        <translation>Сервисы</translation>
     </message>
     <message>
         <location line="-7"/>
         <source>Show Away/XA/DnD Contacts</source>
-        <translation>Показывать занятые контакты</translation>
+        <translation>Занятые</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Show Contacts</source>
-        <translation>Показ контактов</translation>
+        <translation>Контакты ростера</translation>
     </message>
     <message>
         <location line="-24"/>
         <source>Show Hidden Contacts</source>
-        <translation>Показывать скрытые контакты</translation>
+        <translation>Скрытые</translation>
     </message>
     <message>
         <location line="-7"/>
         <source>Show Offline Contacts</source>
-        <translation>Показывать отключённых</translation>
+        <translation>Отключённые</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Show Self Contact</source>
-        <translation>Показывать свой контакт</translation>
+        <translation>Свой контакт</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Show Status Messages</source>
-        <translation>Показывать статусные сообщения</translation>
+        <translation>Статусные сообщения</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -11974,7 +11974,7 @@ Reason: %1.</source>
     <message>
         <location line="-205"/>
         <source>Toggle visibility of special roster groups</source>
-        <translation>Переключить показ групп в списке контактов</translation>
+        <translation>Настройка отображения элементов ростера</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -12035,7 +12035,7 @@ Reason: %1.</source>
     <message>
         <location line="-209"/>
         <source>View Groups</source>
-        <translation>Показ групп</translation>
+        <translation>Контакты ростера</translation>
     </message>
     <message>
         <location line="+212"/>
