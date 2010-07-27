@@ -8183,7 +8183,6 @@ Reason: %1</source>
     <message>
         <location line="+53"/>
         <source>Status Message</source>
-        <translatorcomment>fixme</translatorcomment>
         <translation>Статусное сообщение</translation>
     </message>
     <message>
@@ -8635,7 +8634,7 @@ Tags: %1</source>
     <message>
         <location line="+7"/>
         <source>Status messages:</source>
-        <translation>Статус сообщений:</translation>
+        <translation>Статусное сообщение:</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -9807,7 +9806,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location line="+10"/>
         <source>Status message</source>
-        <translation>Сообщение состояния</translation>
+        <translation>Статусное сообщение</translation>
     </message>
 </context>
 <context>
