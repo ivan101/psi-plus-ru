@@ -13826,11 +13826,12 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <location line="+3"/>
+        <location line="+221"/>
         <source>&amp;Block</source>
         <translation>&amp;Блокировка</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="-218"/>
         <source>Disable mood notifications</source>
         <translation>Отключить уведомления о настроениях</translation>
     </message>
@@ -13976,11 +13977,12 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <location line="+4"/>
+        <location line="+451"/>
         <source>Block</source>
         <translation>Заблокировать</translation>
     </message>
     <message>
-        <location line="+33"/>
+        <location line="-418"/>
         <source>Authorization</source>
         <translation>Подписка</translation>
     </message>
@@ -13988,6 +13990,82 @@ This may mean you are already running another instance of Psi. You may experienc
         <location line="+7"/>
         <source>&amp;Picture</source>
         <translation>&amp;Аватар</translation>
+    </message>
+    <message>
+        <location line="+59"/>
+        <source>&amp;Unblock</source>
+        <translation>&amp;Разблокировать</translation>
+    </message>
+    <message>
+        <location line="+119"/>
+        <source>Invitation</source>
+        <translation>Приглашение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
+        <translation>Послано приглашение в конференцию &lt;b&gt;%1&lt;/b&gt; .</translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Add</source>
+        <translation>Добавить</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
+        <translation>&lt;b&gt;%1&lt;/b&gt; добавлен в список контактов/авторизован.</translation>
+    </message>
+    <message>
+        <location line="+66"/>
+        <location line="+9"/>
+        <source>Authorize</source>
+        <translation>Подписка</translation>
+    </message>
+    <message>
+        <location line="-8"/>
+        <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
+        <translation>Подписка к &lt;b&gt;%1&lt;/b&gt; отправлена.</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
+        <translation>Запрошена подписка у &lt;b&gt;%1&lt;/b&gt;.</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Remove</source>
+        <translation>Удаление</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
+        <translation>Удалить подписку у &lt;b&gt;%1&lt;/b&gt;?</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&amp;Yes</source>
+        <translation>&amp;Да</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>&amp;No</source>
+        <translation>&amp;Нет</translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>Choose an Image</source>
+        <translation>Выберите изображение</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>All files (*.png *.jpg *.gif)</source>
+        <translation>Все файлы (*.png *.jpg *.gif)</translation>
+    </message>
+    <message>
+        <location line="+93"/>
+        <source>Unblock</source>
+        <translation>Разблокировать</translation>
     </message>
 </context>
 <context>
