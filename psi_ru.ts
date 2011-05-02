@@ -66,14 +66,24 @@
         <translation></translation>
     </message>
     <message utf8="true">
-        <location line="+61"/>
         <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2010 The Psi Team.&lt;br&gt;
 </source>
-        <translation>Стильный, мультиплатформенный джаббер-клиент для опытного пользователя.&lt;br&gt;
+        <translation type="obsolete">Стильный, мультиплатформенный джаббер-клиент для опытного пользователя.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2010 The Psi Team.&lt;br&gt;</translation>
+    </message>
+    <message utf8="true">
+        <location line="+61"/>
+        <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2011 The Psi Team.&lt;br&gt;
+</source>
+        <translation>Стильный, мультиплатформенный джаббер-клиент для опытного пользователя.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2011 The Psi Team.&lt;br&gt;
+</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -92,7 +102,7 @@ Copyright © 2001-2010 The Psi Team.&lt;br&gt;</translation>
         <translation>О Psi+</translation>
     </message>
     <message>
-        <location filename="../src/aboutdlg.cpp" line="+109"/>
+        <location filename="../src/aboutdlg.cpp" line="+112"/>
         <source>Bug Tracker Management</source>
         <translation>Отслеживание ошибок</translation>
     </message>
@@ -107,7 +117,7 @@ Copyright © 2001-2010 The Psi Team.&lt;br&gt;</translation>
         <translation>&amp;Закрыть</translation>
     </message>
     <message>
-        <location filename="../src/aboutdlg.cpp" line="-65"/>
+        <location filename="../src/aboutdlg.cpp" line="-68"/>
         <location line="+3"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
@@ -128,12 +138,11 @@ Copyright © 2001-2010 The Psi Team.&lt;br&gt;</translation>
         <translation>Основатель и ведущий автор патчей</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Plugins Writer and Patcher</source>
-        <translation>Разработчик плагинов и автор патчей</translation>
+        <translation type="obsolete">Разработчик плагинов и автор патчей</translation>
     </message>
     <message>
-        <location line="+9"/>
+        <location line="+15"/>
         <source>Patcher</source>
         <translation>Автор патчей</translation>
     </message>
@@ -148,12 +157,23 @@ Copyright © 2001-2010 The Psi Team.&lt;br&gt;</translation>
         <translation>Сопровождающий пакета для Mandriva Linux</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="-18"/>
+        <location line="+33"/>
+        <source>Patcher and Plugins Writer</source>
+        <translation>Автор патчей и разработчик плагинов</translation>
+    </message>
+    <message>
+        <location line="-27"/>
+        <source>Patcher, Plugins Writer and Fedora Packager</source>
+        <translation>Автор патчей, разработчик плагинов и сопровождающий пакета для Fedora</translation>
+    </message>
+    <message>
+        <location line="+24"/>
         <source>Mac OS X Packager</source>
         <translation>Сопровождающий пакета для Mac OS X</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+13"/>
         <source>Former language coordinator, miscellaneous assistance</source>
         <translation>Бывший координатор перевода, различная помощь</translation>
     </message>
@@ -174,7 +194,7 @@ Copyright © 2001-2010 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt; и здесь: &lt;a href=&quot;http://psi-ru.googlecode.com/svn/branches/psi-plus/&quot;&gt;svn&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 23.01.2011</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt; и здесь: &lt;a href=&quot;http://psi-ru.googlecode.com/svn/branches/psi-plus/&quot;&gt;svn&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 02.05.2011</translation>
     </message>
     <message>
         <location line="-49"/>
@@ -182,7 +202,7 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>Координатор перевода, различная помощь</translation>
     </message>
     <message>
-        <location line="-71"/>
+        <location line="-74"/>
         <source>Current Maintainer and Original Author</source>
         <translation>Текущий сопровождающий и автор идеи</translation>
     </message>
@@ -207,7 +227,7 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>Лицензия</translation>
     </message>
     <message>
-        <location filename="../src/aboutdlg.cpp" line="+83"/>
+        <location filename="../src/aboutdlg.cpp" line="+86"/>
         <source>Mac OS X Port</source>
         <translation>Портирование на Mac OS X</translation>
     </message>
@@ -217,12 +237,12 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>Многие иконки взяты из его темы Crystal</translation>
     </message>
     <message>
-        <location line="-31"/>
+        <location line="-34"/>
         <source>Ubuntu Packager</source>
         <translation>Сопровождающий пакета для Ubuntu</translation>
     </message>
     <message>
-        <location line="+46"/>
+        <location line="+49"/>
         <source>Original End User Documentation</source>
         <translation>Документация для конечного пользователя</translation>
     </message>
@@ -232,7 +252,7 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>Портирование на Mac OS X</translation>
     </message>
     <message>
-        <location line="-67"/>
+        <location line="-70"/>
         <source>Active project members are presents below:</source>
         <translation>Активные участники проекта представлены ниже:</translation>
     </message>
@@ -242,12 +262,11 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>Дизайнер и автор патчей</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Patcher and Fedora Packager</source>
-        <translation>Автор патчей и сопровождающий пакета для Fedora</translation>
+        <translation type="obsolete">Автор патчей и сопровождающий пакета для Fedora</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+9"/>
         <source>Ubuntu Packager and Patcher</source>
         <translation>Сопровождающий пакета для Ubuntu и автор патчей</translation>
     </message>
@@ -262,7 +281,7 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>Автор патчей для Psimedia и английского перевода</translation>
     </message>
     <message>
-        <location line="+43"/>
+        <location line="+46"/>
         <source>Patches</source>
         <translation>Патчи</translation>
     </message>
@@ -500,12 +519,27 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Приоритет по умолчанию:</translation>
     </message>
     <message>
-        <location line="+145"/>
+        <location line="+34"/>
+        <source>Data Transfer</source>
+        <translation>Передача данных</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>In-Band only (slow)</source>
+        <translation>Только In-Band (медленно)</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Proxy:</source>
+        <translation>Прокси-сервер:</translation>
+    </message>
+    <message>
+        <location line="+106"/>
         <source>Authenticate as:</source>
         <translation>Авторизоваться как:</translation>
     </message>
     <message>
-        <location line="-839"/>
+        <location line="-855"/>
         <source>Automatically connect after sleep</source>
         <translation>Автоматически входить после спящего режима</translation>
     </message>
@@ -540,12 +574,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Прокси-сервер:</translation>
     </message>
     <message>
-        <location line="+329"/>
         <source>Data Transfer Proxy:</source>
-        <translation>Прокси-сервер для передачи данных:</translation>
+        <translation type="obsolete">Прокси-сервер для передачи данных:</translation>
     </message>
     <message>
-        <location line="-688"/>
+        <location line="-359"/>
         <source>Details</source>
         <translation>Подробности</translation>
     </message>
@@ -566,12 +599,12 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <location line="+524"/>
-        <location line="+304"/>
+        <location line="+320"/>
         <source>Host:</source>
         <translation>Сервер:</translation>
     </message>
     <message>
-        <location line="-821"/>
+        <location line="-837"/>
         <source>Jabber ID:</source>
         <translation>Jabber ID:</translation>
     </message>
@@ -602,23 +635,23 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <location line="-163"/>
-        <location line="+852"/>
+        <location line="+868"/>
         <source>Password:</source>
         <translation>Пароль:</translation>
     </message>
     <message>
-        <location line="-747"/>
+        <location line="-763"/>
         <source>Personal Information</source>
         <translation>Личная информация</translation>
     </message>
     <message>
         <location line="+402"/>
-        <location line="+304"/>
+        <location line="+320"/>
         <source>Port:</source>
         <translation>Порт:</translation>
     </message>
     <message>
-        <location line="-550"/>
+        <location line="-566"/>
         <source>Privacy</source>
         <translation>Приватность</translation>
     </message>
@@ -628,7 +661,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Использовать стандартный порт SSL</translation>
     </message>
     <message>
-        <location line="+215"/>
+        <location line="+231"/>
         <source>STUN/TURN</source>
         <translation>STUN/TURN</translation>
     </message>
@@ -644,7 +677,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Полное имя:</translation>
     </message>
     <message>
-        <location line="-563"/>
+        <location line="-579"/>
         <source>Remove</source>
         <translation>Удалить</translation>
     </message>
@@ -692,7 +725,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
 <context>
     <name>AccountModifyDlg</name>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="+486"/>
+        <location filename="../src/accountmodifydlg.cpp" line="+494"/>
         <source>&lt;i&gt;Jabber ID&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
         <translation>&lt;i&gt;Jabber ID&lt;/i&gt; должен быть указан в формате &lt;i&gt;user@host&lt;/i&gt;.</translation>
     </message>
@@ -702,18 +735,18 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>&lt;i&gt;Имя пользователя&lt;/i&gt; указано неправильно.</translation>
     </message>
     <message>
-        <location line="-223"/>
+        <location line="-228"/>
         <source>&lt;p&gt;You can have multiple clients connected to the Jabber server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your Jabber client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
         <translation>&lt;p&gt;У вас может быть несколько клиентов, подключённых к серверу Jabber и использующих один аккаунт. Сообщения, для которых не указан &quot;ресурс-получатель&quot; будут доставляться ресурсу с наибольшим приоритетом (указываемом здесь).&lt;/p&gt;&lt;p&gt;Например, если у вас постоянное соединение с Интернетом на работе и модемное - дома, вы можете оставлять клиент Jabber на работе постоянно работающим с низким приоритетом. При этом вы сможете пользоваться тем же аккаунтом при работе дома с помощью клиента с более высоким приоритетом, чтобы временно перехватывать сообщения у клиента, запущенного на рабочем месте.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location line="-155"/>
+        <location line="-158"/>
         <location line="+7"/>
         <source>Always</source>
         <translation>Всегда</translation>
     </message>
     <message>
-        <location line="+104"/>
+        <location line="+107"/>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
         <translation>Автоматически регистрироваться в сети при запуске, используя этот аккаунт. Полезно, если Psi запускается самостоятельно при обнаружении соединения с Интернетом.</translation>
     </message>
@@ -723,7 +756,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Базовый</translation>
     </message>
     <message>
-        <location line="-45"/>
+        <location line="-48"/>
         <source>Manual</source>
         <translation>Вручную</translation>
     </message>
@@ -743,7 +776,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Зависит от статуса</translation>
     </message>
     <message>
-        <location line="+422"/>
+        <location line="+431"/>
         <source>Reconnect &amp;Later</source>
         <translation>Переподключиться &amp;позднее</translation>
     </message>
@@ -753,12 +786,12 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Переподключиться &amp;сейчас</translation>
     </message>
     <message>
-        <location line="+29"/>
+        <location line="+30"/>
         <source>Block contact</source>
         <translation>Заблокировать контакт</translation>
     </message>
     <message>
-        <location line="-170"/>
+        <location line="-177"/>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
         <translation>Невозможно включить шифрование SSL/TLS. Модуль не найден.</translation>
     </message>
@@ -773,19 +806,19 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Включите эту опцию для использования зашифрованного SSL соединения к Jabber серверу.  Вы можете использовать эту опцию если ваш сервер это поддерживает и у вас установлен модуль QCA-OpenSSL.  Для дополнительной информации посетите домашнюю страничку проекта Psi.</translation>
     </message>
     <message>
-        <location line="+350"/>
+        <location line="+357"/>
         <source>Enter the Jabber ID of the contact to block:</source>
         <translation>Введите Jabber ID контакта для блокировки:</translation>
     </message>
     <message>
-        <location line="-178"/>
-        <location line="+74"/>
+        <location line="-185"/>
+        <location line="+79"/>
         <location line="+3"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location line="-310"/>
+        <location line="-315"/>
         <source>High</source>
         <translation>Высокий</translation>
     </message>
@@ -805,12 +838,12 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Хранить историю сообщений. Не включайте эту опцию, если хотите сохранить свободное место на жестком диске или если хотите обеспечить наибольшую безопасность.</translation>
     </message>
     <message>
-        <location line="-119"/>
+        <location line="-122"/>
         <source>Legacy SSL</source>
         <translation>Традиционный SSL</translation>
     </message>
     <message>
-        <location line="+301"/>
+        <location line="+304"/>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
         <translation>Традиционный SSL доступен только в комбинации с ручным выставлением адреса сервера и порта.</translation>
     </message>
@@ -825,13 +858,13 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Восстанавливать соединение при его разрыве. Полезно, когда соединение нестабильно и вам часто приходится подключаться снова.</translation>
     </message>
     <message>
-        <location line="-116"/>
+        <location line="-119"/>
         <location line="+7"/>
         <source>Never</source>
         <translation>Никогда</translation>
     </message>
     <message>
-        <location line="+265"/>
+        <location line="+268"/>
         <source>No Key Selected</source>
         <translation>Ключ не выбран</translation>
     </message>
@@ -846,22 +879,22 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Обычно Psi регистрируется в сети, используя режим аутентификации, при котором пароль не передаётся в открытом виде. Отметьте эту опцию, если хотите использовать базовую аутентификацию (пароль передаётся в открытом виде). Рекомендуется делать это только тогда, когда у вас возникают проблемы с обычной процедурой регистрации в сети, так как теоретически этот способ делает соединение уязвимым.</translation>
     </message>
     <message>
-        <location line="-96"/>
+        <location line="-99"/>
         <source>Over encrypted connection</source>
         <translation>Если соединение шифруется</translation>
     </message>
     <message>
-        <location line="+506"/>
+        <location line="+516"/>
         <source>Retrieving blocked contact list ...</source>
         <translation>Получение списка заблокированных контактов...</translation>
     </message>
     <message>
-        <location line="-178"/>
+        <location line="-180"/>
         <source>Secret Key</source>
         <translation>Приватный ключ</translation>
     </message>
     <message>
-        <location line="-210"/>
+        <location line="-215"/>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
         <translation>Периодически отправлять пакеты для поддержания соединения. Полезно, если ваше соединение автоматически разрывается после определённого периода бездействия (например, вашим поставщиком услуг Интернета), а вы этого не хотите.</translation>
     </message>
@@ -871,12 +904,12 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Ошибка SSL</translation>
     </message>
     <message>
-        <location line="+138"/>
+        <location line="+144"/>
         <source>This account is currently active, so certain changes may not take effect until the next login.</source>
         <translation>Этот аккаунт сейчас активен, поэтому некоторые изменения  вступят в силу после переподключения.</translation>
     </message>
     <message>
-        <location line="-299"/>
+        <location line="-305"/>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the Jabber ID you are logging in as.</source>
         <translation>Эта опция устанавливает имя пользователя (и полное имя), которое вам нужно для аутентификации на сервере. Это устанавливает JabberID, под которым вы будете входить на сервер.</translation>
     </message>
@@ -891,27 +924,27 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Имя пользователя:</translation>
     </message>
     <message>
-        <location line="+274"/>
+        <location line="+280"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
     <message>
-        <location line="-448"/>
+        <location line="-457"/>
         <source>When available</source>
         <translation>Если возможно</translation>
     </message>
     <message>
-        <location line="+522"/>
+        <location line="+532"/>
         <source>You are not connected.</source>
         <translation>Вы не присоединены к серверу.</translation>
     </message>
     <message>
-        <location line="-376"/>
+        <location line="-383"/>
         <source>You can have multiple clients connected to the Jabber server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
         <translation>У вас может быть несколько клиентов, подключённых к серверу Jabber и использующих один аккаунт. Клиент идентифицируется именем &quot;ресурса&quot;, которое можно указать здесь.</translation>
     </message>
     <message>
-        <location line="+405"/>
+        <location line="+412"/>
         <source>Your server does not support blocking.</source>
         <translation>Ваш сервер не поддерживает блокировку контактов.</translation>
     </message>
@@ -1484,52 +1517,44 @@ Make sure you enter a fully qualified Jabber ID.</source>
 <context>
     <name>AttentionPlugin</name>
     <message>
-        <location filename="../src/plugins/generic/attentionplugin/attentionplugin.cpp" line="+222"/>
         <source>Play sound:</source>
-        <translation>Проиграть звук:</translation>
+        <translation type="obsolete">Проиграть звук:</translation>
     </message>
     <message>
-        <location line="+9"/>
         <source>Show popup</source>
-        <translation>Показывать уведомление</translation>
+        <translation type="obsolete">Показывать уведомление</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>sec (0=disable, -1=infinite)</source>
-        <translation>сек (0=выкл., -1=всегда)</translation>
+        <translation type="obsolete">сек (0=выкл., -1=всегда)</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Allow receiving one Attention from the same contact every</source>
-        <translation>Разрешить привлекать внимание от того же контакта через</translation>
+        <translation type="obsolete">Разрешить привлекать внимание от того же контакта через</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>sec</source>
-        <translation>сек</translation>
+        <translation type="obsolete">сек</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Don&apos;t hide popup if status is Away or XA</source>
-        <translation>Не скрывать уведомление, если статус &quot;Недоступен&quot; или &quot;Отсутствую&quot;</translation>
+        <translation type="obsolete">Не скрывать уведомление, если статус &quot;Недоступен&quot; или &quot;Отсутствую&quot;</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Disable notifications if status is DND</source>
-        <translation>Отключить уведомления, если статус &quot;Не беспокоить&quot;</translation>
+        <translation type="obsolete">Отключить уведомления, если статус &quot;Не беспокоить&quot;</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
+        <translation type="obsolete">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
-        <location line="+45"/>
+        <location filename="../src/plugins/generic/attentionplugin/attentionplugin.cpp" line="+264"/>
         <source> sends Attention message to you!</source>
         <translation> пытается привлечь Ваше внимание!</translation>
     </message>
     <message>
-        <location line="+230"/>
+        <location line="+182"/>
         <source>You sent Attention message to %1</source>
         <translation>Вы попытались привлечь внимание %1</translation>
     </message>
@@ -1551,13 +1576,13 @@ To work correctly, the plugin requires that the client of the other part support
 Для работы необходимо, чтобы клиент собеседника поддерживал XEP-0224 (например: Pidgin, Miranda IM с плагином Nudge).</translation>
     </message>
     <message>
-        <location line="-172"/>
-        <location line="+132"/>
+        <location line="-128"/>
+        <location line="+88"/>
         <source>Send Attention</source>
         <translation>Привлечь внимание</translation>
     </message>
     <message>
-        <location line="-84"/>
+        <location line="-75"/>
         <source>Choose a sound file</source>
         <translation>Выбрать звуковой файл</translation>
     </message>
@@ -1567,7 +1592,7 @@ To work correctly, the plugin requires that the client of the other part support
         <translation>Звуковой файл (*.wav)</translation>
     </message>
     <message>
-        <location line="+21"/>
+        <location line="+15"/>
         <location line="+3"/>
         <source>Attention Plugin</source>
         <translation>Привлечение внимания</translation>
@@ -1818,6 +1843,15 @@ The list of exceptions for jids has two operating modes:
         <location line="+0"/>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
         <translation>Изображения (*.png *.gif *.jpg *.jpeg)</translation>
+    </message>
+</context>
+<context>
+    <name>BoardModel</name>
+    <message>
+        <location filename="../src/plugins/generic/gomokugameplugin/boardmodel.cpp" line="+293"/>
+        <source>The first turn can be only H8.</source>
+        <translatorcomment>wtf</translatorcomment>
+        <translation>В первую очередь, может быть только H8.</translation>
     </message>
 </context>
 <context>
@@ -2330,7 +2364,7 @@ Do you still want to close the window?</source>
 <context>
     <name>ChatEdit</name>
     <message>
-        <location filename="../src/msgmle.cpp" line="+346"/>
+        <location filename="../src/msgmle.cpp" line="+348"/>
         <source>Add to dictionary</source>
         <translation>Добавить в словарь</translation>
     </message>
@@ -2338,12 +2372,12 @@ Do you still want to close the window?</source>
 <context>
     <name>ChatView</name>
     <message>
-        <location filename="../src/chatview_te.cpp" line="+59"/>
+        <location filename="../src/chatview_te.cpp" line="+60"/>
         <source>Quote</source>
         <translation>Цитировать</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+2"/>
         <source>Ctrl+S</source>
         <translation></translation>
     </message>
@@ -2376,35 +2410,47 @@ Do you still want to close the window?</source>
 <context>
     <name>ChessPlugin</name>
     <message>
-        <location filename="../src/plugins/generic/chessplugin/chessplugin.cpp" line="+258"/>
+        <location filename="../src/plugins/generic/chessplugin/chessplugin.cpp" line="+266"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
-        <location line="+92"/>
+        <location line="+98"/>
         <location line="+15"/>
         <source>Chess!</source>
         <translation>Шахматы!</translation>
     </message>
     <message>
-        <location line="+98"/>
-        <location line="+78"/>
+        <location line="-21"/>
+        <location line="+148"/>
+        <location line="+85"/>
         <location line="+10"/>
         <location line="+14"/>
         <location line="+8"/>
-        <location line="+113"/>
+        <location line="+123"/>
         <source>Chess Plugin</source>
         <translation>Шахматы</translation>
     </message>
     <message>
-        <location line="-222"/>
+        <location line="-353"/>
+        <location line="+29"/>
+        <source>You are already playing!</source>
+        <translation>Вы уже играете!</translation>
+    </message>
+    <message>
+        <location line="+85"/>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
         <translation>Ваш соперник вышел из игры!
  Вы всё ещё можете сохранить игру.</translation>
     </message>
     <message>
-        <location line="+78"/>
+        <location line="+38"/>
+        <source>The game was rejected</source>
+        <translation>Игра была отклонена</translation>
+    </message>
+    <message>
+        <location line="+47"/>
         <source>You Lose.</source>
         <translation>Вы проиграли.</translation>
     </message>
@@ -2424,17 +2470,17 @@ Do you still want to close the window?</source>
         <translation>Неизвестная ошибка!</translation>
     </message>
     <message>
-        <location line="+36"/>
+        <location line="+33"/>
         <source>Chess Plugin: Invitation from %1</source>
         <translation>Шахматы: Приглашение от %1</translation>
     </message>
     <message>
-        <location line="+76"/>
+        <location line="+89"/>
         <source>You are allready playing!</source>
         <translation>Вы уже играете!</translation>
     </message>
     <message>
-        <location line="+58"/>
+        <location line="+72"/>
         <source>Choose a sound file</source>
         <translation>Выбрать звуковой файл</translation>
     </message>
@@ -2444,7 +2490,7 @@ Do you still want to close the window?</source>
         <translation>Звуковой файл (*.wav)</translation>
     </message>
     <message>
-        <location line="+60"/>
+        <location line="+33"/>
         <source>Author: </source>
         <translation>Автор: </translation>
     </message>
@@ -2460,7 +2506,8 @@ The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
         <translation>Данный плагин позволяет Вам играть в шахматы с Вашими друзьями.
 Плагин совместим с аналогичным для Tkabber&apos;a.
-Для отправки комманд используются обычные сообщения, поэтому он будет работать всегда, когда Вы можете авторизоваться на своём Jabber-сервере. Для того, чтобы пригласить друга в игру Вы можете использовать пункт меню непосредственно на контакте или кнопку на панели окна чата.</translation>
+Для отправки комманд используются обычные сообщения, поэтому он будет работать всегда, когда Вы можете авторизоваться на своём Jabber-сервере.
+Для того, чтобы пригласить друга в игру Вы можете использовать пункт меню непосредственно на контакте или кнопку на панели окна чата.</translation>
     </message>
 </context>
 <context>
@@ -2859,12 +2906,12 @@ You can preview items before deleting them from your hard drive.</source>
 <context>
     <name>ClientSwitcherPlugin</name>
     <message>
-        <location filename="../src/plugins/generic/clientswitcherplugin/clientswitcherplugin.cpp" line="+539"/>
+        <location filename="../src/plugins/generic/clientswitcherplugin/clientswitcherplugin.cpp" line="+589"/>
         <source>%1 has requested your version</source>
         <translation>%1 запрашивает Вашу версию</translation>
     </message>
     <message>
-        <location line="+20"/>
+        <location line="+16"/>
         <source>Authors: </source>
         <translation>Авторы: </translation>
     </message>
@@ -2930,7 +2977,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>ContactListAccountMenu::Private</name>
     <message>
-        <location filename="../src/contactlistaccountmenu.cpp" line="+82"/>
+        <location filename="../src/contactlistaccountmenu.cpp" line="+83"/>
         <source>&amp;Status</source>
         <translation>&amp;Статус</translation>
     </message>
@@ -3261,6 +3308,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ContactManagerDlg</name>
     <message>
         <location filename="../src/contactmanager/contactmanagerdlg.ui" line="+20"/>
+        <location filename="../src/contactmanager/contactmanagerdlg.cpp" line="+26"/>
         <source>Contacts Manager</source>
         <translation>Менеджер контактов</translation>
     </message>
@@ -3280,7 +3328,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation>Выполнить</translation>
     </message>
     <message>
-        <location filename="../src/contactmanager/contactmanagerdlg.cpp" line="+33"/>
+        <location filename="../src/contactmanager/contactmanagerdlg.cpp" line="+7"/>
         <source>Message</source>
         <translation>Сообщение</translation>
     </message>
@@ -3463,7 +3511,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>ContactProfile</name>
     <message>
-        <location filename="../src/contactview.cpp" line="+1503"/>
+        <location filename="../src/contactview.cpp" line="+1504"/>
         <source>Add</source>
         <translation>Добавить</translation>
     </message>
@@ -3479,7 +3527,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <location line="-729"/>
-        <location filename="../src/psi_profiles.cpp" line="+418"/>
+        <location filename="../src/psi_profiles.cpp" line="+420"/>
         <source>Agents/Transports</source>
         <translation>Сервисы</translation>
     </message>
@@ -4642,28 +4690,87 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
 <context>
     <name>ExtendedMenuPlugin</name>
     <message>
-        <location filename="../src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="+247"/>
+        <location filename="../src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="+353"/>
         <source>Pong from %1 after %2 secs</source>
         <translation>Понг от %1 %2 сек.</translation>
     </message>
     <message>
-        <location line="+3"/>
-        <location line="+4"/>
+        <location line="-3"/>
         <source>Ping %1</source>
         <translation>Ping %1</translation>
     </message>
     <message>
-        <location line="-1"/>
+        <location line="+9"/>
+        <location line="+43"/>
+        <location line="+24"/>
         <source>Feature not implemented</source>
         <translation>Возможность не реализована</translation>
     </message>
     <message>
-        <location line="+55"/>
+        <location line="-60"/>
+        <source>%1 Last Activity</source>
+        <translatorcomment>wtf</translatorcomment>
+        <translation>Последняя активность %1</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>%1 Last Activity was %2 ago</source>
+        <translatorcomment>wtf</translatorcomment>
+        <translation>Последняя активность %1 была %2 назад</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>%1 went offline %2 ago</source>
+        <translatorcomment>wtf</translatorcomment>
+        <translation>%1 отключился %2 назад</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>%1 uptime is %2</source>
+        <translatorcomment>wtf</translatorcomment>
+        <translation>%1 в сети %2</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>%1 is online!</source>
+        <translatorcomment>wtf</translatorcomment>
+        <translation>%1 в сети!</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Unknown error!</source>
+        <translation>Неизвестная ошибка!</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Service unavailable</source>
+        <translation>Сервис недоступен</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>You are not authorized to retrieve Last Activity information</source>
+        <translation>Вы не авторизованы для получения информации о последней активности</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>%1 Time</source>
+        <translatorcomment>wtf</translatorcomment>
+        <translation>Время %1</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>%1 time is %2</source>
+        <translatorcomment>wtf</translatorcomment>
+        <translation>Время %1 - %2</translation>
+    </message>
+    <message>
+        <location line="+49"/>
+        <location line="+24"/>
         <source>Extended Actions</source>
         <translation>Дополнительные действия</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="+9"/>
         <source>Copy JID</source>
         <translation>Копировать JID</translation>
     </message>
@@ -4683,7 +4790,17 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <translation>Ping</translation>
     </message>
     <message>
-        <location line="+66"/>
+        <location line="+4"/>
+        <source>Last Activity</source>
+        <translation>Последняя активность</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Entity Time</source>
+        <translation>Время</translation>
+    </message>
+    <message>
+        <location line="+151"/>
         <source>Author: </source>
         <translation>Автор:</translation>
     </message>
@@ -4701,31 +4818,30 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
 <context>
     <name>ExtendedOptions</name>
     <message>
-        <location filename="../src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="+307"/>
-        <location line="+355"/>
+        <location filename="../src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="+309"/>
+        <location line="+265"/>
         <source>Chat</source>
         <translation>Чаты</translation>
     </message>
     <message>
-        <location line="-354"/>
+        <location line="-264"/>
         <source>Conference</source>
         <translation>Конференции</translation>
     </message>
     <message>
-        <location line="+1"/>
-        <location line="+354"/>
+        <location line="+2"/>
+        <location line="+263"/>
         <source>Roster</source>
         <translation>Ростер</translation>
     </message>
     <message>
-        <location line="-353"/>
+        <location line="-262"/>
         <source>Menu</source>
         <translation>Меню</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Popups</source>
-        <translation>Уведомления</translation>
+        <translation type="obsolete">Уведомления</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4758,7 +4874,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <translation>Включить иконки в чате</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+266"/>
         <source>Disable wheel scroll</source>
         <translation>Отключить колесо мыши</translation>
     </message>
@@ -4773,7 +4889,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <translation>Показывать кнопки закрытия на вкладках</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-264"/>
         <source>Show Avatar</source>
         <translation>Показывать аватар</translation>
     </message>
@@ -4788,37 +4904,42 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <translation>Включить стиль &quot; ... говорит:&quot;</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+263"/>
         <source>Show status icons on tabs</source>
         <translation>Показывать иконки статуса на вкладках</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-262"/>
         <source>Hide &quot;Send&quot; button</source>
         <translation>Скрыть кнопку &quot;Отправить&quot;</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+263"/>
         <source>Hide tab when close chat window</source>
         <translation>Скрывать вкладки при закрытии окна чата</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="-259"/>
         <source>Avatar size:</source>
         <translation>Размер аватара:</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+266"/>
         <source>Action for mouse middle click on tabs:</source>
-        <translation>Эффект от клика колесом мыши на вкладке:</translation>
+        <translation>Эффект от нажатия колесом мыши на вкладке:</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="-248"/>
         <source>Show joins</source>
         <translation>Показывать входы</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-39"/>
+        <source>Tabs</source>
+        <translation>Вкладки</translation>
+    </message>
+    <message>
+        <location line="+40"/>
         <source>Show role affiliation</source>
         <translation>Показывать смену ролей и рангов</translation>
     </message>
@@ -4990,62 +5111,51 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <translation>Показывать &quot;Недоступен&quot; в статусном меню</translation>
     </message>
     <message>
-        <location line="+14"/>
         <source>Show popups from top to bottom</source>
-        <translation>Показывать уведомления сверху вниз</translation>
+        <translation type="obsolete">Показывать уведомления сверху вниз</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Place popups at left</source>
-        <translation>Показывать уведомления слева</translation>
+        <translation type="obsolete">Показывать уведомления слева</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Enable popup notifications for every muc message</source>
-        <translation>Включить уведомления для каждого сообщения в конференции</translation>
+        <translation type="obsolete">Включить уведомления для каждого сообщения в конференции</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Maximum JID length:</source>
-        <translation>Максимальная длина JID&apos;а:</translation>
+        <translation type="obsolete">Максимальная длина JID&apos;а:</translation>
     </message>
     <message>
-        <location line="+9"/>
         <source>Maximum status length:</source>
-        <translation>Максимальная длина статуса:</translation>
+        <translation type="obsolete">Максимальная длина статуса:</translation>
     </message>
     <message>
-        <location line="+9"/>
         <source>Maximum text length:</source>
-        <translation>Максимальная длина текста:</translation>
+        <translation type="obsolete">Максимальная длина текста:</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Delays (sec):</source>
-        <translation>Задержка (сек):</translation>
+        <translation type="obsolete">Задержка (сек):</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Chat:</source>
-        <translation>Чат:</translation>
+        <translation type="obsolete">Чат:</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>File:</source>
-        <translation>Файл:</translation>
+        <translation type="obsolete">Файл:</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>Message:</source>
-        <translation>Сообщение:</translation>
+        <translation type="obsolete">Сообщение:</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>Status:</source>
-        <translation>Статус:</translation>
+        <translation type="obsolete">Статус:</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+16"/>
         <source>Popup border color:</source>
         <translation>Цвет рамки уведомления:</translation>
     </message>
@@ -5080,7 +5190,12 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <translation>Цвет &quot;без роли&quot;:</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+4"/>
+        <source>MUC roster coloring:</source>
+        <translation>Окраска участников конференции:</translation>
+    </message>
+    <message>
+        <location line="+11"/>
         <source>ToolTip text color:</source>
         <translation>Цвет текста на подсказке:</translation>
     </message>
@@ -5090,7 +5205,12 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <translation>Цвет фона подсказки:</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+4"/>
+        <source>ToolTip coloring:</source>
+        <translation>Цвет подсказки:</translation>
+    </message>
+    <message>
+        <location line="+9"/>
         <source>Text color for &quot;composing&quot; events on tabs:</source>
         <translation>Цвет текста для события &quot;печатает&quot; на вкладках:</translation>
     </message>
@@ -5105,7 +5225,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <translation>Цвета:</translation>
     </message>
     <message>
-        <location line="+34"/>
+        <location line="+30"/>
         <source>Popup</source>
         <translation>Уведомления</translation>
     </message>
@@ -5120,12 +5240,22 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS для Psi+&lt;/a&gt;</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+13"/>
+        <source>Allow closing inactive tabs</source>
+        <translation>Разрешить закрытие неактивных вкладок</translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Action for mouse double click on tabs:</source>
+        <translation>Эффект от двойного клика по вкладке:</translation>
+    </message>
+    <message>
+        <location line="+16"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
-        <location line="+281"/>
+        <location line="+278"/>
         <source>Author: </source>
         <translation>Автор: </translation>
     </message>
@@ -5173,8 +5303,8 @@ Importantly: a large part of the options are important system settings. These re
 <context>
     <name>FileRequestDlg</name>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="+636"/>
-        <location line="+53"/>
+        <location filename="../src/filetransdlg.cpp" line="+620"/>
+        <location line="+58"/>
         <location line="+118"/>
         <source>%1 byte(s)</source>
         <translation>%1 байт</translation>
@@ -5217,15 +5347,15 @@ Importantly: a large part of the options are important system settings. These re
         <translation>Выбрать файл</translation>
     </message>
     <message>
-        <location line="-198"/>
-        <location line="+330"/>
+        <location line="-203"/>
+        <location line="+335"/>
         <source>&amp;Close</source>
         <translation>&amp;Закрыть</translation>
     </message>
     <message>
-        <location line="-310"/>
+        <location line="-315"/>
         <location line="+5"/>
-        <location line="+190"/>
+        <location line="+195"/>
         <location line="+6"/>
         <location line="+34"/>
         <location line="+106"/>
@@ -5262,19 +5392,19 @@ that outgoing TCP connections are allowed.</source>
         <translation>От:</translation>
     </message>
     <message>
-        <location line="-101"/>
-        <location line="+83"/>
+        <location line="-108"/>
+        <location line="+87"/>
         <source>Identity: </source>
         <translation>Аккаунт: </translation>
     </message>
     <message>
-        <location line="+58"/>
+        <location line="+61"/>
         <source>&amp;No</source>
         <translation>&amp;Нет</translation>
     </message>
     <message>
-        <location line="-111"/>
-        <location line="+92"/>
+        <location line="-116"/>
+        <location line="+97"/>
         <location line="+233"/>
         <source>Ready</source>
         <translation> </translation>
@@ -5300,7 +5430,7 @@ that outgoing TCP connections are allowed.</source>
         <translation>Сохранить как</translation>
     </message>
     <message>
-        <location line="-246"/>
+        <location line="-251"/>
         <source>&amp;Send</source>
         <translation>&amp;Отправить</translation>
     </message>
@@ -5315,7 +5445,7 @@ that outgoing TCP connections are allowed.</source>
         <translation>Передача папок не поддерживается.</translation>
     </message>
     <message>
-        <location line="+196"/>
+        <location line="+201"/>
         <source>The file specified does not exist.  Choose a correct file name before sending.</source>
         <translation>Указанный файл не существует.  Укажите правильное имя файла для отправки.</translation>
     </message>
@@ -5330,12 +5460,12 @@ that outgoing TCP connections are allowed.</source>
         <translation>Этот файл уже передаётся!</translation>
     </message>
     <message>
-        <location line="-192"/>
+        <location line="-193"/>
         <source>Time:</source>
         <translation>Время:</translation>
     </message>
     <message>
-        <location line="+312"/>
+        <location line="+313"/>
         <source>Unable to accept the file.  Perhaps the sender has cancelled the request.</source>
         <translation>Невозможно принять файл.  Возможно, отправитель отменил отправку.</translation>
     </message>
@@ -5425,28 +5555,28 @@ contact is offline.</source>
 <context>
     <name>FileTransDlg</name>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="+386"/>
+        <location filename="../src/filetransdlg.cpp" line="+387"/>
         <source>%1%2/s</source>
         <translation>%1%2/с</translation>
     </message>
     <message>
-        <location line="+216"/>
+        <location line="+222"/>
         <source>%1h%2m%3s</source>
         <translation>%1ч %2м %3с</translation>
     </message>
     <message>
-        <location line="-212"/>
+        <location line="-218"/>
         <source>%1h%2m%3s remaining</source>
         <translation>осталось %1ч %2м %3с</translation>
     </message>
     <message>
         <location line="-14"/>
-        <location line="+234"/>
+        <location line="+240"/>
         <source>[Done]</source>
         <translation>[Завершено]</translation>
     </message>
     <message>
-        <location line="-232"/>
+        <location line="-238"/>
         <source>[Error: %1]</source>
         <translation>[Ошибка: %1]</translation>
     </message>
@@ -5456,47 +5586,47 @@ contact is offline.</source>
         <translation>[Задерживается]</translation>
     </message>
     <message>
-        <location line="+514"/>
+        <location line="+572"/>
         <source>Clear &amp;Finished</source>
         <translation>О&amp;чистить завершённые</translation>
     </message>
     <message>
-        <location line="-291"/>
+        <location line="-343"/>
         <source>Download</source>
         <translation>Получение</translation>
     </message>
     <message>
-        <location line="-35"/>
+        <location line="-36"/>
         <source>File</source>
         <translation>Файл</translation>
     </message>
     <message>
-        <location line="+478"/>
+        <location line="+534"/>
         <source>File I/O error (%1)</source>
         <translation>Ошибка ввода/вывода (%1)</translation>
     </message>
     <message>
-        <location line="-444"/>
+        <location line="-499"/>
         <source>Filename</source>
         <translation>Имя файла</translation>
     </message>
     <message>
-        <location line="-32"/>
+        <location line="-33"/>
         <source>From</source>
         <translation>От</translation>
     </message>
     <message>
-        <location line="+327"/>
+        <location line="+380"/>
         <source>&amp;Hide</source>
         <translation>&amp;Скрыть</translation>
     </message>
     <message>
-        <location line="-606"/>
+        <location line="-664"/>
         <source>N/A</source>
         <translation>Неизвестно</translation>
     </message>
     <message>
-        <location line="+313"/>
+        <location line="+319"/>
         <source>Peer</source>
         <translation>Адресат</translation>
     </message>
@@ -5506,39 +5636,39 @@ contact is offline.</source>
         <translation>Размер</translation>
     </message>
     <message>
-        <location line="-23"/>
+        <location line="-24"/>
         <source>Status</source>
         <translation>Состояние</translation>
     </message>
     <message>
-        <location line="+30"/>
+        <location line="+31"/>
         <source>Time remaining</source>
         <translation>Осталось времени</translation>
     </message>
     <message>
-        <location line="-43"/>
+        <location line="-44"/>
         <source>To</source>
         <translation>К</translation>
     </message>
     <message>
-        <location line="+407"/>
+        <location line="+461"/>
         <source>Transfer Error</source>
         <translation>Ошибка передачи</translation>
     </message>
     <message>
-        <location line="-98"/>
+        <location line="-99"/>
         <source>Transfer Manager</source>
         <translation>Менеджер передачи данных</translation>
     </message>
     <message>
-        <location line="+98"/>
+        <location line="+99"/>
         <source>Transfer of %1 with %2 failed.
 Reason: %3</source>
         <translation>Передача %1 с %2 не удалась.
 Причина: %3</translation>
     </message>
     <message>
-        <location line="-366"/>
+        <location line="-419"/>
         <source>Transferred</source>
         <translation>Передано</translation>
     </message>
@@ -5556,7 +5686,7 @@ Reason: %3</source>
 <context>
     <name>FileTransView</name>
     <message>
-        <location line="+68"/>
+        <location line="+82"/>
         <source>&amp;Cancel</source>
         <translation>О&amp;тмена</translation>
     </message>
@@ -5574,7 +5704,7 @@ Reason: %3</source>
 <context>
     <name>FileTransferHandler</name>
     <message>
-        <location line="-1069"/>
+        <location line="-1102"/>
         <source>Connecting to peer...</source>
         <translation>Соединение с адресатом...</translation>
     </message>
@@ -5584,12 +5714,12 @@ Reason: %3</source>
         <translation>Соединение с прокси-сервером...</translation>
     </message>
     <message>
-        <location line="+138"/>
+        <location line="+141"/>
         <source>Lost connection / Cancelled.</source>
         <translation>Соединение прервано или отменено.</translation>
     </message>
     <message>
-        <location line="-148"/>
+        <location line="-151"/>
         <source>Peer accepted request.</source>
         <translation>Адресат принял запрос.</translation>
     </message>
@@ -5614,7 +5744,7 @@ Reason: %3</source>
         <translation>Открытие канала передачи данных...</translation>
     </message>
     <message>
-        <location line="+149"/>
+        <location line="+152"/>
         <source>Unable to connect to peer for data transfer.</source>
         <translation>Невозможно соединиться с адресатом для передачи данных.</translation>
     </message>
@@ -5629,7 +5759,7 @@ Reason: %3</source>
         <translation>Невозможно согласовать передачу.</translation>
     </message>
     <message>
-        <location line="-127"/>
+        <location line="-130"/>
         <source>Waiting for peer activation...</source>
         <translation>Ожидание ответа адресата...</translation>
     </message>
@@ -5642,17 +5772,21 @@ Reason: %3</source>
         <translation>Выбрать файл</translation>
     </message>
     <message>
-        <location line="-39"/>
+        <location line="+1"/>
+        <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
+        <translation>Изображения (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
+    </message>
+    <message>
+        <location line="-40"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location line="+40"/>
         <source>Images (*.png *.xpm *.jpg *.PNG *.XPM *.JPG)</source>
-        <translation>Изображения (*.png *.xpm *.jpg *.PNG *.XPM *.JPG)</translation>
+        <translation type="obsolete">Изображения (*.png *.xpm *.jpg *.PNG *.XPM *.JPG)</translation>
     </message>
     <message>
-        <location line="-40"/>
+        <location line="+0"/>
         <source>The file specified does not exist.</source>
         <translation>Указанный файл не существует.</translation>
     </message>
@@ -5660,7 +5794,7 @@ Reason: %3</source>
 <context>
     <name>FontLabel</name>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="+60"/>
+        <location filename="../src/options/opt_appearance.cpp" line="+62"/>
         <source>%1 %2</source>
         <translation>%1 %2</translation>
     </message>
@@ -5699,7 +5833,7 @@ Reason: %3</source>
 <context>
     <name>GCFindDlg</name>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="+2234"/>
+        <location filename="../src/groupchatdlg.cpp" line="+2214"/>
         <source>&amp;Close</source>
         <translation>&amp;Закрыть</translation>
     </message>
@@ -5728,12 +5862,12 @@ Reason: %3</source>
 <context>
     <name>GCMainDlg</name>
     <message>
-        <location line="-1238"/>
+        <location line="-1231"/>
         <source> by %1</source>
         <translation> %1</translation>
     </message>
     <message>
-        <location line="-325"/>
+        <location line="-320"/>
         <source>Clear Chat Window</source>
         <translation>Очистить окно чата</translation>
     </message>
@@ -5748,17 +5882,15 @@ Reason: %3</source>
         <translation>Форматирование текста</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Open a Whiteboard</source>
-        <translation>Открыть доску для рисования</translation>
+        <translation type="obsolete">Открыть доску для рисования</translation>
     </message>
     <message>
-        <location line="+0"/>
         <source>Open a &amp;Whiteboard</source>
-        <translation>Открыть &amp;доску для рисования</translation>
+        <translation type="obsolete">Открыть &amp;доску для рисования</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+9"/>
         <source>Select Icon</source>
         <translation>Выбрать смайл</translation>
     </message>
@@ -5783,7 +5915,7 @@ Reason: %3</source>
         <translation>Шаблоны</translation>
     </message>
     <message>
-        <location line="+291"/>
+        <location line="+286"/>
         <source>
 Reason: %1</source>
         <translation>
@@ -5805,7 +5937,7 @@ Reason: %1</source>
         <translation>Ошибка: Невозможно разобрать команду: </translation>
     </message>
     <message>
-        <location line="+361"/>
+        <location line="+362"/>
         <source> and now is %1</source>
         <translation> и теперь %1</translation>
     </message>
@@ -5855,7 +5987,7 @@ Reason: %1</source>
         <translation>%2 выгнан из %1 , т.к. конференция только для зарегистрированных пользователей</translation>
     </message>
     <message>
-        <location line="+516"/>
+        <location line="+508"/>
         <source>Save</source>
         <translation>Сохранить</translation>
     </message>
@@ -5890,7 +6022,7 @@ Reason: %1</source>
         <translation>Закладка конференции</translation>
     </message>
     <message>
-        <location line="-547"/>
+        <location line="-539"/>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
         <translation>%1 выгнан из %2 в связи с изменением ранга</translation>
     </message>
@@ -5938,19 +6070,19 @@ Reason: %1</source>
         <translation>%3 заходит как %1 и %2</translation>
     </message>
     <message>
-        <location line="-234"/>
+        <location line="-235"/>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
         <translation>Очистить окно чата?
 Примечание: это никак не отразится на истории сообщений</translation>
     </message>
     <message>
-        <location line="+338"/>
+        <location line="+339"/>
         <source>Banned</source>
         <translation>Блокирован</translation>
     </message>
     <message>
-        <location line="-859"/>
+        <location line="-855"/>
         <source>Configure Room</source>
         <translation>Настроить комнату</translation>
     </message>
@@ -5960,7 +6092,7 @@ Reason: %1</source>
         <translation>&amp;Настроить комнату</translation>
     </message>
     <message>
-        <location line="+950"/>
+        <location line="+946"/>
         <source>The topic has been set to</source>
         <translation>Установлена тема</translation>
     </message>
@@ -5975,7 +6107,7 @@ Reason: %1</source>
         <translation> меняет тему на</translation>
     </message>
     <message>
-        <location line="+62"/>
+        <location line="+61"/>
         <source>Connected.</source>
         <translation>Соединение установлено.</translation>
     </message>
@@ -5990,7 +6122,7 @@ Reason: %1</source>
         <translation>Ошибка: вы уже участвуете или входите в эту конференцию!</translation>
     </message>
     <message>
-        <location line="-616"/>
+        <location line="-611"/>
         <source>Find</source>
         <translation>Поиск</translation>
     </message>
@@ -6000,7 +6132,7 @@ Reason: %1</source>
         <translation>&amp;Найти</translation>
     </message>
     <message>
-        <location line="+870"/>
+        <location line="+866"/>
         <source>Kicked</source>
         <translation>Выкинут</translation>
     </message>
@@ -6010,22 +6142,22 @@ Reason: %1</source>
         <translation>Новая комната создана</translation>
     </message>
     <message>
-        <location line="-35"/>
+        <location line="-36"/>
         <source>Please choose a different nickname</source>
         <translation>Укажите другой ник</translation>
     </message>
     <message>
-        <location line="+123"/>
+        <location line="+124"/>
         <source>Reason: %1</source>
         <translation>Причина: %1</translation>
     </message>
     <message>
-        <location line="-221"/>
+        <location line="-222"/>
         <source>Reconnecting...</source>
         <translation>Восстановление соединения...</translation>
     </message>
     <message>
-        <location line="+269"/>
+        <location line="+270"/>
         <location line="+8"/>
         <source>Removed</source>
         <translation>Удалён</translation>
@@ -6042,7 +6174,7 @@ Reason: %1</source>
         <translation>Комнаты больше не существует.</translation>
     </message>
     <message>
-        <location line="-153"/>
+        <location line="-154"/>
         <source>Unexpected groupchat error: %1</source>
         <translation>Неожиданная ошибка конференции: %1</translation>
     </message>
@@ -6052,7 +6184,7 @@ Reason: %1</source>
         <translation>Предупреждение</translation>
     </message>
     <message>
-        <location line="+339"/>
+        <location line="+340"/>
         <source>You have been banned from the room</source>
         <translation>Вам запретили входить в данную конференцию</translation>
     </message>
@@ -6072,7 +6204,7 @@ Reason: %1</source>
         <translation>Вы удалены из конференции в связи с изменением ранга</translation>
     </message>
     <message>
-        <location line="-208"/>
+        <location line="-209"/>
         <source>Unable to join groupchat.	Reason: %1</source>
         <translation>Невозможно войти в конференцию. Причина: %1</translation>
     </message>
@@ -6082,7 +6214,7 @@ Reason: %1</source>
         <translation>Произошла ошибка (код ошибки: %1)</translation>
     </message>
     <message>
-        <location line="+152"/>
+        <location line="+153"/>
         <source>You have been banned from the room by %1</source>
         <translation>Вам запретили входить в данную конференцию по причине: %1</translation>
     </message>
@@ -6095,7 +6227,7 @@ Reason: %1</source>
 <context>
     <name>GCMainDlg::Private</name>
     <message>
-        <location line="-1235"/>
+        <location line="-1222"/>
         <location line="+56"/>
         <source>new nick</source>
         <translation>Новый ник</translation>
@@ -6109,7 +6241,7 @@ Reason: %1</source>
 <context>
     <name>GCUserView</name>
     <message>
-        <location filename="../src/gcuserview.cpp" line="+502"/>
+        <location filename="../src/gcuserview.cpp" line="+503"/>
         <source>&amp;Ban</source>
         <translation>&amp;Бан (ban)</translation>
     </message>
@@ -6395,6 +6527,35 @@ You lost the game.</source>
         <location line="+5"/>
         <source>You have a stalemate</source>
         <translation>У вас пат</translation>
+    </message>
+</context>
+<context>
+    <name>GameSessions</name>
+    <message>
+        <location filename="../src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="+123"/>
+        <source>Incorrect protocol version</source>
+        <translation>Неправильная версия протокола</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Incorrect parameters</source>
+        <translation>Неправильные параметры</translation>
+    </message>
+    <message>
+        <location line="+63"/>
+        <location line="+439"/>
+        <source>You are allready playing!</source>
+        <translation>Вы уже играете!</translation>
+    </message>
+    <message>
+        <location line="-343"/>
+        <source>From: %1&lt;br /&gt;The game was rejected</source>
+        <translation>От: %1&lt;br /&gt;Игра была отклонена</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>From: %1&lt;br /&gt;Game error.</source>
+        <translation>От: %1&lt;br /&gt;Ошибка игры.</translation>
     </message>
 </context>
 <context>
@@ -6736,7 +6897,7 @@ You lost the game.</source>
 <context>
     <name>GetTextDlg</name>
     <message>
-        <location filename="../src/plugins/generic/screenshotplugin/pixmapwidget.cpp" line="+29"/>
+        <location filename="../src/plugins/generic/screenshotplugin/pixmapwidget.cpp" line="+38"/>
         <source>Enter text</source>
         <translation>Введите текст</translation>
     </message>
@@ -6749,25 +6910,40 @@ You lost the game.</source>
 <context>
     <name>GmailNotifyPlugin</name>
     <message>
-        <location filename="../src/plugins/generic/gmailserviceplugin/gmailserviceplugin.cpp" line="+292"/>
-        <location line="+271"/>
+        <location filename="../src/plugins/generic/gmailserviceplugin/gmailserviceplugin.cpp" line="+305"/>
+        <location line="+308"/>
         <source>No-save state for contact %1 is changed</source>
         <translatorcomment>WTF</translatorcomment>
         <translation>Отключение истории для контакта %1 установлено</translation>
     </message>
     <message>
-        <location line="-84"/>
+        <location line="-115"/>
         <source>Settings for an account %1 are changed</source>
         <translation>Настройки аккаунта %1 изменены</translation>
     </message>
     <message>
-        <location line="+56"/>
+        <location line="+66"/>
         <source>Shared Status for an account %1 is updated</source>
         <translatorcomment>WTF</translatorcomment>
         <translation>Общий статус для аккаунта %1 обновлён</translation>
     </message>
     <message>
-        <location line="+217"/>
+        <location line="+262"/>
+        <source>mail.google.com - incoming mail!</source>
+        <translation>mail.google.com - входящая почта!</translation>
+    </message>
+    <message>
+        <location line="+32"/>
+        <source>Choose a sound file</source>
+        <translation>Выбрать звуковой файл</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Sound (*.wav)</source>
+        <translation>Звуковой файл (*.wav)</translation>
+    </message>
+    <message>
+        <location line="+8"/>
         <source>Authors: </source>
         <translation>Авторы: </translation>
     </message>
@@ -6780,6 +6956,52 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
 </context>
 <context>
+    <name>GomokuGamePlugin</name>
+    <message>
+        <location filename="../src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="+293"/>
+        <source>Choose a sound file</source>
+        <translation>Выбрать звуковой файл</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Sound (*.wav)</source>
+        <translation>Звуковой файл (*.wav)</translation>
+    </message>
+    <message>
+        <location line="+40"/>
+        <source>Author: </source>
+        <translation>Автор: </translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation>E-Mail: </translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin allows you to play gomoku with your friends.
+For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation>Данный плагин позволяет играть с контактами ростера и конференции в игру Гомоку.
+Для отправки комманд используются обычные сообщения, поэтому он будет работать всегда, когда Вы можете авторизоваться на своём Jabber-сервере.
+Для того, чтобы пригласить друга в игру Вы можете использовать пункт меню непосредственно на контакте или кнопку на панели окна чата.</translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Gomoku game</source>
+        <translation>Игра Гомоку</translation>
+    </message>
+    <message>
+        <location line="+60"/>
+        <source>%1: Invitation from %2</source>
+        <translation>%1: Приглашение от %2</translation>
+    </message>
+    <message>
+        <location line="+79"/>
+        <source>Gomoku game!</source>
+        <translation>Игра Гомоку!</translation>
+    </message>
+</context>
+<context>
     <name>GoogleFileTransferProgressDialog</name>
     <message>
         <location filename="../src/googleftmanager.h" line="+135"/>
@@ -6788,16 +7010,31 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
 </context>
 <context>
+    <name>GrabAreaWidget</name>
+    <message>
+        <location filename="../src/plugins/generic/screenshotplugin/screenshot.cpp" line="+132"/>
+        <source>Select area</source>
+        <translation>Выберите поле</translation>
+    </message>
+</context>
+<context>
     <name>GrepShortcutKeyDialog</name>
     <message>
         <location filename="../src/libpsi/dialogs/grepshortcutkeydialog.cpp" line="+54"/>
+        <location filename="../src/plugins/generic/screenshotplugin/optionswidget.cpp" line="+95"/>
         <source>Set Keys</source>
         <translation>Комбинация клавиш</translation>
     </message>
     <message>
         <location filename="../src/libpsi/dialogs/grepshortcutkeydialog.ui" line="+52"/>
+        <location filename="../src/plugins/generic/screenshotplugin/optionswidget.cpp" line="-48"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/screenshotplugin/optionswidget.cpp" line="-4"/>
+        <source>New Shortcut</source>
+        <translation>Комбинация клавиш</translation>
     </message>
 </context>
 <context>
@@ -6943,7 +7180,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
 <context>
     <name>HistoryDlg</name>
     <message>
-        <location filename="../src/historydlg.cpp" line="+293"/>
+        <location filename="../src/historydlg.cpp" line="+294"/>
         <source>Remove history</source>
         <translation>Удалить историю</translation>
     </message>
@@ -7021,6 +7258,41 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
         <location filename="../src/historydlg.cpp" line="+2"/>
         <source>Text files (*.txt);;All files (*.*)</source>
         <translation>Текстовые файлы (*.txt);;Все файлы (*.*)</translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/screenshotplugin/screenshot.cpp" line="-68"/>
+        <source>History</source>
+        <translation>История</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Copy</source>
+        <translation>Копировать</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Copy link to the clipboard</source>
+        <translation>Скопировать ссылку в буфер обмена</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Open</source>
+        <translation>Открыть</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Open link in browser</source>
+        <translation>Открыть в браузере</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Close</source>
+        <translation>Закрыть</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Close history</source>
+        <translation>Закрыть историю</translation>
     </message>
 </context>
 <context>
@@ -7813,6 +8085,39 @@ Are you sure you want to discard them?</source>
     </message>
 </context>
 <context>
+    <name>InvateDialog</name>
+    <message>
+        <location filename="../src/plugins/generic/gomokugameplugin/invatedialog.ui" line="+14"/>
+        <source>Gomoku Game Plugin - Invite</source>
+        <translation>Приглашение поиграть в Гомоку</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Opponent:</source>
+        <translation>Противник:</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Select resource:</source>
+        <translation>Выбрать ресурс:</translation>
+    </message>
+    <message>
+        <location line="+47"/>
+        <source>Play Black</source>
+        <translation>Играть чёрными</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Play White</source>
+        <translation>Играть белыми</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Cancel</source>
+        <translation>Отмена</translation>
+    </message>
+</context>
+<context>
     <name>InvitationDialog</name>
     <message>
         <location filename="../src/plugins/generic/chessplugin/invitationdialog.ui" line="+20"/>
@@ -7821,21 +8126,25 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <location line="+28"/>
+        <location filename="../src/plugins/generic/gomokugameplugin/invitationdialog.ui" line="+48"/>
         <source>Accept</source>
         <translation>Принять</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../src/plugins/generic/gomokugameplugin/invitationdialog.ui" line="+7"/>
         <source>Reject</source>
         <translation>Отклонить</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chessplugin/invitedialog.cpp" line="+67"/>
+        <location filename="../src/plugins/generic/gomokugameplugin/invatedialog.cpp" line="+61"/>
         <source>white</source>
         <translation>белые</translation>
     </message>
     <message>
         <location line="+2"/>
+        <location filename="../src/plugins/generic/gomokugameplugin/invatedialog.cpp" line="+2"/>
         <source>black</source>
         <translation>чёрные</translation>
     </message>
@@ -7845,6 +8154,18 @@ Are you sure you want to discard them?</source>
 to play chess. He wants to play %2.</source>
         <translation>Игрок %1 приглашает Вас
 поиграть в шахматы. Он выбрал %2 фигуры.</translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/gomokugameplugin/invitationdialog.ui" line="-35"/>
+        <source>Gomoku Game Plugin - Invitation</source>
+        <translation>Приглашение поигать в Гомоку</translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/gomokugameplugin/invatedialog.cpp" line="+2"/>
+        <source>Player %1 invites you 
+to play gomoku. He wants to play %2.</source>
+        <translation>Игрок %1 приглашает Вас 
+поиграть в Гомоку. Он выбрал %2 фигуры.</translation>
     </message>
 </context>
 <context>
@@ -7868,6 +8189,137 @@ to play chess. He wants to play %2.</source>
         <location line="+7"/>
         <source>Play Black</source>
         <translation>Играть чёрными</translation>
+    </message>
+</context>
+<context>
+    <name>JDMainWin</name>
+    <message>
+        <location filename="../src/plugins/generic/jabberdiskplugin/jd_mainwin.ui" line="+78"/>
+        <source>Refresh</source>
+        <translation>Обновить</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Clear log</source>
+        <translation>Очитить журнал</translation>
+    </message>
+    <message>
+        <location line="+50"/>
+        <source>Send</source>
+        <translation>Отправить</translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="+42"/>
+        <source>Jabber Disk - %1</source>
+        <translation>Jabber Disk - %1</translation>
+    </message>
+    <message>
+        <location line="+105"/>
+        <source>&lt;b&gt;You:&lt;/b&gt; </source>
+        <translation>&lt;b&gt;Вы:&lt;/b&gt; </translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>&lt;b&gt;Disk:&lt;/b&gt; </source>
+        <translation>&lt;b&gt;Disk:&lt;/b&gt; </translation>
+    </message>
+    <message>
+        <location line="+58"/>
+        <source>Remove</source>
+        <translation>Удалить</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Make dir</source>
+        <translation>Создать папку</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Get File</source>
+        <translation>Получить файл</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Send File</source>
+        <translation>Отправить файл</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hash</source>
+        <translation>Хэш</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Link</source>
+        <translation>Ссылка</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Help</source>
+        <translation>Справка</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Intro</source>
+        <translation>Введение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Statistics</source>
+        <translation>Статистика</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Rename</source>
+        <translation>Переименовать</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Move to...</source>
+        <translation>Переместить...</translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Remove Item</source>
+        <translation>Удалить элемент</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Are you sure?</source>
+        <translation>Вы уверены?</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Input Dir Name</source>
+        <translation>Введите имя папки</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Input Full JID</source>
+        <translation>Введите полный JID</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Input New Name</source>
+        <translation>Введите новое имя</translation>
+    </message>
+</context>
+<context>
+    <name>JabberDiskPlugin</name>
+    <message>
+        <location filename="../src/plugins/generic/jabberdiskplugin/jabberdiskplugin.cpp" line="+199"/>
+        <source>Jabber Disk</source>
+        <translation>Jabber Disk</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Author: </source>
+        <translation>Автор: </translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation>E-Mail: </translation>
     </message>
 </context>
 <context>
@@ -8416,7 +8868,7 @@ caching avatars will be not available</source>
         <translation>%1 в %2</translation>
     </message>
     <message>
-        <location line="+130"/>
+        <location line="+129"/>
         <location line="+6"/>
         <location line="+18"/>
         <location line="+42"/>
@@ -8424,12 +8876,12 @@ caching avatars will be not available</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location line="-213"/>
+        <location line="-212"/>
         <source>&amp;Join</source>
         <translation>&amp;Войти</translation>
     </message>
     <message>
-        <location line="+213"/>
+        <location line="+212"/>
         <source>Unable to join groupchat.
 Reason: %1</source>
         <translation>Невозможно войти в конференцию.
@@ -8560,7 +9012,7 @@ Reason: %1</source>
 <context>
     <name>MainWin</name>
     <message>
-        <location filename="../src/mainwin.cpp" line="+1731"/>
+        <location filename="../src/mainwin.cpp" line="+1733"/>
         <source>%1 events received</source>
         <translation>Новых сообщений: %1</translation>
     </message>
@@ -8575,7 +9027,7 @@ Reason: %1</source>
         <translation>Соединение</translation>
     </message>
     <message>
-        <location line="-1120"/>
+        <location line="-1122"/>
         <location line="+257"/>
         <source>Diagnostics</source>
         <translation>Диагностика</translation>
@@ -8597,12 +9049,12 @@ Reason: %1</source>
         <translation>Справка</translation>
     </message>
     <message>
-        <location line="+770"/>
+        <location line="+771"/>
         <source>&amp;Hide</source>
         <translation>&amp;Скрыть</translation>
     </message>
     <message>
-        <location line="-119"/>
+        <location line="-120"/>
         <source>Key Storage Diagnostic Text</source>
         <translation>Текст диагностики ключа защиты памяти</translation>
     </message>
@@ -8627,7 +9079,7 @@ Reason: %1</source>
         <translation>О GStreamer</translation>
     </message>
     <message>
-        <location line="+153"/>
+        <location line="+154"/>
         <source>Receive next event</source>
         <translation>&amp;Показать сообщение</translation>
     </message>
@@ -8661,7 +9113,7 @@ Incoming event(s) from:</source>
 Входящие события от:</translation>
     </message>
     <message>
-        <location line="-208"/>
+        <location line="-209"/>
         <source>Security Plugins Diagnostic Text</source>
         <translation>Текст диагностики модуля безопасности</translation>
     </message>
@@ -8676,12 +9128,12 @@ Incoming event(s) from:</source>
         <translation>Сервис</translation>
     </message>
     <message>
-        <location line="+771"/>
+        <location line="+772"/>
         <source>Un&amp;hide</source>
         <translation>&amp;Восстановить</translation>
     </message>
     <message>
-        <location line="-905"/>
+        <location line="-906"/>
         <source>View</source>
         <translation>Вид</translation>
     </message>
@@ -9058,102 +9510,146 @@ Tags: %1</source>
 <context>
     <name>OptAppearance</name>
     <message>
-        <location filename="../src/options/opt_appearance.ui" line="+16"/>
+        <location filename="../src/options/opt_appearance.ui" line="+14"/>
         <source>OptAppearanceUI</source>
         <translation></translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+6"/>
         <source>Colors</source>
         <translation>Цвета</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+53"/>
+        <source>Specifies the background color for an account name in the main window.</source>
+        <translation>Цвет фона для имени аккаунта в основном окне.</translation>
+    </message>
+    <message>
+        <location line="+36"/>
+        <source>Specifies the background color for a group name in the main window.</source>
+        <translation>Цвет фона для имени группы в основном окне.</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Specifies the foreground animation color for nicks.</source>
+        <translation>Цвет текста для анимации ников.</translation>
+    </message>
+    <message>
+        <location line="+67"/>
+        <source>Specifies the background animation color for nicks.</source>
+        <translation>Цвет фона для анимации ников.</translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Specifies the color for sent messages in chat and history windows.</source>
+        <translation>Цвет имени контакта в чате для исходящих сообщений, а также  цвет исходящих сообщений в истории.</translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Specifies the color for received messages in chat and history windows.</source>
+        <translation>Цвет имени контакта в чате для входящих сообщений, а также  цвет входящих сообщений в истории.</translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Specifies the color for informational messages in chat windows, like status changes and offline messages.</source>
+        <translation>Цвет информационных сообщений в окне чата, таких как изменение статуса и сообщение выхода.</translation>
+    </message>
+    <message>
+        <location line="+29"/>
         <source>Online contacts:</source>
         <translation>Контакты со статусом &quot;Доступен&quot;:</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+26"/>
         <source>Away contacts:</source>
         <translation>Контакты со статусами &quot;Отсутствую/Недоступен&quot;:</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+26"/>
         <source>DND contacts:</source>
         <translation>Контакты со статусом &quot;Не беспокоить&quot;:</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+26"/>
         <source>Offline contacts:</source>
         <translation>Отключённые контакты:</translation>
     </message>
     <message>
-        <location line="+20"/>
+        <location line="+26"/>
+        <source>Specifies the background color for the main window.</source>
+        <translation>Цвет фона основного окна.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
         <source>Contact list background:</source>
         <translation>Фон ростера:</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+26"/>
         <source>Status messages:</source>
         <translation>Статусное сообщение:</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Highlighting:</source>
-        <translation>Подсветка:</translation>
+        <translation type="obsolete">Подсветка:</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+29"/>
         <source>Additional message text:</source>
         <translation>Дополнительный текст:</translation>
     </message>
     <message>
-        <location line="+49"/>
+        <location line="-388"/>
         <source>Account heading background:</source>
         <translation>Фон для заголовка аккаунта:</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+36"/>
         <source>Group heading background:</source>
         <translation>Фон для заголовка группы:</translation>
     </message>
     <message>
-        <location line="+196"/>
+        <location line="+10"/>
         <source>Nick animation foreground:</source>
         <translation>Цвет ника при анимации:</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+67"/>
         <source>Nick animation background:</source>
         <translation>Цвет фона при анимации:</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+29"/>
         <source>Sent message foreground:</source>
         <translation>Цвет иcходящего сообщения:</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+29"/>
         <source>Received message foreground:</source>
         <translation>Цвет входящего сообщения:</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+29"/>
         <source>Informational messages in chats:</source>
         <translation>Информационные сообщения в чате:</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="-229"/>
         <source>Account heading foreground:</source>
         <translation>Цвет заголовка аккаунта:</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+55"/>
         <source>Group heading foreground:</source>
         <translation>Цвет заголовка группы:</translation>
     </message>
     <message>
-        <location line="+157"/>
+        <location line="+359"/>
+        <source>Specifies the color for additional text of system messages. MUC topic for example.</source>
+        <translation>Цвет для дополнительного текста системных сообщений. Тема конференции, например.</translation>
+    </message>
+    <message>
+        <location line="+48"/>
         <source>Chat:</source>
         <translation>Чат:</translation>
     </message>
@@ -9164,8 +9660,8 @@ Tags: %1</source>
     </message>
     <message>
         <location line="+7"/>
-        <location line="+10"/>
-        <location line="+10"/>
+        <location line="+7"/>
+        <location line="+7"/>
         <location line="+7"/>
         <source>Choose...</source>
         <translation>Выбрать...</translation>
@@ -9181,7 +9677,7 @@ Tags: %1</source>
         <translation>Всплывающее окно:</translation>
     </message>
     <message>
-        <location line="-73"/>
+        <location line="-67"/>
         <source>Fonts</source>
         <translation>Шрифты</translation>
     </message>
@@ -9526,12 +10022,11 @@ Tags: %1</source>
         <translation>Изменять док состояния:</translation>
     </message>
     <message>
-        <location line="+102"/>
         <source>Enable popup notifications</source>
-        <translation>Включить всплывающие оповещения</translation>
+        <translation type="obsolete">Включить всплывающие оповещения</translation>
     </message>
     <message>
-        <location line="-78"/>
+        <location line="+24"/>
         <source>Forever</source>
         <translation>Всегда</translation>
     </message>
@@ -9561,59 +10056,50 @@ Tags: %1</source>
         <translation>Уведомлять о получении авторизации</translation>
     </message>
     <message>
-        <location line="+160"/>
         <source>On incoming file event</source>
-        <translation>При входящем файле</translation>
+        <translation type="obsolete">При входящем файле</translation>
     </message>
     <message>
-        <location line="-7"/>
         <source>On incoming headline event</source>
-        <translation>При входящем объявлении</translation>
+        <translation type="obsolete">При входящем объявлении</translation>
     </message>
     <message>
-        <location line="-14"/>
         <source>On incoming message event</source>
-        <translation>При входящем сообщении</translation>
+        <translation type="obsolete">При входящем сообщении</translation>
     </message>
     <message>
-        <location line="-105"/>
+        <location line="+34"/>
         <source>Once</source>
         <translation>Один раз</translation>
     </message>
     <message>
-        <location line="+93"/>
         <source>Popup notifications</source>
-        <translation>Всплывающие оповещения</translation>
+        <translation type="obsolete">Всплывающие оповещения</translation>
     </message>
     <message>
-        <location line="-148"/>
+        <location line="-55"/>
         <source>Raise roster window on new event</source>
         <translation>Показывать окно ростера при возникновении событий</translation>
     </message>
     <message>
-        <location line="+167"/>
         <source>Show incoming message on popup</source>
-        <translation>Показывать входящее сообщение</translation>
+        <translation type="obsolete">Показывать входящее сообщение</translation>
     </message>
     <message>
-        <location line="+21"/>
         <source>When a contact begins typing</source>
-        <translation>Когда контакт начинает печатать</translation>
+        <translation type="obsolete">Когда контакт начинает печатать</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>When a contact becomes available</source>
-        <translation>Когда контакт становится доступен</translation>
+        <translation type="obsolete">Когда контакт становится доступен</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>When a contact becomes unavailable</source>
-        <translation>Когда контакт становится недоступен</translation>
+        <translation type="obsolete">Когда контакт становится недоступен</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>When a contact changes status</source>
-        <translation>Когда контакт меняет статус</translation>
+        <translation type="obsolete">Когда контакт меняет статус</translation>
     </message>
 </context>
 <context>
@@ -9647,6 +10133,124 @@ Tags: %1</source>
         <location line="+42"/>
         <source>Version: 0</source>
         <translation>Версия: 0</translation>
+    </message>
+</context>
+<context>
+    <name>OptPopups</name>
+    <message>
+        <location filename="../src/options/opt_popups.ui" line="+14"/>
+        <source>OptPopupsUI</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Enable popup notifications</source>
+        <translation>Включить всплывающие оповещения</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>General</source>
+        <translation>Настройки</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Popup notifications</source>
+        <translation>Всплывающие оповещения</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>On incoming message event</source>
+        <translation>При входящем сообщении</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show incoming message on popup</source>
+        <translation>Показывать входящее сообщение</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>On incoming headline event</source>
+        <translation>При входящем объявлении</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>On incoming file event</source>
+        <translation>При входящем файле</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>When a contact begins typing</source>
+        <translation>Когда контакт начинает печатать</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>When a contact becomes available</source>
+        <translation>Когда контакт становится доступен</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>When a contact becomes unavailable</source>
+        <translation>Когда контакт становится недоступен</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>When a contact changes status</source>
+        <translation>Когда контакт меняет статус</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Enable popup notifications for every muc message</source>
+        <translation>Включить уведомления для каждого сообщения в конференции</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Limitations</source>
+        <translation>Ограничения</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Maximum JID length:</source>
+        <translation>Максимальная длина JID&apos;а:</translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Maximum text length:</source>
+        <translation>Максимальная длина текста:</translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Maximum status length:</source>
+        <translation>Максимальная длина статуса:</translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Popup location</source>
+        <translation>Расположение</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Show popups from top to bottom</source>
+        <translation>Показывать уведомления сверху вниз</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Place popups at left</source>
+        <translation>Показывать уведомления слева</translation>
+    </message>
+    <message>
+        <location line="+39"/>
+        <source>Misc</source>
+        <translation>Разное</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Avatar size:</source>
+        <translation>Размер аватара:</translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Durations, sec.</source>
+        <translation>Длительность, сек.</translation>
     </message>
 </context>
 <context>
@@ -10298,17 +10902,15 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Добавить строку</translation>
     </message>
     <message>
-        <location line="+11"/>
         <source>Show popup </source>
-        <translation>Показывать уведомление </translation>
+        <translation type="obsolete">Показывать уведомление </translation>
     </message>
     <message>
-        <location line="+14"/>
         <source>sec (0=disable, -1=infinite)</source>
-        <translation>сек (0=выкл., -1=всегда)</translation>
+        <translation type="obsolete">сек (0=выкл., -1=всегда)</translation>
     </message>
     <message>
-        <location line="+24"/>
+        <location line="+18"/>
         <source>Default sound: </source>
         <translation>Звук по умолчанию: </translation>
     </message>
@@ -10318,17 +10920,25 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Сообщения</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location filename="../src/plugins/generic/jabberdiskplugin/options.ui" line="+32"/>
+        <location filename="../src/plugins/generic/stopspamplugin/options.ui" line="+393"/>
+        <location filename="../src/plugins/generic/watcherplugin/options.ui" line="+23"/>
         <source>Add</source>
         <translation>Добавить</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../src/plugins/generic/watcherplugin/options.ui" line="+7"/>
         <source>Delete</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+46"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/watcherplugin/options.ui" line="+7"/>
         <source>Edit</source>
         <translation>Изменить</translation>
     </message>
@@ -10343,30 +10953,73 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
+        <location filename="../src/plugins/generic/attentionplugin/options.ui" line="+14"/>
+        <location filename="../src/plugins/generic/birthdayreminderplugin/options.ui" line="+14"/>
         <location filename="../src/plugins/generic/extendedmenuplugin/options.ui" line="+14"/>
         <location filename="../src/plugins/generic/gmailserviceplugin/options.ui" line="+14"/>
+        <location filename="../src/plugins/generic/jabberdiskplugin/options.ui" line="-71"/>
         <location filename="../src/plugins/generic/pepchangenotifyplugin/options.ui" line="+14"/>
+        <location filename="../src/plugins/generic/stopspamplugin/options.ui" line="-379"/>
         <source>Form</source>
         <translation></translation>
     </message>
     <message>
         <location line="+8"/>
-        <location filename="../src/plugins/generic/pepchangenotifyplugin/options.ui" line="+8"/>
+        <source>Allow receiving one Attention from the same contact every</source>
+        <translation>Разрешить привлекать внимание от того же контакта через</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>sec</source>
+        <translation>сек</translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Don&apos;t hide popup if status is Away or XA</source>
+        <translation>Не скрывать уведомление, если статус &quot;Недоступен&quot; или &quot;Отсутствую&quot;</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Disable notifications if status is DND</source>
+        <translation>Отключить уведомления, если статус &quot;Не беспокоить&quot;</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <location filename="../src/plugins/generic/birthdayreminderplugin/options.ui" line="+147"/>
+        <location filename="../src/plugins/generic/gmailserviceplugin/options.ui" line="+145"/>
+        <source>Play sound:</source>
+        <translation>Играть звук:</translation>
+    </message>
+    <message>
+        <location line="+39"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
+    </message>
+    <message>
         <source>Show popup</source>
-        <translation>Показывать уведомление</translation>
+        <translation type="obsolete">Показывать уведомление</translation>
     </message>
     <message>
-        <location line="+14"/>
         <source>seconds (-1=infinite)</source>
-        <translation>сек (-1=всегда)</translation>
+        <translation type="obsolete">сек (-1=всегда)</translation>
     </message>
     <message>
-        <location line="+35"/>
+        <location filename="../src/plugins/generic/extendedmenuplugin/options.ui" line="+6"/>
+        <source>Contact menu</source>
+        <translation>Пункт меню</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Toolbar action</source>
+        <translation>Панель инструментов</translation>
+    </message>
+    <message>
+        <location line="+20"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/plugins/generic/gmailserviceplugin/options.ui" line="+8"/>
+        <location filename="../src/plugins/generic/gmailserviceplugin/options.ui" line="-137"/>
         <source>Supported accounts:</source>
         <translation>Поддерживаемые аккаунты:</translation>
     </message>
@@ -10478,38 +11131,46 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Показывать только новые сообщения</translation>
     </message>
     <message>
-        <location line="+12"/>
         <source>Message:
 %1 - name
 %2 - e-mail
 %3 - message</source>
-        <translation>Сообщение:
+        <translation type="obsolete">Сообщение:
 %1 - имя
 %2 - e-mail
 %3 - текст</translation>
     </message>
     <message>
-        <location line="+17"/>
         <source>Show popups</source>
-        <translation>Показывать уведомления</translation>
+        <translation type="obsolete">Показывать уведомления</translation>
     </message>
     <message>
-        <location line="+14"/>
         <source>seconds (0=disabled, -1=infinite)</source>
-        <translation>сек (0=выкл., -1=всегда)</translation>
+        <translation type="obsolete">сек (0=выкл., -1=всегда)</translation>
     </message>
     <message>
-        <location line="+22"/>
+        <location line="+51"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/plugins/generic/pepchangenotifyplugin/options.ui" line="+14"/>
+        <location filename="../src/plugins/generic/pepchangenotifyplugin/options.ui" line="+8"/>
+        <source>Per contact delay between the popup notifications of the same events</source>
+        <translation>Задержка между всплывающими уведомленими о идентичных событиях</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Delay between popups</source>
+        <translation>Задержка между уведомлениями</translation>
+    </message>
+    <message>
+        <location line="+20"/>
         <source>seconds</source>
         <translation>секунд</translation>
     </message>
     <message>
         <location line="+22"/>
+        <location filename="../src/plugins/generic/watcherplugin/options.ui" line="-108"/>
         <source>Disable popups if status is DND</source>
         <translation>Отключить уведомления, если статус &quot;Не беспокоить&quot;</translation>
     </message>
@@ -10547,6 +11208,228 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <location line="+39"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/birthdayreminderplugin/options.ui" line="-141"/>
+        <source>If you use this plugin at first time, make sure that all your accounts
+is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
+        <translation>Если Вы используете плагин в первый раз — проверьте, что все Ваши аккаунты 
+подключены и после этого нажмите &quot;Обновить дни рождения&quot;. Это займёт некоторое время.</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Update Birthdays</source>
+        <translation>Обновить дни рождения</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Clear Birthdays Cache</source>
+        <translation>Очистить кэш Дней рождения</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Check Birthdays</source>
+        <translation>Проверить дни рождения</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Start notifying</source>
+        <translation>Начать извещение за</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>days in advance</source>
+        <translation>дней</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Check birthdays every</source>
+        <translation>Проверять дни рождения каждые</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>hours</source>
+        <translation>часов</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Update birthdays every</source>
+        <translation>Обновлять дни рождения каждые</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>days (0 - automatic update disabled)</source>
+        <translation>дней (0 — автоматическое обновление - выключено)</translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Remind for contacts from active accounts only</source>
+        <translation>Напоминать только для контактов, принадлежащих активным аккаунтам</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Check birthdays on startup</source>
+        <translation>Проверять дни рождения при старте</translation>
+    </message>
+    <message>
+        <location line="+61"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/stopspamplugin/options.ui" line="+16"/>
+        <source>Main</source>
+        <translation>Главные</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Question:</source>
+        <translation>Вопрос:</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Answer:</source>
+        <translation>Ответ:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Congratulation:</source>
+        <translation>Поздравление:</translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>MUC</source>
+        <translation>Конференции</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Enable Stop Spam for private messages in MUC</source>
+        <translation>Включить АнтиСпам для приватных сообщений в конференциях</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Enable Stop Spam for affiliations:</source>
+        <translation>Включить АнтиСпам для рангов:</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Owner</source>
+        <translation>Владелец</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Admin</source>
+        <translation>Администратор</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Member</source>
+        <translation>Зарегистрированный пользователь</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>None</source>
+        <translation>Без ранга</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Enable Stop Spam for roles:</source>
+        <translation>Включить АнтиСпам для ролей:</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Moderator</source>
+        <translation>Модератор</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Participant</source>
+        <translation>Участник</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Visitor</source>
+        <translation>Гость</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Block all private messages</source>
+        <translation>Блокировать все приватные сообщения</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Send message:</source>
+        <translation>Отправить сообщение:</translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Misc</source>
+        <translation>Разное</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Number of blocked stanzas:</source>
+        <translation>Количество блокированых запросов:</translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>View Log</source>
+        <translation>Показать лог</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Reset</source>
+        <translation>Сбросить</translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Send maximum</source>
+        <translation>Отправлять не более</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>times</source>
+        <translation>раз</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Timeout to reset counter:</source>
+        <translation>Время сброса счётчика:</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>min.</source>
+        <translation>мин.</translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Log blocked messages to contact&apos;s history</source>
+        <translation>Сохранять заблокированные сообщения в историю контакта</translation>
+    </message>
+    <message>
+        <location line="+39"/>
+        <source>Del</source>
+        <translation>Удалить</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Disable stopspam, if don&apos;t match any rule above
+(does not work for muc private messages)</source>
+        <translation>Отключить АнтиСпам, если не подошло ни одно перечисленное правило
+(не работает для приватных сообщений в конференциях)</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsDlg</name>
+    <message>
+        <location filename="../src/plugins/generic/screenshotplugin/optionsdlg.ui" line="+14"/>
+        <source>Settings</source>
+        <translation>Настройки</translation>
     </message>
 </context>
 <context>
@@ -10668,32 +11551,29 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
 <context>
     <name>OptionsTabAppearanceGeneral</name>
     <message>
-        <location line="+176"/>
+        <location line="+162"/>
         <source>away</source>
         <translation>отсутствует</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="+1"/>
         <source>do not disturb</source>
         <translation>не беспокоить</translation>
     </message>
     <message>
-        <location line="+14"/>
         <source>Specifies the color for sent messages in chat and history windows.</source>
-        <translation>Цвет имени контакта в чате для исходящих сообщений, а также  цвет исходящих сообщений в истории.</translation>
+        <translation type="obsolete">Цвет имени контакта в чате для исходящих сообщений, а также  цвет исходящих сообщений в истории.</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Specifies the color for received messages in chat and history windows.</source>
-        <translation>Цвет имени контакта в чате для входящих сообщений, а также  цвет входящих сообщений в истории.</translation>
+        <translation type="obsolete">Цвет имени контакта в чате для входящих сообщений, а также  цвет входящих сообщений в истории.</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Specifies the color for informational messages in chat windows, like status changes and offline messages.</source>
-        <translation>Цвет информационных сообщений в окне чата, таких как изменение статуса и сообщение выхода.</translation>
+        <translation type="obsolete">Цвет информационных сообщений в окне чата, таких как изменение статуса и сообщение выхода.</translation>
     </message>
     <message>
-        <location line="-109"/>
+        <location line="-76"/>
         <source>Fonts &amp;&amp; Color Settings</source>
         <translation>Настройка шрифтов и цветов</translation>
     </message>
@@ -10703,17 +11583,17 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Шрифты и цвета</translation>
     </message>
     <message>
-        <location line="+87"/>
+        <location line="+74"/>
         <source>offline</source>
         <translation>отключён</translation>
     </message>
     <message>
-        <location line="-2"/>
+        <location line="-1"/>
         <source>online</source>
         <translation>доступен</translation>
     </message>
     <message>
-        <location line="-24"/>
+        <location line="-12"/>
         <source>Selects a font for chat windows using the font selection dialog.</source>
         <translation>Выбор шрифта для окон чатов.</translation>
     </message>
@@ -10728,27 +11608,23 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Выбрать шрифт для окна ростера в диалоге выбора шрифтов.</translation>
     </message>
     <message>
-        <location line="+46"/>
         <source>Specifies the background animation color for nicks.</source>
-        <translation>Цвет фона для анимации ников.</translation>
+        <translation type="obsolete">Цвет фона для анимации ников.</translation>
     </message>
     <message>
-        <location line="-6"/>
         <source>Specifies the background color for a group name in the main window.</source>
-        <translation>Цвет фона для имени группы в основном окне.</translation>
+        <translation type="obsolete">Цвет фона для имени группы в основном окне.</translation>
     </message>
     <message>
-        <location line="-2"/>
         <source>Specifies the background color for an account name in the main window.</source>
-        <translation>Цвет фона для имени аккаунта в основном окне.</translation>
+        <translation type="obsolete">Цвет фона для имени аккаунта в основном окне.</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Specifies the background color for the main window.</source>
-        <translation>Цвет фона основного окна.</translation>
+        <translation type="obsolete">Цвет фона основного окна.</translation>
     </message>
     <message>
-        <location line="-46"/>
+        <location line="-4"/>
         <source>Specifies the font style for chat windows.</source>
         <translation>Начертание шрифта для окон чатов.</translation>
     </message>
@@ -10768,17 +11644,16 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Начертание шрифта, используемого в основном окне.</translation>
     </message>
     <message>
-        <location line="+52"/>
         <source>Specifies the foreground animation color for nicks.</source>
-        <translation>Цвет текста для анимации ников.</translation>
+        <translation type="obsolete">Цвет текста для анимации ников.</translation>
     </message>
     <message>
-        <location line="-18"/>
+        <location line="+16"/>
         <source>Specifies the text color for a contact name in the main window when that user is &quot;%1&quot;.</source>
         <translation>Цвет имени контакта в главном окне, когда пользователь имеет статус &quot;%1&quot;.</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+12"/>
         <source>Status message</source>
         <translation>Статусное сообщение</translation>
     </message>
@@ -10786,7 +11661,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
 <context>
     <name>OptionsTabAppearanceMisc</name>
     <message>
-        <location line="-149"/>
+        <location line="-133"/>
         <source>Misc.</source>
         <translation>Разное</translation>
     </message>
@@ -11056,7 +11931,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
 <context>
     <name>OptionsTabIconsetActivity</name>
     <message>
-        <location filename="../src/options/opt_iconset.cpp" line="+880"/>
+        <location filename="../src/options/opt_iconset.cpp" line="+872"/>
         <source>Activity</source>
         <translation>Занятия</translation>
     </message>
@@ -11159,7 +12034,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
 <context>
     <name>OptionsTabIconsetSystem</name>
     <message>
-        <location line="-956"/>
+        <location line="-949"/>
         <source>Select the system iconset</source>
         <translation>Выбрать системный набор иконок</translation>
     </message>
@@ -11190,6 +12065,19 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <location line="+123"/>
         <source>Version: </source>
         <translation>Версия: </translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabPopups</name>
+    <message>
+        <location filename="../src/options/opt_popups.cpp" line="+36"/>
+        <source>Popups</source>
+        <translation>Уведомления</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>The popups behaviour</source>
+        <translation>Поведение всплывающих уведомлений</translation>
     </message>
 </context>
 <context>
@@ -11508,10 +12396,15 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>OptionsWidget</name>
     <message>
         <location filename="../src/plugins/generic/clientswitcherplugin/options.ui" line="+14"/>
-        <location filename="../src/plugins/generic/screenshotplugin/options.ui" line="+14"/>
+        <location filename="../src/plugins/generic/screenshotplugin/optionswidget.ui" line="+14"/>
         <location filename="../src/plugins/generic/videostatusplugin/options.ui" line="+14"/>
         <source>Form</source>
         <translation></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>General</source>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -11529,17 +12422,16 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Запретить запрос версии</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+185"/>
         <source>Show popup at version iq</source>
         <translation>Всплывающее окно при запросе версии</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source> sec.</source>
-        <translation>сек.</translation>
+        <translation type="obsolete">сек.</translation>
     </message>
     <message>
-        <location line="+34"/>
+        <location line="-157"/>
         <source>OS</source>
         <translation>ОС</translation>
     </message>
@@ -11595,12 +12487,46 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Конференций</translation>
     </message>
     <message>
-        <location line="+28"/>
+        <location line="+38"/>
+        <location line="+26"/>
+        <source>never</source>
+        <translation>никогда</translation>
+    </message>
+    <message>
+        <location line="-21"/>
+        <location line="+26"/>
+        <source>if iq replaced</source>
+        <translatorcomment>wtf</translatorcomment>
+        <translation>если заменён iq</translation>
+    </message>
+    <message>
+        <location line="-21"/>
+        <location line="+26"/>
+        <source>always</source>
+        <translation>всегда</translation>
+    </message>
+    <message>
+        <location line="-18"/>
+        <source>Save queryes to log</source>
+        <translation>Сохранять запросы в журнал</translation>
+    </message>
+    <message>
+        <location line="+42"/>
+        <source>Logs</source>
+        <translation>Журнал</translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>View log</source>
+        <translation>Показать журнал</translation>
+    </message>
+    <message>
+        <location line="+26"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/plugins/generic/screenshotplugin/options.ui" line="+8"/>
+        <location filename="../src/plugins/generic/screenshotplugin/optionswidget.ui" line="+8"/>
         <source>Shortcut:</source>
         <translation>Комбинация клавиш:</translation>
     </message>
@@ -11845,22 +12771,22 @@ Please enter your passphrase below:</source>
 <context>
     <name>PepPlugin</name>
     <message>
-        <location filename="../src/plugins/generic/pepchangenotifyplugin/pepchangenotifyplugin.cpp" line="+264"/>
+        <location filename="../src/plugins/generic/pepchangenotifyplugin/pepchangenotifyplugin.cpp" line="+277"/>
         <source>Now listening: </source>
         <translation>Слушает: </translation>
     </message>
     <message>
-        <location line="+32"/>
+        <location line="+29"/>
         <source>Mood changed to &quot;%1</source>
         <translation>Меняет настроение на &quot;%1</translation>
     </message>
     <message>
-        <location line="+38"/>
+        <location line="+32"/>
         <source>Activity changed to &quot;%1</source>
         <translation>Меняет занятие на &quot;%1</translation>
     </message>
     <message>
-        <location line="+150"/>
+        <location line="+122"/>
         <source>Choose a sound file</source>
         <translation>Выбрать звуковой файл</translation>
     </message>
@@ -11870,7 +12796,7 @@ Please enter your passphrase below:</source>
         <translation>Звуковой файл (*.wav)</translation>
     </message>
     <message>
-        <location line="+81"/>
+        <location line="+100"/>
         <source>Author: </source>
         <translation>Автор: </translation>
     </message>
@@ -11888,7 +12814,7 @@ Please enter your passphrase below:</source>
 <context>
     <name>PixmapWidget</name>
     <message>
-        <location filename="../src/plugins/generic/screenshotplugin/pixmapwidget.cpp" line="+172"/>
+        <location filename="../src/plugins/generic/screenshotplugin/pixmapwidget.cpp" line="+261"/>
         <source>Cut</source>
         <translation>Вырезать</translation>
     </message>
@@ -11914,9 +12840,217 @@ Please enter your passphrase below:</source>
 <context>
     <name>PluginManager</name>
     <message>
-        <location filename="../src/pluginmanager.cpp" line="+299"/>
+        <location filename="../src/pluginmanager.cpp" line="+310"/>
         <source>This plugin has no user configurable options</source>
         <translation>Данный плагин не имеет опций для настройки пользователем</translation>
+    </message>
+</context>
+<context>
+    <name>PluginWindow</name>
+    <message>
+        <location filename="../src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="+14"/>
+        <source>Gomoku Game</source>
+        <translation>Игра Гомоку</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Opponent:</source>
+        <translation>Противник:</translation>
+    </message>
+    <message>
+        <location line="+43"/>
+        <source>Status:</source>
+        <translation>Статус:</translation>
+    </message>
+    <message>
+        <location line="+134"/>
+        <source>Game</source>
+        <translation>Игра</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Skin</source>
+        <translation>Скин</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>File</source>
+        <translation>Файл</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>New game</source>
+        <translation>Новая игра</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <location filename="../src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="+408"/>
+        <source>Load game</source>
+        <translation>Загрузить игру</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <location filename="../src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="-18"/>
+        <source>Save game</source>
+        <translation>Сохранить игру</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Quit</source>
+        <translation>Выход</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Resign</source>
+        <translation>Сдаться</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Switch color</source>
+        <translation>Переключить цвет</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Standart</source>
+        <translation>Стандартный</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Yellow wood</source>
+        <translation>Жёлтое дерево</translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="-252"/>
+        <source>Waiting for opponent</source>
+        <translation>В ожидании противника</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Waiting for accept</source>
+        <translation>В ожидании принятия</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Your turn</source>
+        <translation>Ваш ход</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>End of game</source>
+        <translation>Конец игры</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Error</source>
+        <translation>Ошибка</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Win!</source>
+        <translation>Вы победили!</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Lose.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <location line="+5"/>
+        <source>Draw.</source>
+        <translation>Ничья.</translation>
+    </message>
+    <message>
+        <location line="-1"/>
+        <location line="+122"/>
+        <location line="+16"/>
+        <location line="+25"/>
+        <location line="+24"/>
+        <location line="+24"/>
+        <location line="+53"/>
+        <source>Gomoku Plugin</source>
+        <translation>Плагин Гомоку</translation>
+    </message>
+    <message>
+        <location line="-218"/>
+        <source>You: </source>
+        <translation>Вы: </translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Opp: </source>
+        <translation>Опп: </translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>%1- swch</source>
+        <comment>Switch color</comment>
+        <translation>%1- цвет</translation>
+    </message>
+    <message>
+        <location line="+71"/>
+        <source>Game Error!</source>
+        <translation>Ошибка игры!</translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Your opponent has closed the board!
+ You can still save the game.</source>
+        <translation>Ваш соперник вышел из игры!
+ Вы всё ещё можете сохранить игру.</translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>You want to switch color?</source>
+        <translation>Вы хотите переключить цвет?</translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>You Lose.</source>
+        <translation>Вы проиграли.</translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>You Win!</source>
+        <translation>Вы победили!</translation>
+    </message>
+    <message>
+        <location line="+53"/>
+        <source>You really want to begin new game?</source>
+        <translation>Вы действительно хотите начать новую игру?</translation>
+    </message>
+</context>
+<context>
+    <name>PreferencesWidget</name>
+    <message>
+        <location filename="../src/plugins/generic/pstoplugin/preferences.ui" line="+14"/>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>@username</source>
+        <translation>@пользователь</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>#post_id</source>
+        <translation>#id сообщения</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>* tag</source>
+        <translation>*тег</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>&gt; quote</source>
+        <translation>&gt;цитата</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>message</source>
+        <translation>сообщение</translation>
     </message>
 </context>
 <context>
@@ -12573,9 +13707,47 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
 </context>
 <context>
+    <name>ProxySettingsDlg</name>
+    <message>
+        <location filename="../src/plugins/generic/screenshotplugin/proxysettingsdlg.ui" line="+32"/>
+        <source>Proxy Server Settings</source>
+        <translation>Настройка прокси-сервера</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Type:</source>
+        <translation>Тип:</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Host:</source>
+        <translation>Сервер:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Port:</source>
+        <translation>Порт:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>99999; </source>
+        <translation></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>User:</source>
+        <translation>Имя пользователя:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Password:</source>
+        <translation>Пароль:</translation>
+    </message>
+</context>
+<context>
     <name>PsiAccount</name>
     <message>
-        <location filename="../src/psiaccount.cpp" line="+5961"/>
+        <location filename="../src/psiaccount.cpp" line="+5978"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]</translation>
     </message>
@@ -12587,7 +13759,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
 Это могло произойти, если у вас нет ключа, который контакт указывает в своём &quot;подписанном присутствии&quot;, или он вообще не указывает ключа.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location line="-4277"/>
+        <location line="-4289"/>
         <source>A required remote connection failed</source>
         <translation>Необходимое удалённое соединение закрыто вследствие ошибки</translation>
     </message>
@@ -12612,12 +13784,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Нарушен слой защиты (TLS)</translation>
     </message>
     <message>
-        <location line="+4263"/>
+        <location line="+4275"/>
         <source>&amp;Choose key manually</source>
         <translation>&amp;Выбрать ключ вручную</translation>
     </message>
     <message>
-        <location line="-4335"/>
+        <location line="-4347"/>
         <source>Conflict (remote login replacing this one)</source>
         <translation>Конфликт (удалённое подключение заменило это подключение)</translation>
     </message>
@@ -12627,22 +13799,22 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Ошибка соединения: %1</translation>
     </message>
     <message>
-        <location line="-655"/>
+        <location line="-659"/>
         <source>Disable Account</source>
         <translation>Отключить аккаунт</translation>
     </message>
     <message>
-        <location line="+585"/>
+        <location line="+589"/>
         <source>Disconnected</source>
         <translation>Отключён</translation>
     </message>
     <message>
-        <location line="+4363"/>
+        <location line="+4375"/>
         <source>Do &amp;nothing</source>
         <translation>О&amp;тмена</translation>
     </message>
     <message>
-        <location line="-3521"/>
+        <location line="-3533"/>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
         <translation>Вы подтверждаете приём %1 (%2 кб) от %3?</translation>
     </message>
@@ -12652,13 +13824,13 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Шифрование необходимо для выбранного механизма SASL</translation>
     </message>
     <message>
-        <location line="-708"/>
-        <location line="+1879"/>
+        <location line="-712"/>
+        <location line="+1884"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location line="-1230"/>
+        <location line="-1231"/>
         <source>Error connecting to proxy</source>
         <translation>Ошибка соединения с прокси-сервером</translation>
     </message>
@@ -12713,12 +13885,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Неправильный механизм SASL</translation>
     </message>
     <message>
-        <location line="-478"/>
+        <location line="-479"/>
         <source>Reconnecting</source>
         <translation>Восстановление соединения</translation>
     </message>
     <message>
-        <location line="+390"/>
+        <location line="+391"/>
         <source>Invalid XML</source>
         <translation>Неправильный XML</translation>
     </message>
@@ -12744,7 +13916,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Отключён</translation>
     </message>
     <message>
-        <location line="+1068"/>
+        <location line="+1079"/>
         <source>Name:	</source>
         <translation>Название:	</translation>
     </message>
@@ -12759,12 +13931,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>ОС:	</translation>
     </message>
     <message>
-        <location line="+2397"/>
+        <location line="+2398"/>
         <source>No key</source>
         <translation>Нет ключа</translation>
     </message>
     <message>
-        <location line="-4212"/>
+        <location line="-4224"/>
         <source>None</source>
         <translation>Нет</translation>
     </message>
@@ -12779,17 +13951,17 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Не прошла аутентификация с прокси-сервером</translation>
     </message>
     <message>
-        <location line="+1899"/>
+        <location line="+1910"/>
         <source>Version Query Information</source>
         <translation>Информация запроса версии</translation>
     </message>
     <message>
-        <location line="+2407"/>
+        <location line="+2408"/>
         <source>Public Key: %1</source>
         <translation>Публичный ключ: %1</translation>
     </message>
     <message>
-        <location line="-4241"/>
+        <location line="-4253"/>
         <source>SASL mechanism too weak for this account</source>
         <translation>Механизм SASL слишком слаб для этого аккаунта</translation>
     </message>
@@ -12845,14 +14017,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Ошибка согласования потока: %1</translation>
     </message>
     <message>
-        <location line="-673"/>
+        <location line="-677"/>
         <source>The account is currently active.
 Do you want to log out ?</source>
         <translation>Этот аккаунт сейчас используется.
 Вы хотите отключиться?</translation>
     </message>
     <message>
-        <location line="+559"/>
+        <location line="+563"/>
         <source>The server does not support TLS encryption.</source>
         <translation>Сервер не поддерживает шифрование TLS.</translation>
     </message>
@@ -12864,14 +14036,14 @@ Details: %1</source>
 Подробности: %1</translation>
     </message>
     <message>
-        <location line="+3696"/>
+        <location line="+3708"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
         <translation>Произошла ошибка установки вашего состояния.
 Причина: %1.</translation>
     </message>
     <message>
-        <location line="-3895"/>
+        <location line="-3907"/>
         <source>Timed out from inactivity</source>
         <translation>Таймаут из-за неактивности</translation>
     </message>
@@ -12886,12 +14058,12 @@ Reason: %1.</source>
         <translation>Невозможно соединиться с сервером</translation>
     </message>
     <message>
-        <location line="-645"/>
+        <location line="-649"/>
         <source>Unable to disable the account, as it has pending events.</source>
         <translation>Невозможно отключить аккаунт, так как есть непросмотренные сообщения.</translation>
     </message>
     <message>
-        <location line="+697"/>
+        <location line="+701"/>
         <source>Unable to login</source>
         <translation>Невозможно войти</translation>
     </message>
@@ -12911,12 +14083,12 @@ Reason: %1.</source>
         <translation>Ошибка потока XMPP: %1</translation>
     </message>
     <message>
-        <location line="+1242"/>
+        <location line="+1243"/>
         <source>You must be connected to the server in order to do this.</source>
         <translation>Для выполнения операции необходимо сначала подключиться к серверу.</translation>
     </message>
     <message>
-        <location line="-1621"/>
+        <location line="-1622"/>
         <source>Encryption Error</source>
         <translation>Ошибка шифрования</translation>
     </message>
@@ -13462,12 +14634,12 @@ Reason: %1.</source>
 <context>
     <name>PsiChatDlg</name>
     <message>
-        <location filename="../src/psichatdlg.cpp" line="+261"/>
+        <location filename="../src/psichatdlg.cpp" line="+252"/>
         <source>Input command...</source>
         <translation>Введите команду...</translation>
     </message>
     <message>
-        <location line="+168"/>
+        <location line="+164"/>
         <source>Find toolbar</source>
         <translation>Панель поиска</translation>
     </message>
@@ -13696,7 +14868,7 @@ Reason: %1.</source>
 <context>
     <name>PsiCon</name>
     <message>
-        <location filename="../src/psicon.cpp" line="+1825"/>
+        <location filename="../src/psicon.cpp" line="+1857"/>
         <source>Account setup</source>
         <translation>Настройки аккаунта</translation>
     </message>
@@ -13706,30 +14878,50 @@ Reason: %1.</source>
         <translation>Компьютер вошёл в спящий режим</translation>
     </message>
     <message>
-        <location line="-1308"/>
+        <location line="-1333"/>
         <location line="+11"/>
-        <location line="+332"/>
-        <location line="+454"/>
+        <location line="+355"/>
+        <location line="+448"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location line="+133"/>
+        <location line="+140"/>
         <source>I understand</source>
         <translation>Я понимаю</translation>
     </message>
     <message>
-        <location line="-43"/>
+        <location line="-50"/>
         <source>Information</source>
         <translation>Информация</translation>
     </message>
     <message>
-        <location line="-876"/>
+        <location line="-893"/>
         <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
         <translation>Невозможно загрузить тему!  Пожалуйста, проверьте, что Psi+ правильно установлена.</translation>
     </message>
     <message>
-        <location line="+332"/>
+        <location line="+53"/>
+        <source>Status</source>
+        <translation>Статус</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Message</source>
+        <translation>Сообщение</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>File</source>
+        <translation>Файл</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Chat</source>
+        <translation>Чат</translation>
+    </message>
+    <message>
+        <location line="+293"/>
         <source>Please disconnect before changing the profile.</source>
         <translation>Отключитесь от сервера перед изменением профиля.</translation>
     </message>
@@ -13739,7 +14931,7 @@ Reason: %1.</source>
         <translation>&amp;Отключиться</translation>
     </message>
     <message>
-        <location line="+817"/>
+        <location line="+819"/>
         <source>Call ended</source>
         <translation>Вызов завершён</translation>
     </message>
@@ -13754,45 +14946,45 @@ Reason: %1.</source>
         <translation>Зарегистрировать новый</translation>
     </message>
     <message>
-        <location line="-455"/>
+        <location line="-463"/>
         <source>Some of the options you changed will only have full effect upon restart.</source>
         <translation>Большинство изменений вступят в силу только после перезапуска.</translation>
     </message>
     <message>
-        <location line="+414"/>
+        <location line="+422"/>
         <source>Unable to bind to port %1 for Data Transfer.
 This may mean you are already running another instance of Psi. You may experience problems sending and/or receiving files.</source>
         <translation>Невозможно подключиться к порту %1 для передачи данных.
 Скорее всего, у вас запущена другая копия Psi. Это приведёт к проблемам передачи и приёма файлов.</translation>
     </message>
     <message>
-        <location line="-1301"/>
+        <location line="-1326"/>
         <source>Unable to load iconset!  Please make sure Psi is properly installed.</source>
         <translation>Невозможно загрузить набор иконок! Проверьте установку Psi.</translation>
     </message>
     <message>
-        <location line="+1343"/>
+        <location line="+1368"/>
         <source>Use existing account</source>
         <translation>Использовать существующий</translation>
     </message>
     <message>
-        <location line="-415"/>
-        <location line="+373"/>
+        <location line="-416"/>
+        <location line="+374"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
     <message>
-        <location line="-372"/>
+        <location line="-373"/>
         <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.</source>
         <translation>Вы не можете отключить &lt;i&gt;все&lt;/i&gt; инструментальные панели &lt;i&gt;и&lt;/i&gt; строку меню. Если Вы сделаете так, то будете неспособны вернуть их назад, когда вы передумаете.</translation>
     </message>
     <message>
-        <location line="+412"/>
+        <location line="+413"/>
         <source>You need to set up an account to start. Would you like to register a new account, or use an existing account?</source>
         <translation>Вам нужно настроить аккаунт для начала работы. Вы хотите зарегистрировать новый аккаунт или использовать существующий?</translation>
     </message>
     <message>
-        <location line="-566"/>
+        <location line="-568"/>
         <source>Unsupported URI type</source>
         <translation>Неподдерживаемый тип URI</translation>
     </message>
@@ -13829,7 +15021,7 @@ This may mean you are already running another instance of Psi. You may experienc
 <context>
     <name>PsiContactListViewDelegate</name>
     <message>
-        <location filename="../src/psicontactlistviewdelegate.cpp" line="+285"/>
+        <location filename="../src/psicontactlistviewdelegate.cpp" line="+286"/>
         <source>%1 (%2)</source>
         <translation></translation>
     </message>
@@ -14421,7 +15613,7 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiPopup</name>
     <message>
-        <location filename="../src/psipopup.cpp" line="+283"/>
+        <location filename="../src/psipopup.cpp" line="+284"/>
         <source>Contact offline</source>
         <translation>Контакт отключился</translation>
     </message>
@@ -14542,7 +15734,7 @@ Proceed?</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="+740"/>
+        <location filename="../src/groupchatdlg.cpp" line="+726"/>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
         <translation>Предупреждение: команда %1 не рекомендуется и будет удалена в будущем</translation>
     </message>
@@ -14557,7 +15749,7 @@ Proceed?</source>
         <translation>Пожалуйста, нажмите %1 и введите &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="../src/psi_profiles.cpp" line="+314"/>
+        <location filename="../src/psi_profiles.cpp" line="+315"/>
         <source>%1 Proxy</source>
         <translation>%1 прокси-сервер</translation>
     </message>
@@ -14602,7 +15794,7 @@ Proceed?</source>
         <translation>гость</translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="+2845"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="+2856"/>
         <source>Address</source>
         <translation>Адрес</translation>
     </message>
@@ -14617,7 +15809,7 @@ Proceed?</source>
         <translation>Ранг: %1</translation>
     </message>
     <message>
-        <location filename="../src/moodcatalog.cpp" line="+68"/>
+        <location filename="../src/moodcatalog.cpp" line="+69"/>
         <source>Afraid</source>
         <translation>Испуганное</translation>
     </message>
@@ -14692,7 +15884,7 @@ Proceed?</source>
         <translation>Выйти из всех конференций</translation>
     </message>
     <message>
-        <location filename="../src/common.cpp" line="+173"/>
+        <location filename="../src/common.cpp" line="+174"/>
         <location filename="../src/rc.cpp" line="-179"/>
         <source>Away</source>
         <translation>Отсутствую</translation>
@@ -15599,7 +16791,7 @@ Proceed?</source>
         <translation>Не удалось создать сокет сервера!</translation>
     </message>
     <message>
-        <location filename="../src/activitycatalog.cpp" line="+75"/>
+        <location filename="../src/activitycatalog.cpp" line="+77"/>
         <source>Doing Chores</source>
         <translation>Занимаюсь хозяйством</translation>
     </message>
@@ -15990,7 +17182,7 @@ Proceed?</source>
         <translation>Другое</translation>
     </message>
     <message>
-        <location filename="../src/geolocation.cpp" line="+376"/>
+        <location filename="../src/geolocation.cpp" line="+379"/>
         <source>Latitude/Longitude/Altitude: </source>
         <translation>Широта/Долгота/Высота: </translation>
     </message>
@@ -16089,6 +17281,42 @@ Description: </source>
         <location filename="../src/plugins/generic/storagenotesplugin/tagsmodel.cpp" line="-144"/>
         <source>All Tags</source>
         <translation>Все теги</translation>
+    </message>
+    <message numerus="yes">
+        <location filename="../src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="-384"/>
+        <source>%n day(s) </source>
+        <translation>
+            <numerusform>%n дней </numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location line="+3"/>
+        <source>%n hour(s) </source>
+        <translation>
+            <numerusform>%n часов </numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location line="+3"/>
+        <source>%n minute(s) </source>
+        <translation>
+            <numerusform>%n минут </numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location line="+3"/>
+        <source>%n second(s) </source>
+        <translation>
+            <numerusform>%n секунд </numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -16195,82 +17423,67 @@ Reason: %1</source>
 <context>
     <name>Reminder</name>
     <message>
-        <location filename="../src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="+228"/>
         <source>Update birthdays every</source>
-        <translation>Обновлять дни рождения каждые</translation>
+        <translation type="obsolete">Обновлять дни рождения каждые</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>days (0 - automatic update disabled)</source>
-        <translation>дней (0 — автоматическое обновление - выключено)</translation>
+        <translation type="obsolete">дней (0 — автоматическое обновление - выключено)</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Check Birthdays</source>
-        <translation>Проверить дни рождения</translation>
+        <translation type="obsolete">Проверить дни рождения</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Update Birthdays</source>
-        <translation>Обновить дни рождения</translation>
+        <translation type="obsolete">Обновить дни рождения</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Clear Birthdays Cache</source>
-        <translation>Очистить кэш дней рождения</translation>
+        <translation type="obsolete">Очистить кэш дней рождения</translation>
     </message>
     <message>
-        <location line="+9"/>
         <source>Start notifying</source>
-        <translation>Начать извещение за</translation>
+        <translation type="obsolete">Начать извещение за</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>days in advance</source>
-        <translation>дней</translation>
+        <translation type="obsolete">дней</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Check birthdays every</source>
-        <translation>Проверять дни рождения каждые</translation>
+        <translation type="obsolete">Проверять дни рождения каждые</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>hours</source>
-        <translation>часов</translation>
+        <translation type="obsolete">часов</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Show popup/notification window</source>
-        <translation>Показать всплывающее окно/уведомление</translation>
+        <translation type="obsolete">Показать всплывающее окно/уведомление</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>sec (-1=infinite)</source>
-        <translation>сек (-1=всегда)</translation>
+        <translation type="obsolete">сек (-1=всегда)</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Check birthdays on startup</source>
-        <translation>Проверять дни рождения при старте</translation>
+        <translation type="obsolete">Проверять дни рождения при старте</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Remind for contacts from active accounts only</source>
-        <translation>Напоминать только для контактов, принадлежащих активным аккаунтам</translation>
+        <translation type="obsolete">Напоминать только для контактов, принадлежащих активным аккаунтам</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>Play sound:</source>
-        <translation>Играть звук:</translation>
+        <translation type="obsolete">Играть звук:</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
+        <translation type="obsolete">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
-        <location line="+232"/>
+        <location filename="../src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="+441"/>
         <source>celebrates birthday today!
 </source>
         <translation>отмечает день рождения сегодня!
@@ -16297,7 +17510,7 @@ Reason: %1</source>
 </translation>
     </message>
     <message>
-        <location line="+115"/>
+        <location line="+79"/>
         <source>Author: </source>
         <translation>Автор: </translation>
     </message>
@@ -16314,19 +17527,18 @@ The first time you install this plugin, you need to log on to all of your accoun
 Если Вы установили этот плагин впервые, то вам необходимо выйти всеми своими аккаунтами в онлайн, зайти в настройки плагина и нажать кнопку &quot;Обновить дни рождения&quot;. В результате будет собрана информация о днях рождения пользователей в вашем ростере, а если выбрана соответствующая опция, то и пользователей, vCard&apos;ы которых находятся в кэше на жёстком диске.</translation>
     </message>
     <message>
-        <location line="-390"/>
         <source>If you use this plugin at first time, make sure that all your accounts 
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation>Если Вы используете плагин в первый раз — проверьте, что все ваши аккаунты 
+        <translation type="obsolete">Если Вы используете плагин в первый раз — проверьте, что все ваши аккаунты 
 подключены и после этого нажмите &quot;Обновить дни рождения&quot;. Это займёт некоторое время.</translation>
     </message>
     <message>
-        <location line="+312"/>
+        <location line="-41"/>
         <source>Birthday Reminder</source>
         <translation>Дни рождения</translation>
     </message>
     <message>
-        <location line="+66"/>
+        <location line="+28"/>
         <source>Choose a sound file</source>
         <translation>Выбрать звуковой файл</translation>
     </message>
@@ -16422,7 +17634,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
 <context>
     <name>Screenshot</name>
     <message>
-        <location filename="../src/plugins/generic/screenshotplugin/screenshot.cpp" line="+124"/>
+        <location filename="../src/plugins/generic/screenshotplugin/screenshot.cpp" line="+248"/>
         <source>Open Image</source>
         <translation>Открыть изображение</translation>
     </message>
@@ -16432,13 +17644,28 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Изображения (*.png *.gif *.jpg *.jpeg *.ico)</translation>
     </message>
     <message>
-        <location line="+176"/>
-        <location line="+46"/>
+        <location line="+254"/>
+        <location line="+51"/>
         <source>%1.</source>
         <translation>%1.</translation>
     </message>
     <message>
-        <location line="+64"/>
+        <location line="+128"/>
+        <source>Can&apos;t parse URL (Reply URL: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</source>
+        <translation>Невозможно разобрать URL (Ответный URL: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Close Screenshot</source>
+        <translation>Закрыть Скриншот</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Are your sure?</source>
+        <translation>Вы уверены?</translation>
+    </message>
+    <message>
+        <location line="-250"/>
         <source>/%1.</source>
         <translation>/%1.</translation>
     </message>
@@ -16453,19 +17680,16 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>%1 файлы (*.%2);;Все файлы (*)</translation>
     </message>
     <message>
-        <location line="+40"/>
         <source>Unable to connect to the server </source>
-        <translation>Невозможно соединиться с сервером </translation>
+        <translation type="obsolete">Невозможно соединиться с сервером </translation>
     </message>
     <message>
-        <location line="+34"/>
         <source>Can&apos;t parse URL</source>
-        <translation>Невозможно разобрать URL</translation>
+        <translation type="obsolete">Невозможно разобрать URL</translation>
     </message>
     <message>
-        <location line="+11"/>
         <source>Screenshot Plugin</source>
-        <translation>Плагин Снимков экрана</translation>
+        <translation type="obsolete">Плагин Снимков экрана</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/screenshotplugin/screenshot.ui" line="+14"/>
@@ -16483,35 +17707,106 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Загружать на сервер:</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+13"/>
         <source>Upload Screenshot to selected server</source>
         <translation>Загрузка снимка на выбранный сервер</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+13"/>
         <source>Save Screenshot to Local Drive</source>
         <translation>Сохранить снимок на локальный диск</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+13"/>
+        <source>Print Screenshot</source>
+        <translation>Печатать снимок экрана</translation>
+    </message>
+    <message>
+        <location line="+26"/>
         <source>Open image from Local Drive</source>
         <translation>Открыть изображение с локального диска</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+13"/>
+        <location line="+85"/>
         <source>New Screenshot</source>
         <translation>Новый снимок</translation>
     </message>
     <message>
-        <location line="+13"/>
+        <location line="-72"/>
         <source>toolBar</source>
         <translation></translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>File</source>
+        <translation>Файл</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Settings</source>
+        <translation>Настройки</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Help</source>
+        <translation>Справка</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Open</source>
+        <translation>Открыть</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Save</source>
+        <translation>Сохранить</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Print</source>
+        <translation>Печать</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Exit</source>
+        <translation>Выход</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Proxy Settings</source>
+        <translation>Настройка прокси-сервера</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Options</source>
+        <translation>Настройки</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>History</source>
+        <translation>История</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>About Qt</source>
+        <translation>О библиотеке Qt</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Home page</source>
+        <translation>Домашняя страница</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Upload</source>
+        <translation>Отправить</translation>
     </message>
 </context>
 <context>
     <name>ScreenshotOptions</name>
     <message>
-        <location filename="../src/plugins/generic/screenshotplugin/screenshotoptions.ui" line="+20"/>
+        <location filename="../src/plugins/generic/screenshotplugin/screenshotoptions.ui" line="+23"/>
         <source>New Screenshot</source>
         <translation>Новый снимок</translation>
     </message>
@@ -16544,12 +17839,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
 <context>
     <name>ScreenshotPlugin</name>
     <message>
-        <location filename="../src/plugins/generic/screenshotplugin/screenshotplugin.cpp" line="+235"/>
+        <location filename="../src/plugins/generic/screenshotplugin/screenshotplugin.cpp" line="+194"/>
         <source>Upload Image</source>
         <translation>Отправить изображение</translation>
     </message>
     <message>
-        <location line="+148"/>
+        <location line="+36"/>
         <source>Authors: </source>
         <translation>Авторы: </translation>
     </message>
@@ -16763,17 +18058,24 @@ Reason: %1</source>
         <translation>Редактор шаблонов</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+6"/>
         <source>Templates</source>
         <translation>Шаблоны</translation>
     </message>
     <message>
-        <location line="+30"/>
+        <location line="+120"/>
         <source>Add</source>
         <translation>Добавить</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+10"/>
+        <location filename="../src/sendbuttonmenu.cpp" line="+23"/>
+        <source>Edit</source>
+        <translation>Изменить</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <location filename="../src/sendbuttonmenu.cpp" line="+1"/>
         <source>Remove</source>
         <translation>Удалить</translation>
     </message>
@@ -16787,11 +18089,73 @@ Reason: %1</source>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
+    <message>
+        <location filename="../src/sendbuttonmenu.cpp" line="-9"/>
+        <source>Add template string</source>
+        <translation>Добавить строку шаблона</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Add template string as submenu</source>
+        <translation>Добавить строку шаблона как подменю</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Add separator</source>
+        <translation>Добавить разделитель</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Add separator as submenu</source>
+        <translation>Добавить разделитель как подменю</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Up</source>
+        <translation>Выше</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Down</source>
+        <translation>Ниже</translation>
+    </message>
+    <message>
+        <location line="+42"/>
+        <location line="+45"/>
+        <location line="+9"/>
+        <source>&lt;separator&gt;</source>
+        <translation>&lt;разделитель&gt;</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Edit template</source>
+        <translation>Редактировать шаблон</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Input new template text</source>
+        <translation>Введите текст шаблона</translation>
+    </message>
+    <message>
+        <location line="+139"/>
+        <source>Save templates</source>
+        <translation>Сохранить шаблоны</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
+        <translation>Шаблон &quot;%1&quot; не был сохранён!</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Continue?</source>
+        <translation>Продолжить?</translation>
+    </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
-        <location filename="../src/sendbuttonmenu.cpp" line="+67"/>
+        <location line="+109"/>
         <source>Paste and &amp;Send</source>
         <translation>Вставить и &amp;отправить</translation>
     </message>
@@ -17248,6 +18612,11 @@ Reason: %1</source>
     </message>
     <message>
         <location line="+1"/>
+        <source>Hide all active windows</source>
+        <translation>Скрыть все активные окна</translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Shortcuts in the message dialog</source>
         <translation>Окно сообщения</translation>
     </message>
@@ -17643,169 +19012,137 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
 <context>
     <name>StopSpam</name>
     <message>
-        <location filename="../src/plugins/generic/stopspamplugin/stopspamplugin.cpp" line="+476"/>
         <source>Main</source>
-        <translation>Главные</translation>
+        <translation type="obsolete">Главные</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>MUC</source>
-        <translation>Конференции</translation>
+        <translation type="obsolete">Конференции</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Misc</source>
-        <translation>Разное</translation>
+        <translation type="obsolete">Разное</translation>
     </message>
     <message>
-        <location line="+12"/>
         <source>Question:</source>
-        <translation>Вопрос:</translation>
+        <translation type="obsolete">Вопрос:</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Answer:</source>
-        <translation>Ответ:</translation>
+        <translation type="obsolete">Ответ:</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Congratulation:</source>
-        <translation>Поздравление:</translation>
+        <translation type="obsolete">Поздравление:</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Enable Stop Spam for private messages in MUC</source>
-        <translation>Включить АнтиСпам для приватных сообщений в конференциях</translation>
+        <translation type="obsolete">Включить АнтиСпам для приватных сообщений в конференциях</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Block all private messages</source>
-        <translation>Блокировать все приватные сообщения</translation>
+        <translation type="obsolete">Блокировать все приватные сообщения</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Enable Stop Spam for affiliations:</source>
-        <translation>Включить АнтиСпам для рангов:</translation>
+        <translation type="obsolete">Включить АнтиСпам для рангов:</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Member</source>
-        <translation>Зарегистрированный пользователь</translation>
+        <translation type="obsolete">Зарегистрированный пользователь</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Admin</source>
-        <translation>Админ</translation>
+        <translation type="obsolete">Админ</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Owner</source>
-        <translation>Владелец</translation>
+        <translation type="obsolete">Владелец</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>None</source>
-        <translation>Нет</translation>
+        <translation type="obsolete">Нет</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>Enable Stop Spam for roles:</source>
-        <translation>Включить АнтиСпам для ролей:</translation>
+        <translation type="obsolete">Включить АнтиСпам для ролей:</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Moderator</source>
-        <translation>Модератор</translation>
+        <translation type="obsolete">Модератор</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Participant</source>
-        <translation>Участник</translation>
+        <translation type="obsolete">Участник</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Visitor</source>
-        <translation>Гость</translation>
+        <translation type="obsolete">Гость</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>Send message:</source>
-        <translation>Отправить сообщение:</translation>
+        <translation type="obsolete">Отправить сообщение:</translation>
     </message>
     <message>
-        <location line="+23"/>
         <source>Reset</source>
-        <translation>Сбросить</translation>
+        <translation type="obsolete">Сбросить</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>View Log</source>
-        <translation>Показать лог</translation>
+        <translation type="obsolete">Показать лог</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Number of blocked stanzas:</source>
-        <translation>Количество блокированых запросов:</translation>
+        <translation type="obsolete">Количество блокированых запросов:</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Enable popup notifications</source>
-        <translation>Включить уведомления</translation>
+        <translation type="obsolete">Включить уведомления</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Show popup</source>
-        <translation>Показывать уведомление</translation>
+        <translation type="obsolete">Показывать уведомление</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>sec</source>
-        <translation>сек</translation>
+        <translation type="obsolete">сек</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>Send maximum</source>
-        <translation>Отправлять не более</translation>
+        <translation type="obsolete">Отправлять не более</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>times</source>
-        <translation>раз</translation>
+        <translation type="obsolete">раз</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Timeout to reset counter:</source>
-        <translation>Время сброса счётчика:</translation>
+        <translation type="obsolete">Время сброса счётчика:</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>min.</source>
-        <translation>мин.</translation>
+        <translation type="obsolete">мин.</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>Add</source>
-        <translation>Добавить</translation>
+        <translation type="obsolete">Добавить</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Del</source>
-        <translation>Удалить</translation>
+        <translation type="obsolete">Удалить</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Disable stopspam, if don&apos;t match any rule above
 (does not work for muc private messages)</source>
-        <translation>Отключить АнтиСпам, если не подошло ни одно перечисленное правило
+        <translation type="obsolete">Отключить АнтиСпам, если не подошло ни одно перечисленное правило
 (не работает для приватных сообщений в конференциях)</translation>
     </message>
     <message>
-        <location line="+15"/>
         <source>Rules:</source>
-        <translation>Правила:</translation>
+        <translation type="obsolete">Правила:</translation>
     </message>
     <message>
-        <location line="+590"/>
+        <location filename="../src/plugins/generic/stopspamplugin/stopspamplugin.cpp" line="+1008"/>
         <source>Author: </source>
         <translation>Автор: </translation>
     </message>
@@ -17857,22 +19194,20 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
 ВНИМАНИЕ!!! Перед регистрацией на новом транспорте рекомендуется добавить jid транспорта в исключения. Это связано с тем, что после регистрации транспорт запрашивает авторизацию для всех контактов и если его не добавить в исключения, то плагин заблокирует все запросы.</translation>
     </message>
     <message>
-        <location line="-275"/>
+        <location line="-279"/>
         <source>Block stanza from </source>
         <translation>Заблокировано сообщение от </translation>
     </message>
     <message>
-        <location line="-359"/>
         <source>Log blocked messages to contact&apos;s history</source>
-        <translation>Сохранять заблокированные сообщения в историю контакта</translation>
+        <translation type="obsolete">Сохранять заблокированные сообщения в историю контакта</translation>
     </message>
     <message>
-        <location line="+46"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
+        <translation type="obsolete">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
-        <location line="+316"/>
+        <location line="+4"/>
         <source> pass the test</source>
         <translation> прошёл тест</translation>
     </message>
@@ -17912,7 +19247,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
 <context>
     <name>TabDlg</name>
     <message>
-        <location filename="../src/tabs/tabdlg.cpp" line="+566"/>
+        <location filename="../src/tabs/tabdlg.cpp" line="+573"/>
         <source> is composing</source>
         <translation> печатает</translation>
     </message>
@@ -17922,7 +19257,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
         <translation>%1 Чаты</translation>
     </message>
     <message>
-        <location line="-270"/>
+        <location line="-277"/>
         <source>Close Current Tab</source>
         <translation>Закрыть вкладку</translation>
     </message>
@@ -18464,7 +19799,7 @@ And these work only in groupchat dialog:
 <context>
     <name>ToolBar</name>
     <message>
-        <location filename="../src/plugins/generic/screenshotplugin/toolbar.cpp" line="+64"/>
+        <location filename="../src/plugins/generic/screenshotplugin/toolbar.cpp" line="+71"/>
         <source>Line Width:</source>
         <translation>Ширина линии:</translation>
     </message>
@@ -18474,17 +19809,17 @@ And these work only in groupchat dialog:
         <translation>Ширина линии</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+8"/>
         <source>Pen</source>
         <translation>Ручка</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="-1"/>
         <source>Select Color</source>
         <translation>Выбрать цвет</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+2"/>
         <source>Select</source>
         <translation>Выбор</translation>
     </message>
@@ -18605,6 +19940,7 @@ And these work only in groupchat dialog:
         <translation>Предыдущее</translation>
     </message>
     <message>
+        <location filename="../src/plugins/generic/clientswitcherplugin/typeaheadfind.cpp" line="+88"/>
         <location filename="../src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="+88"/>
         <location filename="../src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+88"/>
         <source>Search: </source>
@@ -18612,6 +19948,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <location line="+21"/>
+        <location filename="../src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="+21"/>
         <location filename="../src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+21"/>
         <location filename="../src/widgets/typeaheadfind.cpp" line="+4"/>
         <source>&amp;Case sensitive</source>
@@ -18619,24 +19956,28 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="+7"/>
         <location filename="../src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+7"/>
         <source>First page</source>
         <translation>Первая страница</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="+7"/>
         <location filename="../src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+7"/>
         <source>Previous page</source>
         <translation>Предыдущая страница</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="+7"/>
         <location filename="../src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+7"/>
         <source>Next page</source>
         <translation>Следующая страница</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="+7"/>
         <location filename="../src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+7"/>
         <source>Last page</source>
         <translation>Последняя страница</translation>
@@ -18645,7 +19986,7 @@ And these work only in groupchat dialog:
 <context>
     <name>URLLabel</name>
     <message>
-        <location filename="../src/widgets/urlobject.cpp" line="+65"/>
+        <location filename="../src/widgets/urlobject.cpp" line="+66"/>
         <source>Add to Roster</source>
         <translation>Добавить в ростер</translation>
     </message>
@@ -18777,39 +20118,80 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
 </context>
 <context>
+    <name>ViewMailDlg</name>
+    <message>
+        <location filename="../src/plugins/generic/gmailserviceplugin/viewmaildlg.ui" line="+20"/>
+        <source>E-Mail</source>
+        <translation>E-Mail</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>From:</source>
+        <translation>От:</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Subject:</source>
+        <translation>Тема:</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Account:</source>
+        <translation>Аккаунт:</translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Open MailBox</source>
+        <translation>Открыть почтовый ящик</translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/gmailserviceplugin/viewmaildlg.cpp" line="+101"/>
+        <source>Open in browser</source>
+        <translation>Открыть в браузере</translation>
+    </message>
+</context>
+<context>
     <name>Viewer</name>
     <message>
+        <location filename="../src/plugins/generic/clientswitcherplugin/viewer.cpp" line="+41"/>
         <location filename="../src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+41"/>
         <source>Find</source>
         <translation>Поиск</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+1"/>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+1"/>
         <source>Save Changes</source>
         <translation>Сохранить изменения</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+1"/>
         <source>Delete Log</source>
         <translation>Удалить лог</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+1"/>
         <source>Update Log</source>
         <translation>Обновить лог</translation>
     </message>
     <message>
         <location line="+28"/>
+        <location filename="../src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+28"/>
         <source>Delete log file</source>
         <translation>Удалить файл лога</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location line="+26"/>
+        <location filename="../src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+1"/>
         <location line="+26"/>
         <source>Are you sure?</source>
         <translation>Вы уверены?</translation>
@@ -18817,17 +20199,21 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <message>
         <location line="-11"/>
         <location line="+10"/>
+        <location filename="../src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="-11"/>
+        <location line="+10"/>
         <source>Save log</source>
         <translation>Сохранить лог</translation>
     </message>
     <message>
         <location line="-9"/>
+        <location filename="../src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="-9"/>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
         <translatorcomment>fixme</translatorcomment>
         <translation>Новые сообщения добавлены в лог. Если Вы сохраните изменения, то потеряете их</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+1"/>
         <source>Do you want to save your changes?</source>
         <translation>Вы хотите сохранить изменения?</translation>
     </message>
@@ -18926,8 +20312,8 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
 <context>
     <name>Watcher</name>
     <message>
-        <location filename="../src/plugins/generic/watcherplugin/watcherplugin.cpp" line="+185"/>
-        <location line="+396"/>
+        <location filename="../src/plugins/generic/watcherplugin/watcherplugin.cpp" line="+204"/>
+        <location line="+373"/>
         <location line="+35"/>
         <source>Empty item</source>
         <translation>Пустой элемент</translation>
@@ -18945,17 +20331,22 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
         <translation>Звуковой файл (*.wav)</translation>
     </message>
     <message>
-        <location line="-154"/>
+        <location line="-127"/>
         <source> change status to </source>
         <translation> меняет статус на </translation>
     </message>
     <message>
-        <location line="+181"/>
+        <location line="+156"/>
+        <source>&lt;br&gt;Status Message: %1</source>
+        <translation>&lt;br&gt;Статусное сообщение: %1</translation>
+    </message>
+    <message>
+        <location line="+2"/>
         <source>Watcher Plugin</source>
         <translation>Слежение</translation>
     </message>
     <message>
-        <location line="+25"/>
+        <location line="+21"/>
         <source>Watch for JID</source>
         <translation>Следить за JID&apos;ом</translation>
     </message>
@@ -18983,7 +20374,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
 <context>
     <name>WbDlg</name>
     <message>
-        <location filename="../src/whiteboarding/wbdlg.cpp" line="+224"/>
+        <location filename="../src/whiteboarding/wbdlg.cpp" line="+233"/>
         <source>%1 left (session: %2).</source>
         <translation>%1 ушёл (сессия: %2).</translation>
     </message>
@@ -18995,19 +20386,19 @@ Do you still want to close the window?</source>
 Закрыть окно?</translation>
     </message>
     <message>
-        <location line="-104"/>
+        <location line="-109"/>
         <source>Add images</source>
         <translation>Добавить изображения</translation>
     </message>
     <message>
-        <location line="+74"/>
+        <location line="+79"/>
         <source>Are you sure you want to end the session?
 The contents of the whiteboard will be lost.</source>
         <translation>Покинуть сеанс?
 Содержимое доски рисования будет утеряно.</translation>
     </message>
     <message>
-        <location line="-158"/>
+        <location line="-165"/>
         <source>Change the geometry</source>
         <translation>Изменить размер</translation>
     </message>
@@ -19017,7 +20408,7 @@ The contents of the whiteboard will be lost.</source>
         <translation>Очистить доску</translation>
     </message>
     <message>
-        <location line="+64"/>
+        <location line="+66"/>
         <source>Draw paths</source>
         <translation>Карандаш</translation>
     </message>
@@ -19027,44 +20418,44 @@ The contents of the whiteboard will be lost.</source>
         <translation>Режим правки</translation>
     </message>
     <message>
-        <location line="-11"/>
+        <location line="-13"/>
         <location line="+1"/>
         <source>End session</source>
         <translation>Закрыть соединение</translation>
     </message>
     <message>
-        <location line="+53"/>
+        <location line="+55"/>
         <source>Erase</source>
         <translation>Стирание</translation>
     </message>
     <message>
-        <location line="-46"/>
+        <location line="-48"/>
         <source>Fill color</source>
         <translation>Цвет заливки</translation>
     </message>
     <message>
-        <location line="+271"/>
+        <location line="+284"/>
         <source>Height:</source>
         <translation>Высота:</translation>
     </message>
     <message>
-        <location line="-247"/>
+        <location line="-258"/>
         <source>Medium stroke</source>
         <translation>Средняя</translation>
     </message>
     <message>
-        <location line="+125"/>
+        <location line="+130"/>
         <location line="+30"/>
         <source>&amp;No</source>
         <translation>&amp;Нет</translation>
     </message>
     <message>
-        <location line="-139"/>
+        <location line="-144"/>
         <source>Rotate</source>
         <translation>Вращение</translation>
     </message>
     <message>
-        <location line="-50"/>
+        <location line="-52"/>
         <source>Save session</source>
         <translation>Сохранить сеанс</translation>
     </message>
@@ -19074,7 +20465,7 @@ The contents of the whiteboard will be lost.</source>
         <translation>Сохранить содержимое доски</translation>
     </message>
     <message>
-        <location line="+289"/>
+        <location line="+302"/>
         <source>Save Whitebaord</source>
         <translation>Сохранить доску для рисования</translation>
     </message>
@@ -19084,7 +20475,7 @@ The contents of the whiteboard will be lost.</source>
         <translation></translation>
     </message>
     <message>
-        <location line="-238"/>
+        <location line="-249"/>
         <source>Scale</source>
         <translation>Масштабирование</translation>
     </message>
@@ -19104,7 +20495,7 @@ The contents of the whiteboard will be lost.</source>
         <translation>Выбор</translation>
     </message>
     <message>
-        <location line="+237"/>
+        <location line="+248"/>
         <source>Set new height:</source>
         <translation>Новая высота:</translation>
     </message>
@@ -19114,12 +20505,12 @@ The contents of the whiteboard will be lost.</source>
         <translation>Новая ширина:</translation>
     </message>
     <message>
-        <location line="-268"/>
+        <location line="-281"/>
         <source>Stroke color</source>
         <translation>Цвет рисования</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+6"/>
         <source>Stroke width</source>
         <translation>Толщина линии</translation>
     </message>
@@ -19139,23 +20530,23 @@ The contents of the whiteboard will be lost.</source>
         <translation>Преобразование</translation>
     </message>
     <message>
-        <location line="+112"/>
+        <location line="+117"/>
         <location line="+30"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
     <message>
-        <location line="-92"/>
+        <location line="-97"/>
         <source>Whiteboard toolbar</source>
         <translation>Панель инструментов рисования</translation>
     </message>
     <message>
-        <location line="+179"/>
+        <location line="+190"/>
         <source>Width:</source>
         <translation>Ширина:</translation>
     </message>
     <message>
-        <location line="-117"/>
+        <location line="-123"/>
         <location line="+30"/>
         <source>&amp;Yes</source>
         <translation>&amp;Да</translation>
@@ -19197,12 +20588,12 @@ The contents of the whiteboard will be lost.</source>
 <context>
     <name>WbManager</name>
     <message>
-        <location filename="../src/whiteboarding/wbmanager.cpp" line="+146"/>
+        <location filename="../src/whiteboarding/wbmanager.cpp" line="+152"/>
         <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
         <translation>%1 приглашает вас порисовать. Вы хотите присоединиться?</translation>
     </message>
     <message>
-        <location line="-72"/>
+        <location line="-73"/>
         <source>Initial SVG Document for the Whiteboard</source>
         <translation>Пустой документ SVG для доски рисования</translation>
     </message>
@@ -19217,12 +20608,12 @@ The contents of the whiteboard will be lost.</source>
         <translation></translation>
     </message>
     <message>
-        <location line="+69"/>
+        <location line="+70"/>
         <source>Whiteboarding Invitation?</source>
         <translation>Приглашение порисовать</translation>
     </message>
     <message>
-        <location line="-77"/>
+        <location line="-78"/>
         <source>Would you like to open an existing SVG document in the whitebaord?</source>
         <translation>Вы хотите открыть существующий документ SVG в доске для рисования?</translation>
     </message>
@@ -19311,7 +20702,7 @@ The contents of the whiteboard will be lost.</source>
 <context>
     <name>XMPP::ClientStream</name>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-core/stream.cpp" line="+767"/>
+        <location filename="../iris/src/xmpp/xmpp-core/stream.cpp" line="+782"/>
         <source>Offered mechanisms: </source>
         <translation>Предлагаемые механизмы: </translation>
     </message>
@@ -19664,49 +21055,78 @@ The contents of the whiteboard will be lost.</source>
     <name>options</name>
     <message>
         <location filename="../src/plugins/generic/chessplugin/options.ui" line="+14"/>
+        <location filename="../src/plugins/generic/gomokugameplugin/options.ui" line="+14"/>
         <location filename="../src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="+14"/>
         <source>Form</source>
         <translation></translation>
     </message>
     <message>
         <location line="+6"/>
+        <location filename="../src/plugins/generic/gomokugameplugin/options.ui" line="+6"/>
         <source>Select Sounds:</source>
         <translation>Выбрать звуки:</translation>
     </message>
     <message>
         <location line="+11"/>
-        <source>Game Started:</source>
+        <location filename="../src/plugins/generic/gomokugameplugin/options.ui" line="+11"/>
+        <source>Game started:</source>
         <translation>Игра начата:</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Game Finished:</source>
+        <location filename="../src/plugins/generic/gomokugameplugin/options.ui" line="+7"/>
+        <source>Game finished:</source>
         <translation>Игра окончена:</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Your Move:</source>
+        <location filename="../src/plugins/generic/gomokugameplugin/options.ui" line="+7"/>
+        <source>Your turn:</source>
         <translation>Ваш ход:</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Error:</source>
+        <location filename="../src/plugins/generic/gomokugameplugin/options.ui" line="+7"/>
+        <source>Error message:</source>
         <translation>Ошибка:</translation>
     </message>
     <message>
-        <location line="+159"/>
+        <location line="+169"/>
+        <location filename="../src/plugins/generic/gomokugameplugin/options.ui" line="+169"/>
+        <source>Disable invitations if status is DND</source>
+        <translation>Отключить приглашения, если статус &quot;Не беспокоить&quot;</translation>
+    </message>
+    <message>
+        <source>Game Started:</source>
+        <translation type="obsolete">Игра начата:</translation>
+    </message>
+    <message>
+        <source>Game Finished:</source>
+        <translation type="obsolete">Игра окончена:</translation>
+    </message>
+    <message>
+        <source>Your Move:</source>
+        <translation type="obsolete">Ваш ход:</translation>
+    </message>
+    <message>
+        <source>Error:</source>
+        <translation type="obsolete">Ошибка:</translation>
+    </message>
+    <message>
+        <location line="-10"/>
+        <location filename="../src/plugins/generic/gomokugameplugin/options.ui" line="-10"/>
         <source>If checked, the sound will always enabled (or disabled)</source>
         <translation>Если установлено, звук всегда включен (или отключён)</translation>
     </message>
     <message>
         <location line="+3"/>
+        <location filename="../src/plugins/generic/gomokugameplugin/options.ui" line="+3"/>
         <source>Override default sound settings</source>
         <translation>Игнорировать глобальные настройки звука</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Disable invitations, if status is DND</source>
-        <translation>Отключить приглашения, если статус &quot;Не беспокоить&quot;</translation>
+        <translation type="obsolete">Отключить приглашения, если статус &quot;Не беспокоить&quot;</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="+8"/>
@@ -19764,6 +21184,26 @@ The contents of the whiteboard will be lost.</source>
         <location line="+24"/>
         <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/gomokugameplugin/options.ui" line="+14"/>
+        <source>Disable invitations from conference</source>
+        <translation>Отключить приглашения из конференции</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Save window height and width</source>
+        <translation>Сохранить высоту и ширину окна</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Save window position</source>
+        <translation>Сохранить позицию окна</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
