@@ -125,7 +125,7 @@ Copyright © 2001-2011 The Psi Team.&lt;br&gt;
     <message>
         <location line="+10"/>
         <source>Founder, Patcher and MS Windows x86 Packager</source>
-        <translation>Основатель, автор патчей, и сопровождающий пакета для MS Windows x86</translation>
+        <translation>Основатель, автор патчей и сопровождающий пакета для MS Windows x86</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -157,7 +157,17 @@ Copyright © 2001-2011 The Psi Team.&lt;br&gt;
         <translation>Сопровождающий пакета для Mandriva Linux</translation>
     </message>
     <message>
-        <location line="-18"/>
+        <location line="-49"/>
+        <source>Past Lead Developer and Maintainer</source>
+        <translation>Бывший ведущий разработчик и сопровождающий</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Past Lead Developer</source>
+        <translation>Бывший ведущий разработчик</translation>
+    </message>
+    <message>
+        <location line="+28"/>
         <location line="+33"/>
         <source>Patcher and Plugins Writer</source>
         <translation>Автор патчей и разработчик плагинов</translation>
@@ -194,7 +204,7 @@ Copyright © 2001-2011 The Psi Team.&lt;br&gt;
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt; и здесь: &lt;a href=&quot;http://psi-ru.googlecode.com/svn/branches/psi-plus/&quot;&gt;svn&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 02.05.2011</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt; и здесь: &lt;a href=&quot;http://psi-ru.googlecode.com/svn/branches/psi-plus/&quot;&gt;svn&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 08.05.2011</translation>
     </message>
     <message>
         <location line="-49"/>
@@ -207,17 +217,15 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>Текущий сопровождающий и автор идеи</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Lead Developer and Past Maintainer</source>
-        <translation>Ведущий разработчик и бывший сопровождающий</translation>
+        <translation type="obsolete">Ведущий разработчик и бывший сопровождающий</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Lead Developer</source>
-        <translation>Ведущий разработчик</translation>
+        <translation type="obsolete">Ведущий разработчик</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+9"/>
         <source>Lead Widget Developer</source>
         <translation>Ведущий разработчик виджетов</translation>
     </message>
@@ -278,7 +286,8 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
     <message>
         <location line="+3"/>
         <source>Psimedia Patcher and English localization</source>
-        <translation>Автор патчей для Psimedia и английского перевода</translation>
+        <translatorcomment>issue 19</translatorcomment>
+        <translation>Автор патчей для Psimedia и английского перевода Wiki</translation>
     </message>
     <message>
         <location line="+46"/>
@@ -1595,7 +1604,8 @@ To work correctly, the plugin requires that the client of the other part support
         <location line="+15"/>
         <location line="+3"/>
         <source>Attention Plugin</source>
-        <translation>Привлечение внимания</translation>
+        <translatorcomment>issue 20</translatorcomment>
+        <translation>Attention Plugin</translation>
     </message>
 </context>
 <context>
@@ -1850,8 +1860,7 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../src/plugins/generic/gomokugameplugin/boardmodel.cpp" line="+293"/>
         <source>The first turn can be only H8.</source>
-        <translatorcomment>wtf</translatorcomment>
-        <translation>В первую очередь, может быть только H8.</translation>
+        <translation>Первым ходом может быть только H8.</translation>
     </message>
 </context>
 <context>
@@ -2048,7 +2057,7 @@ The list of exceptions for jids has two operating modes:
 <context>
     <name>CaptchaFormsPlugin</name>
     <message>
-        <location filename="../src/plugins/generic/captchaformsplugin/captchaformsplugin.cpp" line="+235"/>
+        <location filename="../src/plugins/generic/captchaformsplugin/captchaformsplugin.cpp" line="+236"/>
         <source>Captcha Plugin: CAPTCHA from %1</source>
         <translation>САРТСНА плагин: САРТСНА от %1</translation>
     </message>
@@ -2410,7 +2419,7 @@ Do you still want to close the window?</source>
 <context>
     <name>ChessPlugin</name>
     <message>
-        <location filename="../src/plugins/generic/chessplugin/chessplugin.cpp" line="+266"/>
+        <location filename="../src/plugins/generic/chessplugin/chessplugin.cpp" line="+255"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
@@ -2422,23 +2431,23 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <location line="-21"/>
-        <location line="+148"/>
+        <location line="+151"/>
         <location line="+85"/>
         <location line="+10"/>
         <location line="+14"/>
         <location line="+8"/>
-        <location line="+123"/>
+        <location line="+139"/>
         <source>Chess Plugin</source>
         <translation>Шахматы</translation>
     </message>
     <message>
-        <location line="-353"/>
+        <location line="-372"/>
         <location line="+29"/>
         <source>You are already playing!</source>
         <translation>Вы уже играете!</translation>
     </message>
     <message>
-        <location line="+85"/>
+        <location line="+88"/>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
         <translation>Ваш соперник вышел из игры!
@@ -2470,17 +2479,17 @@ Do you still want to close the window?</source>
         <translation>Неизвестная ошибка!</translation>
     </message>
     <message>
-        <location line="+33"/>
+        <location line="+37"/>
         <source>Chess Plugin: Invitation from %1</source>
         <translation>Шахматы: Приглашение от %1</translation>
     </message>
     <message>
-        <location line="+89"/>
+        <location line="+101"/>
         <source>You are allready playing!</source>
         <translation>Вы уже играете!</translation>
     </message>
     <message>
-        <location line="+72"/>
+        <location line="+55"/>
         <source>Choose a sound file</source>
         <translation>Выбрать звуковой файл</translation>
     </message>
@@ -2689,7 +2698,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location line="+1"/>
         <source>Clear &amp;Birthdays Cache</source>
-        <translation>Очистить кэш &amp;Дней рождения</translation>
+        <translation>Очистить кэш &amp;дней рождения</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2766,7 +2775,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location line="+24"/>
         <source>Birthdays Cache Successfully Cleared</source>
-        <translation>Кэш Дней рождения успешно очищен</translation>
+        <translation>Кэш дней рождения успешно очищен</translation>
     </message>
     <message>
         <location line="-20"/>
@@ -2783,14 +2792,14 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location line="-18"/>
         <source>Clear Birthdays Cach</source>
-        <translation>Очистить кэш Дней рождения</translation>
+        <translation>Очистить кэш дней рождения</translation>
     </message>
     <message>
         <location line="+8"/>
         <location line="+4"/>
         <location line="+5"/>
         <source>Clear Birthdays Cache</source>
-        <translation>Очистить кэш Дней рождения</translation>
+        <translation>Очистить кэш дней рождения</translation>
     </message>
 </context>
 <context>
@@ -4709,31 +4718,26 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location line="-60"/>
         <source>%1 Last Activity</source>
-        <translatorcomment>wtf</translatorcomment>
         <translation>Последняя активность %1</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>%1 Last Activity was %2 ago</source>
-        <translatorcomment>wtf</translatorcomment>
         <translation>Последняя активность %1 была %2 назад</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>%1 went offline %2 ago</source>
-        <translatorcomment>wtf</translatorcomment>
         <translation>%1 отключился %2 назад</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1 uptime is %2</source>
-        <translatorcomment>wtf</translatorcomment>
         <translation>%1 в сети %2</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1 is online!</source>
-        <translatorcomment>wtf</translatorcomment>
         <translation>%1 в сети!</translation>
     </message>
     <message>
@@ -4754,13 +4758,11 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location line="+12"/>
         <source>%1 Time</source>
-        <translatorcomment>wtf</translatorcomment>
         <translation>Время %1</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>%1 time is %2</source>
-        <translatorcomment>wtf</translatorcomment>
         <translation>Время %1 - %2</translation>
     </message>
     <message>
@@ -6913,7 +6915,6 @@ You lost the game.</source>
         <location filename="../src/plugins/generic/gmailserviceplugin/gmailserviceplugin.cpp" line="+305"/>
         <location line="+308"/>
         <source>No-save state for contact %1 is changed</source>
-        <translatorcomment>WTF</translatorcomment>
         <translation>Отключение истории для контакта %1 установлено</translation>
     </message>
     <message>
@@ -6924,7 +6925,6 @@ You lost the game.</source>
     <message>
         <location line="+66"/>
         <source>Shared Status for an account %1 is updated</source>
-        <translatorcomment>WTF</translatorcomment>
         <translation>Общий статус для аккаунта %1 обновлён</translation>
     </message>
     <message>
@@ -8137,7 +8137,7 @@ Are you sure you want to discard them?</source>
         <translation>Отклонить</translation>
     </message>
     <message>
-        <location filename="../src/plugins/generic/chessplugin/invitedialog.cpp" line="+67"/>
+        <location filename="../src/plugins/generic/chessplugin/invitedialog.cpp" line="+79"/>
         <location filename="../src/plugins/generic/gomokugameplugin/invatedialog.cpp" line="+61"/>
         <source>white</source>
         <translation>белые</translation>
@@ -11066,7 +11066,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <source> If set to &quot;true&quot;, the server will
  automatically add people emailed
  often to the user&apos;s roster.</source>
-        <translatorcomment>WTF</translatorcomment>
         <translation> Если установлено, сервер будет автоматически
  добавлять самые частые контакты из электронной почты
   в ростер пользователя.</translation>
@@ -11074,7 +11073,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location line="+5"/>
         <source>Auto-accept suggestions</source>
-        <translatorcomment>WTF</translatorcomment>
         <translation>Автоматически принимать предложения</translation>
     </message>
     <message>
@@ -11082,7 +11080,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <source> Enable multiple applications signed in
  as the same user to report the same
  status message. </source>
-        <translatorcomment>WTF</translatorcomment>
         <translation> Позволяет нескольким приложениям,
  подключенным к одному и тому же аккаунту,
  иметь одинаковый статус. </translation>
@@ -11090,7 +11087,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location line="+5"/>
         <source>Enable Shared Statuses</source>
-        <translatorcomment>WTF</translatorcomment>
         <translation>Разрешить общие статусы</translation>
     </message>
     <message>
@@ -11099,7 +11095,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
  logging of individual conversations and
  sends notifications.
  Enable &quot;Message archiving&quot; option for use!</source>
-        <translatorcomment>WTF</translatorcomment>
         <translation> Google Talk сервер отключает сохранение
  истории на сервере для определённых контактов.
  Для работы опции необходимо включить &quot;Архивирование сообщений&quot;</translation>
@@ -11107,7 +11102,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location line="+6"/>
         <source>Enable Off the Record Chats</source>
-        <translatorcomment>WTF</translatorcomment>
         <translation>Отключить запись чатов</translation>
     </message>
     <message>
@@ -11224,7 +11218,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location line="+7"/>
         <source>Clear Birthdays Cache</source>
-        <translation>Очистить кэш Дней рождения</translation>
+        <translation>Очистить кэш дней рождения</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -11704,7 +11698,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location line="+3"/>
         <source>Set or remove window decorations for roster and chats. For chats there are special header with close, hide and maximize buttons</source>
-        <translatorcomment>WTF</translatorcomment>
         <translation>Установить или удалить декорации окон для ростера и чатов. Для чатов есть специальный заголовок с кнопками закрыть, скрыть и развернуть</translation>
     </message>
     <message>
@@ -13912,7 +13905,6 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location line="+756"/>
         <source>Logged out</source>
-        <translatorcomment>WTF</translatorcomment>
         <translation>Отключён</translation>
     </message>
     <message>
@@ -17728,12 +17720,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <location line="+13"/>
-        <location line="+85"/>
+        <location line="+84"/>
         <source>New Screenshot</source>
         <translation>Новый снимок</translation>
     </message>
     <message>
-        <location line="-72"/>
+        <location line="-71"/>
         <source>toolBar</source>
         <translation></translation>
     </message>
@@ -17748,7 +17740,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Настройки</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+6"/>
         <source>Help</source>
         <translation>Справка</translation>
     </message>
@@ -20343,7 +20335,8 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <message>
         <location line="+2"/>
         <source>Watcher Plugin</source>
-        <translation>Слежение</translation>
+        <translatorcomment>issue 20</translatorcomment>
+        <translation>Watcher Plugin</translation>
     </message>
     <message>
         <location line="+21"/>
