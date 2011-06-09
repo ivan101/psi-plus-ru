@@ -9099,7 +9099,12 @@ Reason: %1</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location line="+33"/>
+        <location line="+20"/>
+        <source>Save</source>
+        <translation>Сохранить</translation>
+    </message>
+    <message>
+        <location line="+20"/>
         <source>Ok</source>
         <translation>Ок</translation>
     </message>
@@ -15190,11 +15195,12 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <location line="+3"/>
+        <location line="+221"/>
         <source>&amp;Block</source>
         <translation>&amp;Блокировка</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="-218"/>
         <source>Disable mood notifications</source>
         <translation>Отключить уведомления о настроениях</translation>
     </message>
@@ -15340,11 +15346,12 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <location line="+4"/>
+        <location line="+453"/>
         <source>Block</source>
         <translation>Заблокировать</translation>
     </message>
     <message>
-        <location line="+33"/>
+        <location line="-420"/>
         <source>Authorization</source>
         <translation>Подписка</translation>
     </message>
@@ -15354,64 +15361,80 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>&amp;Аватар</translation>
     </message>
     <message>
+        <location line="+59"/>
         <source>&amp;Unblock</source>
-        <translation type="obsolete">&amp;Разблокировать</translation>
+        <translation>&amp;Разблокировать</translation>
     </message>
     <message>
+        <location line="+121"/>
         <source>Invitation</source>
-        <translation type="obsolete">Приглашение</translation>
+        <translation>Приглашение</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="obsolete">Послано приглашение в конференцию &lt;b&gt;%1&lt;/b&gt; .</translation>
+        <translation>Послано приглашение в конференцию &lt;b&gt;%1&lt;/b&gt; .</translation>
     </message>
     <message>
+        <location line="+24"/>
         <source>Add</source>
-        <translation type="obsolete">Добавить</translation>
+        <translation>Добавить</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation type="obsolete">&lt;b&gt;%1&lt;/b&gt; добавлен в список контактов/авторизован.</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt; добавлен в список контактов/авторизован.</translation>
     </message>
     <message>
+        <location line="+66"/>
+        <location line="+9"/>
         <source>Authorize</source>
-        <translation type="obsolete">Подписка</translation>
+        <translation>Подписка</translation>
     </message>
     <message>
+        <location line="-8"/>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="obsolete">Подписка к &lt;b&gt;%1&lt;/b&gt; отправлена.</translation>
+        <translation>Подписка к &lt;b&gt;%1&lt;/b&gt; отправлена.</translation>
     </message>
     <message>
+        <location line="+9"/>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="obsolete">Запрошена подписка у &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation>Запрошена подписка у &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
+        <location line="+8"/>
         <source>Remove</source>
-        <translation type="obsolete">Удаление</translation>
+        <translation>Удаление</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="obsolete">Удалить подписку у &lt;b&gt;%1&lt;/b&gt;?</translation>
+        <translation>Удалить подписку у &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>&amp;Yes</source>
-        <translation type="obsolete">&amp;Да</translation>
+        <translation>&amp;Да</translation>
     </message>
     <message>
+        <location line="+0"/>
         <source>&amp;No</source>
-        <translation type="obsolete">&amp;Нет</translation>
+        <translation>&amp;Нет</translation>
     </message>
     <message>
+        <location line="+28"/>
         <source>Choose an Image</source>
-        <translation type="obsolete">Выберите изображение</translation>
+        <translation>Выберите изображение</translation>
     </message>
     <message>
+        <location line="+0"/>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="obsolete">Все файлы (*.png *.jpg *.gif)</translation>
+        <translation>Все файлы (*.png *.jpg *.gif)</translation>
     </message>
     <message>
+        <location line="+93"/>
         <source>Unblock</source>
-        <translation type="obsolete">Разблокировать</translation>
+        <translation>Разблокировать</translation>
     </message>
 </context>
 <context>
