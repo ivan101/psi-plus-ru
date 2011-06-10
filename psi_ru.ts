@@ -204,7 +204,7 @@ Copyright © 2001-2011 The Psi Team.&lt;br&gt;
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt; и здесь: &lt;a href=&quot;http://psi-ru.googlecode.com/svn/branches/psi-plus/&quot;&gt;svn&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 09.06.2011</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt; и здесь: &lt;a href=&quot;http://psi-ru.googlecode.com/svn/branches/psi-plus/&quot;&gt;svn&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 10.06.2011</translation>
     </message>
     <message>
         <location line="-49"/>
@@ -2266,7 +2266,7 @@ Reason: %1</source>
 <context>
     <name>ChatDlg</name>
     <message>
-        <location filename="../src/chatdlg.cpp" line="+686"/>
+        <location filename="../src/chatdlg.cpp" line="+696"/>
         <source>%1 (Composing ...)</source>
         <translation>%1 (печатает...)</translation>
     </message>
@@ -2281,22 +2281,27 @@ Reason: %1</source>
         <translation>%1 закончил разговор</translation>
     </message>
     <message>
-        <location line="-539"/>
+        <location line="-540"/>
         <source>%1 is %2</source>
         <translation>%1 - %2</translation>
     </message>
     <message>
-        <location line="+217"/>
+        <location line="-105"/>
+        <source>Contact has been switched: %1</source>
+        <translation>Переключение: %1</translation>
+    </message>
+    <message>
+        <location line="+323"/>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation>&lt;p&gt;Шифрование было отключено другой стороной. Отправить это сообщение без шифрования?&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/chatdlg.ui" line="+131"/>
+        <location filename="../src/chatdlg.ui" line="+146"/>
         <source>0</source>
         <translation>0</translation>
     </message>
     <message>
-        <location filename="../src/chatdlg.cpp" line="-462"/>
+        <location filename="../src/chatdlg.cpp" line="-464"/>
         <source>A new chat message was just received.
 Do you still want to close the window?</source>
         <translation>Получено новое сообщение.
@@ -2333,7 +2338,7 @@ Do you still want to close the window?</source>
         <translation>Закрыть</translation>
     </message>
     <message>
-        <location line="+627"/>
+        <location line="+629"/>
         <source>Encryption Disabled</source>
         <translation>Шифрование выключено</translation>
     </message>
@@ -2343,12 +2348,12 @@ Do you still want to close the window?</source>
         <translation>Шифрование включено</translation>
     </message>
     <message>
-        <location filename="../src/chatdlg.ui" line="-348"/>
+        <location filename="../src/chatdlg.ui" line="-363"/>
         <source>Form</source>
         <translation></translation>
     </message>
     <message>
-        <location line="+109"/>
+        <location line="+124"/>
         <source>Message length</source>
         <translation>Длина сообщения</translation>
     </message>
@@ -2368,8 +2373,8 @@ Do you still want to close the window?</source>
         <translation>Шифрование</translation>
     </message>
     <message>
-        <location filename="../src/chatdlg.cpp" line="-466"/>
-        <location line="+463"/>
+        <location filename="../src/chatdlg.cpp" line="-468"/>
+        <location line="+465"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
@@ -6260,7 +6265,7 @@ Reason: %1</source>
 <context>
     <name>GCUserView</name>
     <message>
-        <location filename="../src/gcuserview.cpp" line="+529"/>
+        <location filename="../src/gcuserview.cpp" line="+519"/>
         <source>&amp;Ban</source>
         <translation>&amp;Бан (ban)</translation>
     </message>
@@ -13867,7 +13872,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
 <context>
     <name>PsiAccount</name>
     <message>
-        <location filename="../src/psiaccount.cpp" line="+6000"/>
+        <location filename="../src/psiaccount.cpp" line="+6029"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]</translation>
     </message>
@@ -13879,7 +13884,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
 Это могло произойти, если у вас нет ключа, который контакт указывает в своём &quot;подписанном присутствии&quot;, или он вообще не указывает ключа.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location line="-4306"/>
+        <location line="-4335"/>
         <source>A required remote connection failed</source>
         <translation>Необходимое удалённое соединение закрыто вследствие ошибки</translation>
     </message>
@@ -13904,12 +13909,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Нарушен слой защиты (TLS)</translation>
     </message>
     <message>
-        <location line="+4292"/>
+        <location line="+4321"/>
         <source>&amp;Choose key manually</source>
         <translation>&amp;Выбрать ключ вручную</translation>
     </message>
     <message>
-        <location line="-4364"/>
+        <location line="-4393"/>
         <source>Conflict (remote login replacing this one)</source>
         <translation>Конфликт (удалённое подключение заменило это подключение)</translation>
     </message>
@@ -13929,28 +13934,28 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Отключён</translation>
     </message>
     <message>
-        <location line="+4392"/>
+        <location line="+4421"/>
         <source>Do &amp;nothing</source>
         <translation>О&amp;тмена</translation>
     </message>
     <message>
-        <location line="-3550"/>
+        <location line="-3572"/>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
         <translation>Вы подтверждаете приём %1 (%2 кб) от %3?</translation>
     </message>
     <message>
-        <location line="-723"/>
+        <location line="-730"/>
         <source>Encryption required for chosen SASL mechanism</source>
         <translation>Шифрование необходимо для выбранного механизма SASL</translation>
     </message>
     <message>
         <location line="-713"/>
-        <location line="+1885"/>
+        <location line="+1916"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location line="-1231"/>
+        <location line="-1262"/>
         <source>Error connecting to proxy</source>
         <translation>Ошибка соединения с прокси-сервером</translation>
     </message>
@@ -13980,12 +13985,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Узел не найден</translation>
     </message>
     <message>
-        <location line="+763"/>
+        <location line="+770"/>
         <source>Incoming file</source>
         <translation>Входящий файл</translation>
     </message>
     <message>
-        <location line="-807"/>
+        <location line="-814"/>
         <source>Internal server error</source>
         <translation>Внутренняя ошибка сервера</translation>
     </message>
@@ -14030,12 +14035,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Временный сбой авторизации или неверный пароль</translation>
     </message>
     <message>
-        <location line="+756"/>
+        <location line="+763"/>
         <source>Logged out</source>
         <translation>Отключён</translation>
     </message>
     <message>
-        <location line="+1079"/>
+        <location line="+1105"/>
         <source>Name:	</source>
         <translation>Название:	</translation>
     </message>
@@ -14050,12 +14055,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>ОС:	</translation>
     </message>
     <message>
-        <location line="+2415"/>
+        <location line="+2411"/>
         <source>No key</source>
         <translation>Нет ключа</translation>
     </message>
     <message>
-        <location line="-4241"/>
+        <location line="-4270"/>
         <source>None</source>
         <translation>Нет</translation>
     </message>
@@ -14070,17 +14075,17 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Не прошла аутентификация с прокси-сервером</translation>
     </message>
     <message>
-        <location line="+1910"/>
+        <location line="+1943"/>
         <source>Version Query Information</source>
         <translation>Информация запроса версии</translation>
     </message>
     <message>
-        <location line="+2425"/>
+        <location line="+2421"/>
         <source>Public Key: %1</source>
         <translation>Публичный ключ: %1</translation>
     </message>
     <message>
-        <location line="-4270"/>
+        <location line="-4299"/>
         <source>SASL mechanism too weak for this account</source>
         <translation>Механизм SASL слишком слаб для этого аккаунта</translation>
     </message>
@@ -14155,14 +14160,14 @@ Details: %1</source>
 Подробности: %1</translation>
     </message>
     <message>
-        <location line="+3725"/>
+        <location line="+3754"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
         <translation>Произошла ошибка установки вашего состояния.
 Причина: %1.</translation>
     </message>
     <message>
-        <location line="-3924"/>
+        <location line="-3953"/>
         <source>Timed out from inactivity</source>
         <translation>Таймаут из-за неактивности</translation>
     </message>
@@ -14202,12 +14207,12 @@ Reason: %1.</source>
         <translation>Ошибка потока XMPP: %1</translation>
     </message>
     <message>
-        <location line="+1243"/>
+        <location line="+1274"/>
         <source>You must be connected to the server in order to do this.</source>
         <translation>Для выполнения операции необходимо сначала подключиться к серверу.</translation>
     </message>
     <message>
-        <location line="-1623"/>
+        <location line="-1654"/>
         <source>Encryption Error</source>
         <translation>Ошибка шифрования</translation>
     </message>
@@ -14753,7 +14758,7 @@ Reason: %1.</source>
 <context>
     <name>PsiChatDlg</name>
     <message>
-        <location filename="../src/psichatdlg.cpp" line="+252"/>
+        <location filename="../src/psichatdlg.cpp" line="+261"/>
         <source>Input command...</source>
         <translation>Введите команду...</translation>
     </message>
@@ -14838,7 +14843,15 @@ Reason: %1.</source>
         <translation>Панель инструментов чата</translation>
     </message>
     <message>
-        <location line="+195"/>
+        <location line="+148"/>
+        <location line="+11"/>
+        <location line="+40"/>
+        <location line="+10"/>
+        <source>offline</source>
+        <translation>отключён</translation>
+    </message>
+    <message>
+        <location line="+97"/>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
         <translation>Очистить окно чата?
@@ -14850,12 +14863,12 @@ Reason: %1.</source>
         <translation>Команда&gt;</translation>
     </message>
     <message>
-        <location line="-333"/>
+        <location line="-444"/>
         <source>Voice Call</source>
         <translation>Позвонить</translation>
     </message>
     <message>
-        <location line="+223"/>
+        <location line="+334"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
@@ -15164,12 +15177,12 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <location line="+3"/>
-        <location line="+100"/>
+        <location line="+101"/>
         <source>&amp;History</source>
         <translation>&amp;История</translation>
     </message>
     <message>
-        <location line="-97"/>
+        <location line="-98"/>
         <source>Pro&amp;file</source>
         <translation>Про&amp;филь</translation>
     </message>
@@ -15195,17 +15208,17 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <location line="+3"/>
-        <location line="+221"/>
+        <location line="+220"/>
         <source>&amp;Block</source>
         <translation>&amp;Блокировка</translation>
     </message>
     <message>
-        <location line="-218"/>
+        <location line="-217"/>
         <source>Disable mood notifications</source>
         <translation>Отключить уведомления о настроениях</translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location line="+19"/>
         <source>Add/Authorize to Contact List</source>
         <translation>Добавить в ростер и авторизовать</translation>
     </message>
@@ -15346,12 +15359,12 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <location line="+4"/>
-        <location line="+453"/>
+        <location line="+451"/>
         <source>Block</source>
         <translation>Заблокировать</translation>
     </message>
     <message>
-        <location line="-420"/>
+        <location line="-418"/>
         <source>Authorization</source>
         <translation>Подписка</translation>
     </message>
@@ -15361,7 +15374,7 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>&amp;Аватар</translation>
     </message>
     <message>
-        <location line="+59"/>
+        <location line="+57"/>
         <source>&amp;Unblock</source>
         <translation>&amp;Разблокировать</translation>
     </message>
