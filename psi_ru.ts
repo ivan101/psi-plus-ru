@@ -4951,7 +4951,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location line="-248"/>
         <source>Show joins</source>
-        <translation>Показывать входы</translation>
+        <translation>Показывать сообщения о входах/выходах</translation>
     </message>
     <message>
         <location line="-39"/>
