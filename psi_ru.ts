@@ -204,7 +204,7 @@ Copyright © 2001-2011 The Psi Team.&lt;br&gt;
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt; и здесь: &lt;a href=&quot;http://psi-ru.googlecode.com/svn/branches/psi-plus/&quot;&gt;svn&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 10.06.2011</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt; и здесь: &lt;a href=&quot;http://psi-ru.googlecode.com/svn/branches/psi-plus/&quot;&gt;svn&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 18.06.2011</translation>
     </message>
     <message>
         <location line="-49"/>
@@ -5212,7 +5212,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location line="+4"/>
         <source>MUC roster coloring:</source>
-        <translation>Окраска участников конференции:</translation>
+        <translation>Цвет ников в ростере конференции:</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -6334,22 +6334,22 @@ Reason: %1</source>
     <message>
         <location line="+1"/>
         <source>Unaffiliated</source>
-        <translation>посетитель</translation>
+        <translation>Посетитель</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Member</source>
-        <translation>зарегистрированный пользователь</translation>
+        <translation>Зарегистрированный пользователь</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Administrator</source>
-        <translation>администратор</translation>
+        <translation>Администратор</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Owner</source>
-        <translation>владелец</translation>
+        <translation>Владелец</translation>
     </message>
     <message>
         <source>Change affiliation</source>
