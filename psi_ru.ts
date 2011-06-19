@@ -204,7 +204,7 @@ Copyright © 2001-2011 The Psi Team.&lt;br&gt;
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt; и здесь: &lt;a href=&quot;http://psi-ru.googlecode.com/svn/branches/psi-plus/&quot;&gt;svn&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 18.06.2011</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt; и здесь: &lt;a href=&quot;http://psi-ru.googlecode.com/svn/branches/psi-plus/&quot;&gt;svn&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 19.06.2011</translation>
     </message>
     <message>
         <location line="-49"/>
@@ -2296,7 +2296,7 @@ Reason: %1</source>
         <translation>&lt;p&gt;Шифрование было отключено другой стороной. Отправить это сообщение без шифрования?&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/chatdlg.ui" line="+146"/>
+        <location filename="../src/chatdlg.ui" line="+143"/>
         <source>0</source>
         <translation>0</translation>
     </message>
@@ -2348,12 +2348,12 @@ Do you still want to close the window?</source>
         <translation>Шифрование включено</translation>
     </message>
     <message>
-        <location filename="../src/chatdlg.ui" line="-363"/>
+        <location filename="../src/chatdlg.ui" line="-360"/>
         <source>Form</source>
         <translation></translation>
     </message>
     <message>
-        <location line="+124"/>
+        <location line="+121"/>
         <source>Message length</source>
         <translation>Длина сообщения</translation>
     </message>
@@ -3206,7 +3206,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>ContactListModel</name>
     <message>
-        <location filename="../src/contactlistmodel.cpp" line="+640"/>
+        <location filename="../src/contactlistmodel.cpp" line="+637"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -4971,7 +4971,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location line="+1"/>
         <source>Place MUC roster at left</source>
-        <translation>Разместить ростер конференции слева</translation>
+        <translation>Разместить список участников конференции слева</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4986,7 +4986,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location line="+1"/>
         <source>Show client icons in MUC roster</source>
-        <translation>Показывать иконки клиентов в ростере конференции</translation>
+        <translation>Показывать иконки клиентов в списке участников конференции</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -5212,7 +5212,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location line="+4"/>
         <source>MUC roster coloring:</source>
-        <translation>Цвет ников в ростере конференции:</translation>
+        <translation>Цвет ников в списке участников конференции:</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -5323,7 +5323,7 @@ Importantly: a large part of the options are important system settings. These re
 <context>
     <name>FileRequestDlg</name>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="+620"/>
+        <location filename="../src/filetransdlg.cpp" line="+621"/>
         <location line="+58"/>
         <location line="+118"/>
         <source>%1 byte(s)</source>
@@ -5857,7 +5857,7 @@ Reason: %3</source>
 <context>
     <name>GCFindDlg</name>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="+2217"/>
+        <location filename="../src/groupchatdlg.cpp" line="+2244"/>
         <source>&amp;Close</source>
         <translation>&amp;Закрыть</translation>
     </message>
@@ -5886,22 +5886,22 @@ Reason: %3</source>
 <context>
     <name>GCMainDlg</name>
     <message>
-        <location line="-1234"/>
+        <location line="-1254"/>
         <source> by %1</source>
         <translation> %1</translation>
     </message>
     <message>
-        <location line="-319"/>
+        <location line="-324"/>
         <source>Clear Chat Window</source>
         <translation>Очистить окно чата</translation>
     </message>
     <message>
-        <location line="-3"/>
+        <location line="-4"/>
         <source>Find toolbar</source>
         <translation>Панель поиска</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+13"/>
         <source>Set Text Format</source>
         <translation>Форматирование текста</translation>
     </message>
@@ -5939,7 +5939,7 @@ Reason: %3</source>
         <translation>Шаблоны</translation>
     </message>
     <message>
-        <location line="+285"/>
+        <location line="+290"/>
         <source>
 Reason: %1</source>
         <translation>
@@ -5966,7 +5966,7 @@ Reason: %1</source>
         <translation> и теперь %1</translation>
     </message>
     <message>
-        <location line="+62"/>
+        <location line="+64"/>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
         <translation>Вы хотите зайти в другое место &apos;%1&apos; ?</translation>
     </message>
@@ -6011,7 +6011,7 @@ Reason: %1</source>
         <translation>%2 выгнан из %1 , т.к. конференция только для зарегистрированных пользователей</translation>
     </message>
     <message>
-        <location line="+511"/>
+        <location line="+529"/>
         <source>Save</source>
         <translation>Сохранить</translation>
     </message>
@@ -6046,7 +6046,7 @@ Reason: %1</source>
         <translation>Закладка конференции</translation>
     </message>
     <message>
-        <location line="-542"/>
+        <location line="-560"/>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
         <translation>%1 выгнан из %2 в связи с изменением ранга</translation>
     </message>
@@ -6056,17 +6056,17 @@ Reason: %1</source>
         <translation>%1 выгнали из конференции в связи с изменением ранга</translation>
     </message>
     <message>
-        <location line="-127"/>
+        <location line="-129"/>
         <source>%1 has joined the room</source>
         <translation>%1 заходит как</translation>
     </message>
     <message>
-        <location line="+146"/>
+        <location line="+148"/>
         <source>%1 has left the room</source>
         <translation>%1 выходит из конференции</translation>
     </message>
     <message>
-        <location line="-106"/>
+        <location line="-108"/>
         <location line="+4"/>
         <location line="+11"/>
         <source>%1 is now %2</source>
@@ -6078,12 +6078,12 @@ Reason: %1</source>
         <translation>%1 теперь %2 и %3</translation>
     </message>
     <message>
-        <location line="+105"/>
+        <location line="+107"/>
         <source>%1 is now known as %2</source>
         <translation>%1 меняет ник на %2</translation>
     </message>
     <message>
-        <location line="-135"/>
+        <location line="-137"/>
         <location line="+4"/>
         <source>%2 has joined the room as %1</source>
         <translation>%2 заходит как %1</translation>
@@ -6101,12 +6101,12 @@ Reason: %1</source>
 Примечание: это никак не отразится на истории сообщений</translation>
     </message>
     <message>
-        <location line="+339"/>
+        <location line="+341"/>
         <source>Banned</source>
         <translation>Блокирован</translation>
     </message>
     <message>
-        <location line="-854"/>
+        <location line="-861"/>
         <source>Configure Room</source>
         <translation>Настроить комнату</translation>
     </message>
@@ -6116,7 +6116,7 @@ Reason: %1</source>
         <translation>&amp;Настроить комнату</translation>
     </message>
     <message>
-        <location line="+945"/>
+        <location line="+968"/>
         <source>The topic has been set to</source>
         <translation>Установлена тема</translation>
     </message>
@@ -6136,7 +6136,7 @@ Reason: %1</source>
         <translation>Соединение установлено.</translation>
     </message>
     <message>
-        <location line="-437"/>
+        <location line="-455"/>
         <source>Disconnected.</source>
         <translation>Произошло отключение.</translation>
     </message>
@@ -6146,7 +6146,7 @@ Reason: %1</source>
         <translation>Ошибка: вы уже участвуете или входите в эту конференцию!</translation>
     </message>
     <message>
-        <location line="-610"/>
+        <location line="-615"/>
         <source>Find</source>
         <translation>Поиск</translation>
     </message>
@@ -6156,12 +6156,12 @@ Reason: %1</source>
         <translation>&amp;Найти</translation>
     </message>
     <message>
-        <location line="+865"/>
+        <location line="+872"/>
         <source>Kicked</source>
         <translation>Выкинут</translation>
     </message>
     <message>
-        <location line="-128"/>
+        <location line="-130"/>
         <source>New room created</source>
         <translation>Новая комната создана</translation>
     </message>
@@ -6171,17 +6171,17 @@ Reason: %1</source>
         <translation>Укажите другой ник</translation>
     </message>
     <message>
-        <location line="+124"/>
+        <location line="+126"/>
         <source>Reason: %1</source>
         <translation>Причина: %1</translation>
     </message>
     <message>
-        <location line="-222"/>
+        <location line="-224"/>
         <source>Reconnecting...</source>
         <translation>Восстановление соединения...</translation>
     </message>
     <message>
-        <location line="+270"/>
+        <location line="+272"/>
         <location line="+8"/>
         <source>Removed</source>
         <translation>Удалён</translation>
@@ -6198,7 +6198,7 @@ Reason: %1</source>
         <translation>Комнаты больше не существует.</translation>
     </message>
     <message>
-        <location line="-154"/>
+        <location line="-156"/>
         <source>Unexpected groupchat error: %1</source>
         <translation>Неожиданная ошибка конференции: %1</translation>
     </message>
@@ -6208,7 +6208,7 @@ Reason: %1</source>
         <translation>Предупреждение</translation>
     </message>
     <message>
-        <location line="+340"/>
+        <location line="+342"/>
         <source>You have been banned from the room</source>
         <translation>Вам запретили входить в данную конференцию</translation>
     </message>
@@ -6228,7 +6228,7 @@ Reason: %1</source>
         <translation>Вы удалены из конференции в связи с изменением ранга</translation>
     </message>
     <message>
-        <location line="-209"/>
+        <location line="-211"/>
         <source>Unable to join groupchat.	Reason: %1</source>
         <translation>Невозможно войти в конференцию. Причина: %1</translation>
     </message>
@@ -6238,7 +6238,7 @@ Reason: %1</source>
         <translation>Произошла ошибка (код ошибки: %1)</translation>
     </message>
     <message>
-        <location line="+153"/>
+        <location line="+155"/>
         <source>You have been banned from the room by %1</source>
         <translation>Вам запретили входить в данную конференцию по причине: %1</translation>
     </message>
@@ -6251,7 +6251,7 @@ Reason: %1</source>
 <context>
     <name>GCMainDlg::Private</name>
     <message>
-        <location line="-1222"/>
+        <location line="-1230"/>
         <location line="+56"/>
         <source>new nick</source>
         <translation>Новый ник</translation>
@@ -6265,7 +6265,7 @@ Reason: %1</source>
 <context>
     <name>GCUserView</name>
     <message>
-        <location filename="../src/gcuserview.cpp" line="+519"/>
+        <location filename="../src/gcuserview.cpp" line="+630"/>
         <source>&amp;Ban</source>
         <translation>&amp;Бан (ban)</translation>
     </message>
@@ -6708,177 +6708,177 @@ You lost the game.</source>
         <translation>Установить геолокацию</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+8"/>
         <source>Altitude:</source>
         <translation>Высота:</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+7"/>
         <source>Altitude in meters above or below sea level</source>
         <translation>Высота (в метрах) над уровнем моря</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+7"/>
         <source>Area:</source>
         <translation>Район/Местность:</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+7"/>
         <source>A named area such as a campus or neighborhood</source>
         <translation>Название района или местности</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+7"/>
         <source>Bearing:</source>
         <translation>Амплитуда:</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+7"/>
         <source>GPS bearing (direction in which the entity is heading to reach its next waypoint), measured in decimal degrees relative to true north</source>
         <translation>Амплитуда движения (направление движения объекта, измеряется в десятичных долях градуса относительно северного магнитного полюса)</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+7"/>
         <source>Building:</source>
         <translation>Здание:</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+7"/>
         <source>A specific building on a street or in an area</source>
         <translation>Номер дома на улице или конкретное здание на местности</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+7"/>
         <source>Country:</source>
         <translation>Страна:</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+7"/>
         <source>The nation where the user is located</source>
         <translation>Страна, в которой Вы находитесь</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+7"/>
         <source>Datum:</source>
         <translation>Точка отсчёта:</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+7"/>
         <source>GPS datum</source>
         <translation>Точка отсчёта координат для GPS</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+7"/>
         <source>Description:</source>
         <translation>Описание:</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+7"/>
         <source>A natural-language name for or description of the location</source>
         <translation>Название страны на «родном» языке или описание геолокации</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+7"/>
         <source>Error:</source>
         <translation>Погрешность:</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+7"/>
         <source>Horizontal GPS error in arc minutes; this element is deprecated in favor of &lt;accuracy/&gt;</source>
         <translation>Погрешность GPS-приёмника в минутах (элемент устарел)</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+7"/>
         <source>Floor:</source>
         <translation>Этаж:</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+7"/>
         <source>A particular floor in a building</source>
         <translation>Номер этажа в здании</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+7"/>
         <source>Latitude:</source>
         <translation>Широта:</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+7"/>
         <source>Latitude in decimal degrees North</source>
         <translation>Северная широта (с десятичными долями градуса)</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+7"/>
         <source>Locality:</source>
         <translation>Населённый пункт:</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+7"/>
         <source>A locality within the administrative region, such as a town or city</source>
         <translation>Местность в пределах административного района (таких, как город или деревня)</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+7"/>
         <source>Longitude:</source>
         <translation>Долгота:</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+7"/>
         <source>Longitude in decimal degrees East</source>
         <translation>Восточная долгота (с десятичными долями градуса)</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+7"/>
         <source>Postalcode:</source>
         <translation>Почтовый индекс:</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+7"/>
         <source>A code used for postal delivery</source>
         <translation>Индекс, используемый при почтовой доставке</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+7"/>
         <source>Region:</source>
         <translation>Область/Край:</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+7"/>
         <source>An administrative region of the nation, such as a state or province</source>
         <translation>Административный район страны, например край или область</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+7"/>
         <source>Room:</source>
         <translation>Квартира/Кабинет:</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+7"/>
         <source>A particular room in a building</source>
         <translation>Номер кабинета/Номер квартиры</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+7"/>
         <source>Street:</source>
         <translation>Улица:</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+7"/>
         <source>A thoroughfare within the locality, or a crossing of two thoroughfares</source>
         <translation>Улица</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+7"/>
         <source>Text:</source>
         <translation>Пояснение:</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+7"/>
         <source>A catch-all element that captures any other information about the location</source>
         <translation>Напишите сюда любую дополнительную информацию о Вашей геолокации</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+24"/>
         <source>Reset</source>
         <translation>Сбросить</translation>
     </message>
@@ -9122,7 +9122,7 @@ Reason: %1</source>
 <context>
     <name>MainWin</name>
     <message>
-        <location filename="../src/mainwin.cpp" line="+1732"/>
+        <location filename="../src/mainwin.cpp" line="+1734"/>
         <source>%1 events received</source>
         <translation>Новых сообщений: %1</translation>
     </message>
@@ -9132,7 +9132,7 @@ Reason: %1</source>
         <translation>1 новое сообщение</translation>
     </message>
     <message>
-        <location line="-324"/>
+        <location line="-326"/>
         <source>Connecting</source>
         <translation>Соединение</translation>
     </message>
@@ -12818,22 +12818,22 @@ Reason: %1.</source>
 <context>
     <name>PassDialog</name>
     <message>
-        <location filename="../src/passdialog.cpp" line="+41"/>
+        <location filename="../src/passdialog.cpp" line="+35"/>
         <source>Wrong Account Password</source>
         <translation>Неверный пароль аккаунта</translation>
     </message>
     <message>
-        <location line="+14"/>
+        <location line="+21"/>
         <source>Please enter your password for %1:</source>
         <translation>Пожалуйста, введите пароль для %1:</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="-11"/>
         <source>Save Password</source>
         <translation>Сохранить пароль</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+4"/>
         <source>OK</source>
         <translation>ОК</translation>
     </message>
@@ -13872,7 +13872,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
 <context>
     <name>PsiAccount</name>
     <message>
-        <location filename="../src/psiaccount.cpp" line="+6029"/>
+        <location filename="../src/psiaccount.cpp" line="+6015"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]</translation>
     </message>
@@ -13884,37 +13884,37 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
 Это могло произойти, если у вас нет ключа, который контакт указывает в своём &quot;подписанном присутствии&quot;, или он вообще не указывает ключа.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location line="-4335"/>
+        <location line="-4321"/>
         <source>A required remote connection failed</source>
         <translation>Необходимое удалённое соединение закрыто вследствие ошибки</translation>
     </message>
     <message>
-        <location line="+59"/>
+        <location line="+56"/>
         <source>Authentication error: %1</source>
         <translation>Ошибка аутентификации: %1</translation>
     </message>
     <message>
-        <location line="-25"/>
+        <location line="-23"/>
         <source>Bad server response</source>
         <translation>Неправильный ответ сервера</translation>
     </message>
     <message>
-        <location line="+28"/>
+        <location line="+26"/>
         <source>Broken security layer (SASL)</source>
         <translation>Нарушен слой защиты (SASL)</translation>
     </message>
     <message>
-        <location line="-43"/>
+        <location line="-40"/>
         <source>Broken security layer (TLS)</source>
         <translation>Нарушен слой защиты (TLS)</translation>
     </message>
     <message>
-        <location line="+4321"/>
+        <location line="+4307"/>
         <source>&amp;Choose key manually</source>
         <translation>&amp;Выбрать ключ вручную</translation>
     </message>
     <message>
-        <location line="-4393"/>
+        <location line="-4379"/>
         <source>Conflict (remote login replacing this one)</source>
         <translation>Конфликт (удалённое подключение заменило это подключение)</translation>
     </message>
@@ -13934,28 +13934,28 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Отключён</translation>
     </message>
     <message>
-        <location line="+4421"/>
+        <location line="+4407"/>
         <source>Do &amp;nothing</source>
         <translation>О&amp;тмена</translation>
     </message>
     <message>
-        <location line="-3572"/>
+        <location line="-3561"/>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
         <translation>Вы подтверждаете приём %1 (%2 кб) от %3?</translation>
     </message>
     <message>
-        <location line="-730"/>
+        <location line="-728"/>
         <source>Encryption required for chosen SASL mechanism</source>
         <translation>Шифрование необходимо для выбранного механизма SASL</translation>
     </message>
     <message>
-        <location line="-713"/>
-        <location line="+1916"/>
+        <location line="-712"/>
+        <location line="+1901"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location line="-1262"/>
+        <location line="-1247"/>
         <source>Error connecting to proxy</source>
         <translation>Ошибка соединения с прокси-сервером</translation>
     </message>
@@ -13985,22 +13985,22 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Узел не найден</translation>
     </message>
     <message>
-        <location line="+770"/>
+        <location line="+767"/>
         <source>Incoming file</source>
         <translation>Входящий файл</translation>
     </message>
     <message>
-        <location line="-814"/>
+        <location line="-811"/>
         <source>Internal server error</source>
         <translation>Внутренняя ошибка сервера</translation>
     </message>
     <message>
-        <location line="+86"/>
+        <location line="+85"/>
         <source>Invalid account information</source>
         <translation>Неправильная информация аккаунта</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+5"/>
         <source>Invalid realm</source>
         <translation>Неправильный realm</translation>
     </message>
@@ -14010,7 +14010,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Неправильный механизм SASL</translation>
     </message>
     <message>
-        <location line="-480"/>
+        <location line="-478"/>
         <source>Reconnecting</source>
         <translation>Восстановление соединения</translation>
     </message>
@@ -14020,27 +14020,26 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Неправильный XML</translation>
     </message>
     <message>
-        <location line="+75"/>
+        <location line="+74"/>
         <source>No appropriate mechanism available for given security settings (e.g. SASL library too weak, or plaintext authentication not enabled)</source>
         <translation>Не доступен подходящий механизм для текущих настроек безопасности (проблема в библиотеке SASL или не включена аутентификация открытым текстом)</translation>
     </message>
     <message>
-        <location line="+19"/>
+        <location line="+18"/>
         <source>Wrong Password</source>
         <translation>Неверный пароль</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Temporary auth failure or wrong password</source>
-        <translation>Временный сбой авторизации или неверный пароль</translation>
+        <translation type="obsolete">Временный сбой авторизации или неверный пароль</translation>
     </message>
     <message>
-        <location line="+763"/>
+        <location line="+766"/>
         <source>Logged out</source>
         <translation>Отключён</translation>
     </message>
     <message>
-        <location line="+1105"/>
+        <location line="+1093"/>
         <source>Name:	</source>
         <translation>Название:	</translation>
     </message>
@@ -14055,17 +14054,17 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>ОС:	</translation>
     </message>
     <message>
-        <location line="+2411"/>
+        <location line="+2412"/>
         <source>No key</source>
         <translation>Нет ключа</translation>
     </message>
     <message>
-        <location line="-4270"/>
+        <location line="-4259"/>
         <source>None</source>
         <translation>Нет</translation>
     </message>
     <message>
-        <location line="-107"/>
+        <location line="-104"/>
         <source>Policy violation</source>
         <translation>Нарушение правил</translation>
     </message>
@@ -14075,22 +14074,27 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Не прошла аутентификация с прокси-сервером</translation>
     </message>
     <message>
-        <location line="+1943"/>
+        <location line="+69"/>
+        <source>Temporary auth failure</source>
+        <translation>Временный сбой аутентификации</translation>
+    </message>
+    <message>
+        <location line="+1859"/>
         <source>Version Query Information</source>
         <translation>Информация запроса версии</translation>
     </message>
     <message>
-        <location line="+2421"/>
+        <location line="+2422"/>
         <source>Public Key: %1</source>
         <translation>Публичный ключ: %1</translation>
     </message>
     <message>
-        <location line="-4299"/>
+        <location line="-4287"/>
         <source>SASL mechanism too weak for this account</source>
         <translation>Механизм SASL слишком слаб для этого аккаунта</translation>
     </message>
     <message>
-        <location line="-44"/>
+        <location line="-42"/>
         <source>See other host: %1</source>
         <translation>См. другой сервер: %1</translation>
     </message>
@@ -14106,17 +14110,17 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <location line="-108"/>
-        <location line="+252"/>
+        <location line="+249"/>
         <source>Server Error</source>
         <translation>Ошибка сервера</translation>
     </message>
     <message>
-        <location line="-114"/>
+        <location line="-112"/>
         <source>Server failed mutual authentication</source>
         <translation>Сервер не прошёл взаимную аутентификацию</translation>
     </message>
     <message>
-        <location line="-70"/>
+        <location line="-69"/>
         <source>Server is shutting down</source>
         <translation>Сервер был остановлен</translation>
     </message>
@@ -14153,21 +14157,21 @@ Do you want to log out ?</source>
         <translation>Сервер не поддерживает шифрование TLS.</translation>
     </message>
     <message>
-        <location line="+258"/>
+        <location line="+255"/>
         <source>There was an error communicating with the server.
 Details: %1</source>
         <translation>Ошибка обмена данными с сервером.
 Подробности: %1</translation>
     </message>
     <message>
-        <location line="+3754"/>
+        <location line="+3743"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
         <translation>Произошла ошибка установки вашего состояния.
 Причина: %1.</translation>
     </message>
     <message>
-        <location line="-3953"/>
+        <location line="-3939"/>
         <source>Timed out from inactivity</source>
         <translation>Таймаут из-за неактивности</translation>
     </message>
@@ -14207,12 +14211,12 @@ Reason: %1.</source>
         <translation>Ошибка потока XMPP: %1</translation>
     </message>
     <message>
-        <location line="+1274"/>
+        <location line="+1259"/>
         <source>You must be connected to the server in order to do this.</source>
         <translation>Для выполнения операции необходимо сначала подключиться к серверу.</translation>
     </message>
     <message>
-        <location line="-1654"/>
+        <location line="-1639"/>
         <source>Encryption Error</source>
         <translation>Ошибка шифрования</translation>
     </message>
@@ -14461,7 +14465,18 @@ Reason: %1.</source>
         <translation>Показать файл с инструкциями</translation>
     </message>
     <message>
-        <location line="+20"/>
+        <location line="+14"/>
+        <location line="+1"/>
+        <source>Psi+ Forum (Online)</source>
+        <translation>Форум Psi+</translation>
+    </message>
+    <message>
+        <location line="-1"/>
+        <source>Psi+ &amp;Forum (Online)</source>
+        <translation>&amp;Форум Psi+</translation>
+    </message>
+    <message>
+        <location line="+6"/>
         <location line="+1"/>
         <source>Check for Updates...</source>
         <translation>Проверка обновлений...</translation>
@@ -14744,21 +14759,18 @@ Reason: %1.</source>
         <translation>&amp;Консоль XML</translation>
     </message>
     <message>
-        <location line="+171"/>
-        <location line="+1"/>
         <source>Psi Forum (Online)</source>
-        <translation>Форум Psi</translation>
+        <translation type="obsolete">Форум Psi</translation>
     </message>
     <message>
-        <location line="-1"/>
         <source>Psi &amp;Forum (Online)</source>
-        <translation>&amp;Форум Psi</translation>
+        <translation type="obsolete">&amp;Форум Psi</translation>
     </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
     <message>
-        <location filename="../src/psichatdlg.cpp" line="+261"/>
+        <location filename="../src/psichatdlg.cpp" line="+266"/>
         <source>Input command...</source>
         <translation>Введите команду...</translation>
     </message>
@@ -14768,7 +14780,7 @@ Reason: %1.</source>
         <translation>Панель поиска</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+5"/>
         <source>Clear Chat Window</source>
         <translation>Очистить окно чата</translation>
     </message>
@@ -15000,7 +15012,7 @@ Reason: %1.</source>
 <context>
     <name>PsiCon</name>
     <message>
-        <location filename="../src/psicon.cpp" line="+1859"/>
+        <location filename="../src/psicon.cpp" line="+1861"/>
         <source>Account setup</source>
         <translation>Настройки аккаунта</translation>
     </message>
@@ -15010,10 +15022,10 @@ Reason: %1.</source>
         <translation>Компьютер вошёл в спящий режим</translation>
     </message>
     <message>
-        <location line="-1333"/>
+        <location line="-1335"/>
         <location line="+11"/>
         <location line="+355"/>
-        <location line="+448"/>
+        <location line="+450"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -15028,7 +15040,7 @@ Reason: %1.</source>
         <translation>Информация</translation>
     </message>
     <message>
-        <location line="-893"/>
+        <location line="-895"/>
         <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
         <translation>Невозможно загрузить тему!  Пожалуйста, проверьте, что Psi+ правильно установлена.</translation>
     </message>
@@ -15063,7 +15075,7 @@ Reason: %1.</source>
         <translation>&amp;Отключиться</translation>
     </message>
     <message>
-        <location line="+819"/>
+        <location line="+821"/>
         <source>Call ended</source>
         <translation>Вызов завершён</translation>
     </message>
@@ -15090,12 +15102,12 @@ This may mean you are already running another instance of Psi. You may experienc
 Скорее всего, у вас запущена другая копия Psi. Это приведёт к проблемам передачи и приёма файлов.</translation>
     </message>
     <message>
-        <location line="-1326"/>
+        <location line="-1328"/>
         <source>Unable to load iconset!  Please make sure Psi is properly installed.</source>
         <translation>Невозможно загрузить набор иконок! Проверьте установку Psi.</translation>
     </message>
     <message>
-        <location line="+1368"/>
+        <location line="+1370"/>
         <source>Use existing account</source>
         <translation>Использовать существующий</translation>
     </message>
@@ -15135,12 +15147,12 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../src/userlist.cpp" line="+655"/>
+        <location filename="../src/userlist.cpp" line="+665"/>
         <source>Hidden</source>
         <translation>Скрытые</translation>
     </message>
     <message>
-        <location line="+344"/>
+        <location line="+345"/>
         <source>Choose an image</source>
         <translation>Выберите изображение</translation>
     </message>
@@ -15153,7 +15165,7 @@ This may mean you are already running another instance of Psi. You may experienc
 <context>
     <name>PsiContactListViewDelegate</name>
     <message>
-        <location filename="../src/psicontactlistviewdelegate.cpp" line="+291"/>
+        <location filename="../src/psicontactlistviewdelegate.cpp" line="+266"/>
         <source>%1 (%2)</source>
         <translation></translation>
     </message>
@@ -15866,7 +15878,7 @@ Proceed?</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="+726"/>
+        <location filename="../src/groupchatdlg.cpp" line="+732"/>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
         <translation>Предупреждение: команда %1 не рекомендуется и будет удалена в будущем</translation>
     </message>
@@ -16011,13 +16023,13 @@ Proceed?</source>
         <translation>Автоматически открывать новые сообщения</translation>
     </message>
     <message>
-        <location line="+55"/>
+        <location line="+56"/>
         <source>Leave All Conferences</source>
         <translation>Выйти из всех конференций</translation>
     </message>
     <message>
         <location filename="../src/common.cpp" line="+174"/>
-        <location filename="../src/rc.cpp" line="-179"/>
+        <location filename="../src/rc.cpp" line="-180"/>
         <source>Away</source>
         <translation>Отсутствую</translation>
     </message>
