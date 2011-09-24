@@ -204,7 +204,7 @@ Copyright © 2001-2011 The Psi Team.&lt;br&gt;
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt; и здесь: &lt;a href=&quot;http://psi-ru.googlecode.com/svn/branches/psi-plus/&quot;&gt;svn&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 21.06.2011</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/&quot;&gt;GoogleCode&lt;/a&gt; и здесь: &lt;a href=&quot;https://github.com/ivan101/psi-plus-ru&quot;&gt;GitHub&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 24.09.2011</translation>
     </message>
     <message>
         <location line="-49"/>
@@ -1418,7 +1418,11 @@ To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;Jabber&lt;/span&gt; user, simply fill out the Jabber ID (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-Jabber&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get Jabber ID&lt;/span&gt; button to generate a Jabber ID for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Чтобы добавить &lt;span style=&quot; font-weight:600;&quot;&gt;Jabber&lt;/span&gt;-контакт, просто впишите его Jabber ID (дополнительно можно указать ник и группу) и нажмите кнопку &lt;span style=&quot; font-style:italic;&quot;&gt;Добавить&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;Чтобы добавить контакт &lt;span style=&quot; font-weight:600;&quot;&gt;не из сети Jabber&lt;/span&gt;, убедитесь, что вы зарегистрировались в соответствующем сервисе  (см. Меню - Обзор сервисов), затем выберите нужный сервис в списке вверху. Следуйте инструкциям &lt;span style=&quot; font-style:italic;&quot;&gt;Транслятора Service ID&lt;/span&gt;, затем нажмите на кнопку &lt;span style=&quot; font-style:italic;&quot;&gt;Получить Jabber ID&lt;/span&gt; для получения Jabber ID в правильном виде и нажмите кнопку &lt;span style=&quot; font-style:italic;&quot;&gt;Добавить&lt;/span&gt;.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+38"/>
@@ -1909,22 +1913,22 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location line="+55"/>
         <source>Import bookmarks from file</source>
-        <translation type="unfinished"></translation>
+        <translation>Импортировать закладки из файла</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Import</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Импорт</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Export bookmarks to file</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспортировать закладки в файл</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Export</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Экспорт</translation>
     </message>
     <message>
         <location line="-94"/>
@@ -1947,17 +1951,17 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location line="+175"/>
         <source>Import bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Импорт закладок</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Error!</source>
-        <translation type="unfinished">Ошибка!</translation>
+        <translation>Ошибка!</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Export bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт закладок</translation>
     </message>
     <message>
         <location line="-210"/>
@@ -3240,7 +3244,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location line="+3"/>
         <source>Hidden</source>
-        <translation type="unfinished">Скрытые</translation>
+        <translation>Скрытые</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -4050,7 +4054,7 @@ Proceed?</source>
     <message>
         <location line="+76"/>
         <source>Filter by JID:</source>
-        <translation type="unfinished"></translation>
+        <translation>Фильтр по JID:</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -4194,12 +4198,12 @@ Proceed?</source>
     <message>
         <location line="+3"/>
         <source>Unregister</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить регистрацию</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>&amp;Unregister</source>
-        <translation type="unfinished"></translation>
+        <translation>О&amp;тменить регистрацию</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -4937,7 +4941,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location line="+1"/>
         <source>Misc</source>
-        <translation type="unfinished">Разное</translation>
+        <translation>Разное</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -4962,122 +4966,122 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location line="+1"/>
         <source>Scaled message icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштабировать иконки в чате</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Default JID mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Вид JID по умолчанию:</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="unfinished"></translation>
+        <translation>Первую букву в предложении делать заглавной</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Automatically scroll down the log when a message was sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Автопрокрутка лога сообщений после отправки</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Show status priority</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать приоритет статусного сообщения</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Chat window caption:</source>
-        <translation type="unfinished"></translation>
+        <translation>Заголовок окна чата:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Default JID mode ignore list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Игнор-лист вида JID по умолчанию:</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Общие</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Show initial joins</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать изначально вошедших</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show status with priority</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать статусное сообщение вместе с приоритетом</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show roles and affiliations changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать смену ролей и рангов</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Automatically accept the default room configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматически принимать конфигурацию комнаты по умолчанию</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Automatically accept the default room configuration when a new room is created</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматически принимать конфигурацию комнаты по умолчанию при создании новой комнаты</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Automatically open the configuration dialog when a new room is created</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматически открывать окно конфигурации комнаты при создании новой комнаты</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>MUC leave status message:</source>
-        <translation type="unfinished"></translation>
+        <translation>Статусное сообщение при выходе из конференции:</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Show groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать группы</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use slim group heading</source>
-        <translation type="unfinished"></translation>
+        <translation>Узкие заголовки группы</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Show affiliation icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать иконки рангов</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show client icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать иконки клиентов</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Show avatars</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать аватары</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Avatars size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер аватара:</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Avatars radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Радиус углов:</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Automatically remove temporary contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматически удалять временные контакты</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>Enable single messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить одиночные сообщения</translation>
     </message>
     <message>
         <location line="+152"/>
@@ -5457,17 +5461,17 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location line="+16"/>
         <source>Enable windows flashing</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить мигание окон</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enable &quot;Single Account&quot; mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить режим &quot;одного аккаунта&quot;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enable XML-console on login</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить консоль XML при входе</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -6141,7 +6145,7 @@ Reason: %3</source>
     <message>
         <location line="+7"/>
         <source>Copy MUC JID</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать MUC JID</translation>
     </message>
     <message>
         <location line="+275"/>
@@ -6173,7 +6177,7 @@ Reason: %1</source>
     <message>
         <location line="+31"/>
         <source> (Reason: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Причина: %1)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -6539,7 +6543,7 @@ Reason: %1</source>
     <message>
         <location line="+244"/>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished">В&amp;ыполнить команду</translation>
+        <translation>В&amp;ыполнить команду</translation>
     </message>
     <message>
         <location line="+72"/>
@@ -6777,7 +6781,7 @@ You lost the game.</source>
     <message>
         <location filename="../src/plugins/generic/gomokugameplugin/gamemodel.cpp" line="+256"/>
         <source>The first turn can be only H8.</source>
-        <translation type="unfinished">Первым ходом может быть только H8.</translation>
+        <translation>Первым ходом может быть только H8.</translation>
     </message>
 </context>
 <context>
@@ -6789,7 +6793,7 @@ You lost the game.</source>
     <message>
         <location filename="../src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="+95"/>
         <source>%1: Invitation from %2</source>
-        <translation type="unfinished">%1: Приглашение от %2</translation>
+        <translation>%1: Приглашение от %2</translation>
     </message>
     <message>
         <location line="+110"/>
@@ -7191,7 +7195,7 @@ You lost the game.</source>
     <message>
         <location line="+263"/>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;mail.google.com - входящая почта!&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -8399,12 +8403,12 @@ Reason: %1</source>
     <message>
         <location line="-203"/>
         <source>Edit names</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить имена</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>View names</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр имён</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -8421,7 +8425,7 @@ Reason: %1</source>
         <location line="+6"/>
         <location line="+1"/>
         <source>Edit birthday</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить дату рождения</translation>
     </message>
     <message>
         <location line="+74"/>
@@ -9028,12 +9032,12 @@ caching avatars will be not available</source>
     <message>
         <location line="-136"/>
         <source>JID</source>
-        <translation type="unfinished">JID</translation>
+        <translation>JID</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Reason</source>
-        <translation type="unfinished"></translation>
+        <translation>Причина</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -12790,12 +12794,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location line="-192"/>
         <source>Deny iq version</source>
-        <translation type="unfinished"></translation>
+        <translation>Запретить запрос версии</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Deny iq time request</source>
-        <translation type="unfinished"></translation>
+        <translation>Запретить запрос времени</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -13344,19 +13348,19 @@ Please enter your passphrase below:</source>
     <message>
         <location line="-322"/>
         <source>You</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Opp</source>
         <comment>Opponent</comment>
-        <translation type="unfinished"></translation>
+        <translation>Опп</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1: %2 - swch</source>
         <comment>Switch color</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2 - цвет</translation>
     </message>
     <message>
         <location line="+72"/>
@@ -13373,7 +13377,7 @@ Please enter your passphrase below:</source>
     <message>
         <location line="-58"/>
         <source>You really want to begin loaded game?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы действительно хотите загрузить игру?</translation>
     </message>
     <message>
         <source>You: </source>
@@ -13531,7 +13535,7 @@ Please enter your passphrase below:</source>
     <message>
         <location line="+66"/>
         <source>Rename List</source>
-        <translation type="unfinished"></translation>
+        <translation>Переименовать список</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -13605,12 +13609,12 @@ Please enter your passphrase below:</source>
     <message>
         <location line="+28"/>
         <source>Rename List</source>
-        <translation type="unfinished"></translation>
+        <translation>Переименование списка</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Input new name</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите новое имя</translation>
     </message>
     <message>
         <location line="-33"/>
@@ -14380,12 +14384,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location line="+1294"/>
         <source>Unregister from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена регистрации на %1</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Are you sure?</source>
-        <translation type="unfinished">Вы уверены?</translation>
+        <translation>Вы уверены?</translation>
     </message>
     <message>
         <location line="+582"/>
@@ -14646,12 +14650,12 @@ Reason: %1.</source>
     <message>
         <location line="+49"/>
         <source>Active contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Активные контакты</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Simple way to find contacts with opened chats</source>
-        <translation type="unfinished"></translation>
+        <translation>Простой способ найти контакты с открытыми чатами</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -15171,7 +15175,7 @@ Reason: %1.</source>
     <message>
         <location line="+3"/>
         <source>Active contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Активные контакты</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -15202,7 +15206,7 @@ Reason: %1.</source>
     <message>
         <location line="+179"/>
         <source>Contact has been switched: %1</source>
-        <translation type="unfinished">Переключение: %1</translation>
+        <translation>Переключение: %1</translation>
     </message>
     <message>
         <location line="+154"/>
@@ -15703,7 +15707,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location line="-461"/>
         <source>Always Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображать всегда</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -16060,7 +16064,7 @@ Would you like to activate that session now?</source>
     <message>
         <location line="+5"/>
         <source>Advanced</source>
-        <translation type="unfinished">Дополнительно</translation>
+        <translation>Дополнительно</translation>
     </message>
     <message>
         <location line="+88"/>
@@ -18151,7 +18155,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location line="-258"/>
         <source>Size: %1x%2px; %3 bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер: %1x%2px; %3 байт</translation>
     </message>
     <message>
         <location line="+260"/>
@@ -20626,7 +20630,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <message>
         <location line="+24"/>
         <source>Open mail in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть почту в браузере</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -20636,27 +20640,27 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <message>
         <location line="+10"/>
         <source>Previous</source>
-        <translation type="unfinished">Предыдущий</translation>
+        <translation>Предыдущее</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Next</source>
-        <translation type="unfinished">Следующий</translation>
+        <translation>Следующее</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Close</source>
-        <translation type="unfinished">Закрыть</translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Закрыть</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/gmailserviceplugin/viewmaildlg.cpp" line="+59"/>
         <source>[%1/%2] E-Mail</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1/%2] E-Mail</translation>
     </message>
     <message>
         <location line="+65"/>
