@@ -1,0 +1,8 @@
+commit*
+*.bak
+*.zip
+*.qm
+.DS_Store
+*копия*
+*copy*
+*orig*
