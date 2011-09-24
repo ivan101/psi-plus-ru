@@ -4183,7 +4183,7 @@ Proceed?</source>
     <message>
         <location line="+0"/>
         <source>&amp;Refresh Item</source>
-        <translation>&amp;Обновить элемент</translation>
+        <translation>О&amp;бновить элемент</translation>
     </message>
     <message>
         <location line="+12"/>
