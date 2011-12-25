@@ -204,7 +204,7 @@ Copyright © 2001-2011 The Psi Team.&lt;br&gt;
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/&quot;&gt;GoogleCode&lt;/a&gt; и здесь: &lt;a href=&quot;https://github.com/ivan101/psi-plus-ru&quot;&gt;GitHub&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 24.09.2011</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/&quot;&gt;GoogleCode&lt;/a&gt; и здесь: &lt;a href=&quot;https://github.com/ivan101/psi-plus-ru&quot;&gt;GitHub&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 25.12.2011 Beta</translation>
     </message>
     <message>
         <location line="-49"/>
@@ -2677,7 +2677,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../src/plugins/generic/cleanerplugin/cleaner.ui" line="+20"/>
         <source>Psi+ Cleaner</source>
-        <translation type="unfinished"></translation>
+        <translation>Чистильщик Psi+</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -2826,12 +2826,12 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location line="+36"/>
         <source>Choose profile</source>
-        <translation type="unfinished">Выбрать профиль</translation>
+        <translation>Выбрать профиль</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Profile:</source>
-        <translation type="unfinished">Профиль:</translation>
+        <translation>Профиль:</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -7077,22 +7077,22 @@ You lost the game.</source>
     <message>
         <location filename="../src/plugins/generic/yandexnarodplugin/yandexnarodnetman.cpp" line="+53"/>
         <source>Set Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Установка пароля</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Password:</source>
-        <translation type="unfinished">Пароль:</translation>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Confirm password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Подтверждение пароля:</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Password does not match</source>
-        <translation type="unfinished"></translation>
+        <translation>Пароли не совпадают</translation>
     </message>
 </context>
 <context>
@@ -7166,7 +7166,7 @@ You lost the game.</source>
     <message>
         <location line="+101"/>
         <source>Attributes for contact %1 are changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Атрибуты для контакта%1 изменены</translation>
     </message>
     <message>
         <location line="+210"/>
@@ -7186,7 +7186,7 @@ You lost the game.</source>
     <message>
         <location line="+11"/>
         <source>Block gmail contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Заблокировать gmail контакт</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -7206,12 +7206,12 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <message>
         <location filename="../src/plugins/generic/gnome3supportplugin/gnome3supportplugin.cpp" line="+138"/>
         <source>Authors: </source>
-        <translation type="unfinished">Авторы: </translation>
+        <translation>Авторы: </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот плагин добавляет поддержку статусного меню GNOME 3</translation>
     </message>
 </context>
 <context>
@@ -11765,42 +11765,43 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../src/plugins/generic/yandexnarodplugin/options.cpp" line="+137"/>
         <source>Authorizing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторизация...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Authorizing OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторизация ОК</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Authorization failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторизация не прошла</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Canceled</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>wtf??</translatorcomment>
+        <translation>Отменена</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Choose file</source>
-        <translation type="unfinished">Выбрать файл</translation>
+        <translation>Выбрать файл</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Uploading</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error! %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка! %1</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Cookies are removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Куки удалены</translation>
     </message>
 </context>
 <context>
@@ -12939,17 +12940,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location line="+9"/>
         <source>Default action</source>
-        <translation type="unfinished">Действие по умолчанию</translation>
+        <translation>Действие по умолчанию</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Capture the desktop</source>
-        <translation type="unfinished">Захватить рабочий стол</translation>
+        <translation>Захватить рабочий стол</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Select capture area</source>
-        <translation type="unfinished">Выбрать зону захвата</translation>
+        <translation>Выбрать зону захвата</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -12959,7 +12960,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location line="+55"/>
         <source>*to specify the order of servers, use the drag-n-drop </source>
-        <translation type="unfinished"></translation>
+        <translation>*изменить порядок серверов можно перетаскиванием мышью</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -13024,7 +13025,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location line="+10"/>
         <source>Detect full screen applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Обнаружение полноэкранных приложений</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -15225,12 +15226,12 @@ Reason: %1.</source>
     <message>
         <location line="+541"/>
         <source>turn off autojid</source>
-        <translation type="unfinished"></translation>
+        <translation>выключить autojid</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>turn on autojid</source>
-        <translation type="unfinished"></translation>
+        <translation>включить autojid</translation>
     </message>
     <message>
         <source>offline</source>
@@ -17852,7 +17853,7 @@ Description: </source>
     <message>
         <location filename="../src/plugins/generic/otrplugin/src/OtrInternal.cpp" line="+45"/>
         <source>No OTR Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Не OTR сообщение</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -17949,7 +17950,7 @@ The message was not sent.</source>
         <location line="+164"/>
         <location line="+24"/>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi+ OTR</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -17965,7 +17966,7 @@ This may take a while.</source>
     <message>
         <location line="+10"/>
         <source>Ok</source>
-        <translation type="unfinished">Ок</translation>
+        <translation>Ок</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -17997,12 +17998,12 @@ Password: %5</source>
     <message>
         <location line="+5"/>
         <source>Yes</source>
-        <translation type="unfinished">Да</translation>
+        <translation>Да</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>No</source>
-        <translation type="unfinished">Нет</translation>
+        <translation>Нет</translation>
     </message>
 </context>
 <context>
@@ -18390,7 +18391,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location line="+88"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопировать в буфер обмена</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -18566,7 +18567,9 @@ The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</sour
         <source>
 
 Settings for authorization on some hostings can be found here: http://code.google.com/p/qscreenshot/wiki/Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Настройки для авторизации на некоторых хостингах можно найти здесь: http://code.google.com/p/qscreenshot/wiki/Authorization</translation>
     </message>
 </context>
 <context>
@@ -19033,7 +19036,7 @@ Reason: %1</source>
     <message>
         <location line="+1"/>
         <source>Active contacts</source>
-        <translation type="unfinished">Активные контакты</translation>
+        <translation>Активные контакты</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -19043,7 +19046,7 @@ Reason: %1</source>
     <message>
         <location line="+1"/>
         <source>Status Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить статус для группы контактов</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -19093,17 +19096,17 @@ Reason: %1</source>
     <message>
         <location line="+1"/>
         <source>Set Mood</source>
-        <translation type="unfinished">Установить настроение</translation>
+        <translation>Установить настроение</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set Activity</source>
-        <translation type="unfinished">Установить занятие</translation>
+        <translation>Установить занятие</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set Geolocation</source>
-        <translation type="unfinished">Установить геолокацию</translation>
+        <translation>Установить геолокацию</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -19153,7 +19156,7 @@ Reason: %1</source>
     <message>
         <location line="+1"/>
         <source>About PsiMedia</source>
-        <translation type="unfinished"></translation>
+        <translation>О PsiMedia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -19188,12 +19191,12 @@ Reason: %1</source>
     <message>
         <location line="+1"/>
         <source>Find text next</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти следующее</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Find text previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти предыдущее</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -20771,37 +20774,37 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../src/plugins/generic/yandexnarodplugin/uploadmanager.cpp" line="+227"/>
         <source>Getting storage...</source>
-        <translation type="unfinished"></translation>
+        <translation>Получение хранилища...</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Can&apos;t get storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно получить хранилище</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Starting upload...</source>
-        <translation type="unfinished"></translation>
+        <translation>Начинаю загрузку...</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error opening file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка открытия файла!</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Verifying...</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка...</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Uploaded successfully</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка завершена успешно</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Verifying failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка не удалась</translation>
     </message>
 </context>
 <context>
@@ -20826,7 +20829,19 @@ To work with VLC player you need to enable the option &quot;Control Interface D-
 To work with Kaffeine player you must have player version (&gt;= 1.0), additional configuration is not needed; 
 
 To work with GNOME MPlayer additional configuration is not needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Плагин предназначен для установки заданного статуса, когда вы смотрите видео в указанном видеопроигрывателе.
+Плагин работает в операционных системах семейста Linux и Windows.
+
+В Linux используется D-Bus для работы с видео и функции X11 для обнаружения полноэкранных приложений.
+В Windows Плагин использует WinAPI функции для обнаружения полноэкранных приложений.
+
+Для работы с Totem необходимо в самом проигрывателе включить соответствующий плагин (Правка\Модули\Служба D-Bus);
+
+Для работы с VLC необходимо в расширенных настройках проигрывателя во вкладке &quot;Интерфейс\Интерфейсы управления&quot; включить опцию &quot;Интерфейс управления D-Bus&quot;;
+
+Для работы с Kaffeine необходимо иметь плеер версии (&gt;=1.0), дополнительные настройки не требуются;
+
+Для работы с GNOME MPlayer дополнительные настройки не требуются.</translation>
     </message>
     <message>
         <source>This plugin is designed to set the custom status when you see the video in selected video player. 
@@ -22076,7 +22091,7 @@ The contents of the whiteboard will be lost.</source>
     <message>
         <location line="+5"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">О&amp;тмена</translation>
+        <translation>О&amp;тмена</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -22106,7 +22121,7 @@ The contents of the whiteboard will be lost.</source>
     <message>
         <location line="+134"/>
         <source>Account: </source>
-        <translation type="unfinished"></translation>
+        <translation>Аккаунт: </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -22127,7 +22142,7 @@ The contents of the whiteboard will be lost.</source>
         <location line="+2"/>
         <location line="+78"/>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi+ OTR</translation>
     </message>
     <message>
         <location line="-59"/>
@@ -22224,7 +22239,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location line="-125"/>
         <source>Account</source>
-        <translation type="unfinished">Аккаунт</translation>
+        <translation>Аккаунт</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -22255,7 +22270,7 @@ You should authenticate %1 as well by asking your own question.</source>
         <location line="+1"/>
         <location line="+29"/>
         <source>Account: </source>
-        <translation type="unfinished"></translation>
+        <translation>Аккаунт: </translation>
     </message>
     <message>
         <location line="-28"/>
@@ -22273,7 +22288,7 @@ You should authenticate %1 as well by asking your own question.</source>
         <location line="-27"/>
         <location line="+29"/>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi+ OTR</translation>
     </message>
     <message>
         <location line="-5"/>
@@ -22283,7 +22298,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location line="+50"/>
         <source>Delete</source>
-        <translation type="unfinished">Удалить</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -22296,17 +22311,17 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location line="+28"/>
         <source>Generate new key</source>
-        <translation type="unfinished"></translation>
+        <translation>Генерировать новый ключ</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Delete key</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить ключ</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Account</source>
-        <translation type="unfinished">Аккаунт</translation>
+        <translation>Аккаунт</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -22322,7 +22337,7 @@ You should authenticate %1 as well by asking your own question.</source>
         <location line="+1"/>
         <location line="+32"/>
         <source>Account: </source>
-        <translation type="unfinished"></translation>
+        <translation>Аккаунт: </translation>
     </message>
     <message>
         <location line="-31"/>
@@ -22334,7 +22349,7 @@ You should authenticate %1 as well by asking your own question.</source>
         <location line="-30"/>
         <location line="+32"/>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi+ OTR</translation>
     </message>
     <message>
         <location line="-4"/>
@@ -22344,7 +22359,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location line="+52"/>
         <source>Delete</source>
-        <translation type="unfinished">Удалить</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -22368,7 +22383,7 @@ You should authenticate %1 as well by asking your own question.</source>
         <location line="+6"/>
         <location line="+27"/>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi+ OTR</translation>
     </message>
     <message>
         <location line="-5"/>
@@ -22427,7 +22442,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../src/plugins/generic/otrplugin/src/PsiOtrPlugin.cpp" line="+544"/>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi+ OTR</translation>
     </message>
 </context>
 <context>
@@ -22435,27 +22450,27 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../src/plugins/generic/yandexnarodplugin/requestauthdialog.ui" line="+26"/>
         <source>Authorization</source>
-        <translation type="unfinished">Подписка</translation>
+        <translation>Авторизация</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Login:</source>
-        <translation type="unfinished"></translation>
+        <translation>Логин:</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Password:</source>
-        <translation type="unfinished">Пароль:</translation>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Remember</source>
-        <translation type="unfinished"></translation>
+        <translation>Запомнить</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Captcha:</source>
-        <translation type="unfinished"></translation>
+        <translation>Капча:</translation>
     </message>
 </context>
 <context>
@@ -22463,47 +22478,47 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../src/plugins/generic/yandexnarodplugin/uploaddialog.cpp" line="+48"/>
         <source>File: </source>
-        <translation type="unfinished"></translation>
+        <translation>Файл: </translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Progress: </source>
-        <translation type="unfinished"></translation>
+        <translation>Прогресс: </translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Elapsed time: </source>
-        <translation type="unfinished"></translation>
+        <translation>Прошло времени: </translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Speed: </source>
-        <translation type="unfinished"></translation>
+        <translation>Скорость: </translation>
     </message>
     <message>
         <location line="+0"/>
         <source> kb/sec</source>
-        <translation type="unfinished"></translation>
+        <translation>кб/сек</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Upload complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка завершена.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Close</source>
-        <translation type="unfinished">Закрыть</translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ссылка: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -22511,42 +22526,42 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../src/plugins/generic/yandexnarodplugin/uploaddialog.ui" line="+32"/>
         <source>Uploading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Загружается...</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Upload started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка началась.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>File: </source>
-        <translation type="unfinished"></translation>
+        <translation>Файл: </translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Progress:</source>
-        <translation type="unfinished"></translation>
+        <translation>Прогресс:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Elapsed time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Прошло времени:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Скорость:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Link: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ссылка: </translation>
     </message>
     <message>
         <location line="+57"/>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
 </context>
 <context>
@@ -22582,37 +22597,37 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../src/plugins/generic/yandexnarodplugin/yandexnarodmanage.cpp" line="+109"/>
         <source>Yandex.Narod file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Яндекс.Народ файловый менеджер</translation>
     </message>
     <message>
         <location line="+99"/>
         <source>Delete file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить файл(ы)</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure?</source>
-        <translation type="unfinished">Вы уверены?</translation>
+        <translation>Вы уверены?</translation>
     </message>
     <message>
         <location line="+98"/>
         <source>Set password</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить пароль</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Remove password</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить пароль</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Copy URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать ссылку</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Prolongate</source>
-        <translation type="unfinished"></translation>
+        <translation>Продлить</translation>
     </message>
 </context>
 <context>
@@ -22620,68 +22635,69 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../src/plugins/generic/yandexnarodplugin/yandexnarodmanage.ui" line="+20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Get Filelist</source>
-        <translation type="unfinished"></translation>
+        <translation>Получить список файлов</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Upload File</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить файл</translation>
     </message>
     <message>
         <location line="+47"/>
         <source>Actions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Действия:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Copy URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать ссылку</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Prolongate</source>
-        <translation type="unfinished"></translation>
+        <translation>Продлить</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Delete File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить файл(ы)</translation>
     </message>
     <message>
         <location line="+64"/>
         <source>line1
 line2</source>
-        <translation type="unfinished"></translation>
+        <translation>линия1
+линия2</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Files list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Список файлов:</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>New Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый элемент</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Clear Cookies</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить куки</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Open Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть в браузере</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Close</source>
-        <translation type="unfinished">Закрыть</translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
@@ -22689,55 +22705,59 @@ line2</source>
     <message>
         <location filename="../src/plugins/generic/yandexnarodplugin/yandexnarodnetman.cpp" line="+111"/>
         <source>Downloading filelist...</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачивание списка файлов...</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Deleting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Удаление файлов...</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Prolongate files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Продление файлов...</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>Cookies are obsolete!
 Reathorization...</source>
-        <translation type="unfinished"></translation>
+        <translation>Куки устарели!
+Реавторизация...</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Can&apos;t get files!
 Try remove cookies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удаётся получить файлы!
+Попробуйте удалить куки.</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Filelist downloaded
 (%1 files)</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>wtf?? numeric</translatorcomment>
+        <translation>Список фалов скачан
+(%1 файлов)</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>File(s) deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл(ы) удален(ы)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>File(s) prolongated</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл(ы) продлен(ы)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Password is set</source>
-        <translation type="unfinished"></translation>
+        <translation>Пароль установлен</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Password is deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Пароль удалён</translation>
     </message>
 </context>
 <context>
@@ -22745,22 +22765,23 @@ Try remove cookies.</source>
     <message>
         <location filename="../src/plugins/generic/yandexnarodplugin/yandexnarod.cpp" line="+140"/>
         <source>Open Yandex Narod Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть Яндекс.Народ файловый менеджер</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Send file via Yandex Narod</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить файл через Яндекс.Народ</translation>
     </message>
     <message>
         <location line="+64"/>
         <source>File sent to %1</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>todo: fixme</translatorcomment>
+        <translation>Файл отправляется нах %1</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Yandex Narod Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Яндекс.Народ плагин</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -22768,7 +22789,10 @@ Try remove cookies.</source>
 http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Портирован из QutIM Яндекс.Народ плагина
+http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
+
+</translation>
     </message>
 </context>
 <context>
@@ -22776,37 +22800,38 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
     <message>
         <location filename="../src/plugins/generic/yandexnarodplugin/yandexnarodsettings.ui" line="+14"/>
         <source>Settings</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Логин</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Password</source>
-        <translation type="unfinished">Пароль</translation>
+        <translation>Пароль</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>status</source>
-        <translation type="unfinished"></translation>
+        <translation>статус</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Test Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Тест авторизации</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Start Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Запустить файловый менеджер</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Send file template</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>wtf?? Отправить шаблон файлов?</translatorcomment>
+        <translation>Шаблон отправки файлов</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -22815,22 +22840,22 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+17"/>
         <source>%N - file name; %U - file URL; %S - file size</source>
-        <translation type="unfinished"></translation>
+        <translation>%N - имя файла; %U - ссылка на файл; %S - размер файла</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Clear Cookies</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить куки</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
 </context>
 </TS>
