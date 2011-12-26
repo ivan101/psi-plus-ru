@@ -204,7 +204,7 @@ Copyright © 2001-2011 The Psi Team.&lt;br&gt;
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/&quot;&gt;GoogleCode&lt;/a&gt; и здесь: &lt;a href=&quot;https://github.com/ivan101/psi-plus-ru&quot;&gt;GitHub&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 25.12.2011 Beta</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/&quot;&gt;GoogleCode&lt;/a&gt; и здесь: &lt;a href=&quot;https://github.com/ivan101/psi-plus-ru&quot;&gt;GitHub&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 26.12.2011</translation>
     </message>
     <message>
         <location line="-49"/>
@@ -15226,12 +15226,12 @@ Reason: %1.</source>
     <message>
         <location line="+541"/>
         <source>turn off autojid</source>
-        <translation>выключить autojid</translation>
+        <translation>Выключить autojid</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>turn on autojid</source>
-        <translation>включить autojid</translation>
+        <translation>Включить autojid</translation>
     </message>
     <message>
         <source>offline</source>
@@ -22498,7 +22498,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location line="+0"/>
         <source> kb/sec</source>
-        <translation>кб/сек</translation>
+        <translation> кб/сек</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -22640,7 +22640,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location line="+29"/>
         <source>Get Filelist</source>
-        <translation>Получить список файлов</translation>
+        <translation>Получить список</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -22692,7 +22692,7 @@ line2</source>
     <message>
         <location line="+11"/>
         <source>Open Browser</source>
-        <translation>Открыть в браузере</translation>
+        <translation>В браузер</translation>
     </message>
     <message>
         <location line="+26"/>
@@ -22736,7 +22736,7 @@ Try remove cookies.</source>
         <source>Filelist downloaded
 (%1 files)</source>
         <translatorcomment>wtf?? numeric</translatorcomment>
-        <translation>Список фалов скачан
+        <translation>Список файлов скачан
 (%1 файлов)</translation>
     </message>
     <message>
@@ -22775,8 +22775,7 @@ Try remove cookies.</source>
     <message>
         <location line="+64"/>
         <source>File sent to %1</source>
-        <translatorcomment>todo: fixme</translatorcomment>
-        <translation>Файл отправляется нах %1</translation>
+        <translation>Ссылка на файл отправлена %1</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -22830,8 +22829,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
     <message>
         <location line="+7"/>
         <source>Send file template</source>
-        <translatorcomment>wtf?? Отправить шаблон файлов?</translatorcomment>
-        <translation>Шаблон отправки файлов</translation>
+        <translation>Шаблон сообщения получателю</translation>
     </message>
     <message>
         <location line="+7"/>
